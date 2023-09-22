@@ -6864,7 +6864,8 @@
             "uid": "74cb7855-73cd-4c9d-85cc-556d3719d822",
             "discs": [
               "https://archive.org/download/chd_psx/CHD-PSX-USA/Resident%20Evil%20-%20Director%27s%20Cut%20-%20Dual%20Shock%20Ver.%20%28USA%29.chd"
-            ]
+            ],
+            "analog": true
           },
           "type": "psx",
           "title": "Resident Evil - Director's Cut - Dual Shock Ver.",
@@ -7291,6 +7292,341 @@
           "backgroundPixelated": true,
           "added": 1693359507521,
           "longTitle": "Yu-Gi-Oh! Forbidden Memories"
+        },
+        {
+          "props": {
+            "discs": [],
+            "uid": "5745c306-bee0-401f-b941-68dab124b006"
+          },
+          "type": "psx",
+          "title": "Syphon Filter",
+          "description": "Gabriel Logan, one of the government's top covert agents, must neutralize the terrorists that threaten Washington D.C. and destroy a biological weapon that has been built to end the lives of millions of innocent people. \n\nSyphon Filter is an action game played from the 3rd person. Players take the role of Gabiel Logan as well as other CBDC agents. \nTo successfully complete the mission, players must utilize each of the character's skills accordingly. Logan is able to kneel, crouch, walk, roll, climb, jump and run to meet his objectives.\n\nThe action unfolds over thirteen missions that are chock full of dangers, hazards and puzzles.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Syphon%20Filter%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Syphon%20Filter%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1695424960537,
+          "longTitle": "Syphon Filter"
+        },
+        {
+          "props": {
+            "uid": "2ad71199-7531-4389-ad2c-fcbdbbb22a6a",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Syphon%20Filter%202%20%28USA%29%20%28Disc%201%29.chd",
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Syphon%20Filter%202%20%28USA%29%20%28Disc%202%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Syphon Filter 2",
+          "description": "The sequel to the previous year's Syphon Filter, Syphon Filter 2 adds new features such as a two player mode, new locations, new weapons, and more.\n\nThe game compares to Goldeneye on the N64.\nIt's a shooter, but you must also use strategy.  You have a health meter, so it's not a \"one shot and you're dead\" type of game. You must complete missions, or battle it out in a deathmatch with your friends, or enemies.\n\nThe plot is about you having to prevent the sale of the Syphon Filter virus to a terrorist nation.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Syphon%20Filter%202%20(Europe)%20(Disc%201).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Syphon%20Filter%202%20(Europe)%20(Disc%201).png",
+          "backgroundPixelated": true,
+          "longTitle": "Syphon Filter 2",
+          "added": 1695425018179
+        },
+        {
+          "props": {
+            "uid": "b243a46a-11a4-4edd-96fa-28699155811d",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Syphon%20Filter%203%20%28USA%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Syphon Filter 3",
+          "description": "Gabe and Lian are back -- however, this time, \"The Agency\" has put Lian and Gabe on trial for crimes they did not commit while they secretly plot to distribute Syphon Filter, a deadly virus, throughout the population.  And with Gabe and Lian on trial, there would be no one to stop them...\n\nThe game now includes mini-missions that allow you to sharpen your skills.  The basic mini-mission simply takes a map, drops you in, tosses in some enemies and weapons and lets you do the rest.  There is also an improved multiplayer element and tons of new weapons, including an X-Ray sniper rifle and an explosive shotgun.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Syphon%20Filter%203%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Syphon%20Filter%203%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Syphon Filter 3",
+          "added": 1695425055680
+        },
+        {
+          "props": {
+            "uid": "98f0f812-4c34-4f20-8dca-63d1902f0432",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Tomb%20Raider%20%28USA%29%20%28Rev%206%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Tomb Raider",
+          "description": "Lara Croft is a Tomb Raider, an archaeologist who explores ancient sites in search of valuable artifacts.  In the game, Lara Croft is hired to retrieve an artifact from a tomb in Peru, which turns out to be one of three parts of the Atlantean Scion.  Soon betrayed by her employer, Lara Croft travels to Greece, Rome and Egypt to recover the other parts before this powerful device falls into the wrong hands.\n\nTomb Raider is a 3D action/adventure game in which players control Lara Croft from a third person perspective.  The camera follows Lara as she climbs, jumps, and swims through detailed environs overcoming environmental obstacles and deadly fauna.  Moving through levels often involves finding spots where Lara can climb, looking for spots where Lara can use her acrobatic ability, and sliding blocks and pushing levers to solve puzzles and open passageways.\n\nLara is armed with, now trademark, twin pistols with infinite ammunition, but she can pick up higher caliber weapons to take on deadlier human opponents.  Lara also comes across restorative health packs and has a compass with which she can orient herself.  Lara�s opponents include animals, gunmen, as well as primeval and supernatural beings.  Careful explorers can also find secret areas and avoid traps.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Tomb Raider",
+          "added": 1695425133542
+        },
+        {
+          "props": {
+            "uid": "ed413a48-c89f-4280-ae3e-0906b63a6d6d",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Tomb%20Raider%20II%20-%20Starring%20Lara%20Croft%20%28USA%29%20%28Rev%203%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Tomb Raider II: Starring Lara Croft",
+          "description": "In part 2 of the Tomb Raider series Lara Croft searches for the dagger of Xian. Her travel starts at the chinese wall and continues over various places on earth. But she is not alone, for there are other ones who also want the dagger. Not many new features, Lara can do some new moves, drive various vehicles and use new weapons. The game now also supports 3D graphic cards.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20II%20-%20Starring%20Lara%20Croft%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20II%20-%20Starring%20Lara%20Croft%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Tomb Raider II: Starring Lara Croft",
+          "added": 1695425180370
+        },
+        {
+          "props": {
+            "uid": "b55b38d1-4fc9-4e32-98bb-4271cdb1f1fb",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Tomb%20Raider%20III%20-%20Adventures%20of%20Lara%20Croft%20%28USA%29%20%28Rev%202%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Tomb Raider III: Adventures of Lara Croft",
+          "description": "Past, present, everytime plays its role, and today Lara plays hers. Deadly and beautiful as ever, she'll give you the adventure of all times. Be careful about each level, 'cuz this time end can be reached on many paths, so be sure to check the right one, and not miss the great adventure. Third installment of a series gently follows its predecessors with no much differences in anything whatsoever, but that won't stop Lara Croft fans to enjoy for the third time as well.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20III%20-%20Adventures%20of%20Lara%20Croft%20(Asia)%20(Disc%201)%20(Japanese%20Version).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20III%20-%20Adventures%20of%20Lara%20Croft%20(Asia)%20(Disc%201)%20(Japanese%20Version).png",
+          "backgroundPixelated": true,
+          "longTitle": "Tomb Raider III: Adventures of Lara Croft",
+          "added": 1695425209363
+        },
+        {
+          "props": {
+            "uid": "33ee227f-2e22-458f-9eb6-ee412de17ade",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Tomb%20Raider%20Chronicles%20%28USA%29%20%28Rev%201%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Tomb Raider Chronicles",
+          "description": "Just when the world had come to agree that Lara is finally a thing of the past, along comes a new collection of levels for our lovely Lara Croft to tackle. Each of the four chapters center around a different area of Lara's past, from the very start of her life (as a teen raider!!) to just before her death. Chronicles also includes a level editor, allowing the player to create new Tombs for Lara to raid.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20Chronicles%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20Chronicles%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Tomb Raider Chronicles",
+          "added": 1695425277542
+        },
+        {
+          "props": {
+            "uid": "35de93d0-6233-4dfd-b395-ea1cd3023780",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Tomb%20Raider%20-%20The%20Last%20Revelation%20%28USA%29%20%28Rev%201%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Tomb Raider: The Last Revelation",
+          "description": "According to Egyptian legend, the Egyption god Horus outwitted the evil god Set and imprisoned him in a secret tomb...\n\nFive thousand years later, Lara Croft discovers the lost tomb and unwittingly unleashes the evil god Set, fulfilling the ancient prophecy of his return to plunge mankind into darkness! In a race against time, Lara must use all of her wit and skill to reimprison Set and save the world from Armageddon. Pursued at every turn by her arch-rival, the unscrupulous archaeologist Werner Von Croy, Lara embarks on a journey of discovery across Egypt, where she must overcome the most ingenious puzzles and infernal traps ever devised, and face terrifying evil from beyond the grave...",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20-%20The%20Last%20Revelation%20(Europe%2C%20Australia).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20-%20The%20Last%20Revelation%20(Europe%2C%20Australia).png",
+          "backgroundPixelated": true,
+          "longTitle": "Tomb Raider: The Last Revelation",
+          "added": 1695425389161
+        },
+        {
+          "props": {
+            "uid": "6eecd56f-ff3d-46d6-b416-4997f5eeea31",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Ape%20Escape%20%28USA%29.chd"
+            ],
+            "analog": true
+          },
+          "type": "psx",
+          "title": "Ape Escape",
+          "description": "Specter, a popular attraction at the amusement park, has been transformed from a mild-mannered monkey into a scheming simian through the powers of the intelligence boosting Peak Point Helmet. Now he and his monkey army have taken over the Professor's time machine in order to to travel back in time and replace human civilization with a simian society. There's just one catch: Spike was caught in the time machine as well, and has been pulled back into the past with them. With the help of the Professor's numerous gadgets Spike will travel through prehistoric lands and capture Specter's army to prevent his evil scheme.\n\nBecause of the game's requirement of a Dual Shock controller, all of Spike's items are controlled through the right stick. Examples include a stun stick that can be slashed in any direction or spun in a circle, an RC Car that can drive alongside Spike as he runs, and a helicopter blade that can be spun rapidly to lift Spike or slow his descent. The goal in every level is to capture enough of Specter's monkeys to diminish their effect on history. Each monkey has different stats and personalities. Some will barely pay attention to you and will prefer to goof off or sleep, while others will attack you with machine guns, rocket launchers, and UFOs. Weapons will only stun a monkey, and they must be captured using the Time Net.\n\nFinding every monkey in a level will unlock a time attack mode for the level, and collecting Specter Coins hidden in levels will unlock bonus games like boxing and skiing that use the dual stick controls.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Ape%20Escape%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Ape%20Escape%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Ape Escape",
+          "added": 1695425459294
+        },
+        {
+          "props": {
+            "uid": "9f9d8f24-88b3-4d06-bed8-a56adc7e1ad1",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Disney%27s%20Hercules%20Action%20Game%20%28USA%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Disney's Hercules Action Game",
+          "description": "The game is based on Disney's animated cartoon movie. You take control of Hercules, son of the god Zeus and a mortal woman, the strongest man in the world and the legendary hero in the Greek mythology. Your goal is to prove yourself worthy of being admitted to Mount Olympus, the residence of gods, and to become a god yourself. You must commit heroic deeds and overcome various obstacles to show your strength and courage. Hades, the overlord of the dead, is making it even more difficult for you by sending fearsome Titans to stop you.\n\nThis is a 2D platform action game. Hercules can jump, grab ledges, swing on poles, and jump while running. He has a variety of attack moves at his disposal. He can execute a basic attack with his sword, or pull out different combo attacks. He can also Power Punch enemies, but he needs time to charge for this powerful attack. He can even slam the ground to reveal secret areas by performing a certain move while jumping. There are also different power-ups to collect, such as coins to grant bonus points at the end of the level, Hercules Action Figures to increase your hero rating, and upgrades to your sword - Sonic, Lightning, and Fireball swords.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney's%20Hercules%20Action%20Game%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney's%20Hercules%20Action%20Game%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Disney's Hercules Action Game",
+          "added": 1695425690775
+        },
+        {
+          "props": {
+            "uid": "39ef5e65-3afb-45e7-8e69-3301b5d0d1bf",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Driver%20-%20You%20Are%20the%20Wheelman%20%28USA%29%20%28Rev%201%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Driver",
+          "description": "As Tanner, you're going undercover to be the wheelman for a crime syndicate in order to break open a big case. On the way, you'll eliminate competition, drive getaway cars, scare some people silly, evade plenty of police, dodge bad guys, smash through a few windows, save your love interest, and much more through four cities (Miami, San Francisco, Los Angeles, and New York). \n\nPerform authentic manuevers like donuts, 180 spin, 360 spin, reverse 180 spin, and more as you cut through alley ways, across sidewalks and parks, smash park benches and and drive over traffic cones. Many different cars to try (most you'll recognize). Will you save the day? \n\nAlso includes pratice modes such as Practice, Carnage (cause as much damage as you can), Dirt Track (time trials), Pursuit (you chase someone), Survival (4 super cops chase you), Lose the Cop (avoid that one cop on your back), and Drive About (just drive about the city and admire the scenery). \n\nGame also includes a full director's mode, allowing you to place cameras to catch the best moments in the custom replay file.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Driver%20-%20You%20Are%20the%20Wheelman%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Driver%20-%20You%20Are%20the%20Wheelman%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Driver: You Are the Wheelman",
+          "added": 1695425761907
+        },
+        {
+          "props": {
+            "uid": "c4efb096-26ea-4a37-b1f2-5b085affe4cc",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Driver%202%20%28USA%29%20%28Disc%201%29%20%28Rev%201%29.chd",
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Driver%202%20%28USA%29%20%28Disc%202%29%20%28Rev%201%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Driver 2",
+          "description": "You are an undercover driver, trying to survive amidst an international war between American and Brazilian gangs. The action takes you to Chicago, Las Vegas, Rio and Havana, all of which are depicted in detail, with curved roads added from the first game.\n\nAs before, you have full control over the car as it storms around the streets. A new feature is the ability to get out of the car, and carjack others. This is especially useful when you have fallen victim to the advanced damage modeling.\n\nThere is a full sequence of missions to complete, as well as some pre-set challenges and a Free Driving mode allowing you to explore at your leisure.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Driver%202%20(USA)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Driver%202%20(USA)%20(Demo).png",
+          "backgroundPixelated": true,
+          "longTitle": "Driver 2",
+          "added": 1695425785559
+        },
+        {
+          "props": {
+            "uid": "927953ad-400a-48a1-8f73-47fb7f1a4a33",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Gran%20Turismo%20%28USA%29%20%28Rev%201%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Gran Turismo",
+          "description": "The first game in the Gran Turismo series of racing simulations.\n\nYou can choose between the arcade version (featuring classic cars such as Corvettes and Aston Martins) or the simulation, which is the true heart of the game. The simulation starts you on an entire racing career beginning with a cheap used car and second-rate tracks. You will find yourself longing for the Dodge Viper as your sad $10,000 starting fund puts you behind the wheel of a used Honda Prelude or Mazda RX-7. As you win races, acquire money, and earn advanced licenses, you are able to buy better cars and race in more competitive matches right up to the GT World Cup.\n\nFeatures more than 140 cars.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Gran%20Turismo%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "longTitle": "Gran Turismo",
+          "added": 1695425947152
+        },
+        {
+          "props": {
+            "uid": "ac124504-c54e-45df-ae32-ca363335f8c4",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Gran%20Turismo%202%20%28USA%29%20%28Arcade%20Mode%29%20%28Rev%201%29.chd",
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Gran%20Turismo%202%20%28USA%29%20%28Simulation%20Mode%29%20%28Rev%202%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Gran Turismo 2",
+          "description": "Second game in the Gran Turismo series of racing games exclusively for the PlayStation. Features 20  tracks and over 400 vehicles! It features an arcade mode and a simulation mode, and also supports wild two player split screen racing!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "backgroundPixelated": true,
+          "longTitle": "Gran Turismo 2",
+          "added": 1695425975296
+        },
+        {
+          "props": {
+            "uid": "75df3e49-91b9-4fb1-a225-31e142d779b9",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Herc%27s%20Adventures%20%28USA%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Herc's Adventures",
+          "description": "Ahhh...ancient Greece. A fertile land, full of wine, women, and some of the best gyros you'll ever taste. Thanks to Persephone, the Greek goddess of spring and fertility, Greece is a wonderful paradise. But now the lord of the Underworld, Hades, has gone and kidnapped Persephone, causing the land to slowly wither away! Zeus, the King of the Gods, needs help in saving her, so who do you call? None other than three of the greatest warriors in the land!  You can choose from the big 'n' buff Herc, the super swift Atlanta, or the young and street-smart Jason, each of whom have their own weapons and strengths. The game's 40 levels include many further variations and pastiches of Greek mythology and legend.  It's all up to you to rescue Persephone and give Hades a beatdown he'll never forget!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Herc's%20Adventures%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Herc's%20Adventures%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Herc's Adventures",
+          "added": 1695426020965
+        },
+        {
+          "props": {
+            "uid": "9903975c-4865-4b3b-ac31-ffbf2decee9f",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Medal%20of%20Honor%20%28USA%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Medal of Honor",
+          "description": "Medal of Honor is the first in the long-running series of World War II shooters, originally created by Steven Spielberg. The play assumes the role of Lt. Patterson who has to complete different tasks in the OSS. The missions vary from securing a small French village from any Nazi forces, to taking out a Heavy armored German rail gun. The player has access to a wide selection of antique weapons such as P38 pistols, M1 Garand carabines, MP40's and more. The goals also include undercover missions. Split-screen multiplayer is supported for two players.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Medal%20of%20Honor%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Medal%20of%20Honor%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Medal of Honor",
+          "added": 1695426104097
+        },
+        {
+          "props": {
+            "uid": "1993fe8c-7899-410d-8c47-b29b41e66ca8",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Medal%20of%20Honor%20-%20Underground%20%28USA%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Medal of Honor: Underground",
+          "description": "The game is a prequel to Medal of Honor and it is set in the early stages of WWII. You play as Manon Batiste, who briefed the missions for you in the original Medal of Honor. She is a new member of a small band of French rebels who fight against the tyranny of the Germans.\n\nThere are 7 missions in total, featuring 12 different historical weapons. There are NPCs helping you out by cracking safes and driving. Not all enemies are on foot; expect to face tanks and bikes amongst other things. Enemy AI is responsive and sometimes surprising.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Medal%20of%20Honor%20-%20Underground%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Medal%20of%20Honor%20-%20Underground%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Medal of Honor: Underground",
+          "added": 1695426176815
+        },
+        {
+          "props": {
+            "uid": "844823b6-27d5-4df8-8c45-9ac48eb339c4",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/MediEvil%20%28USA%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "MediEvil",
+          "description": "The Evil Wizard Zarok has returned from the dead to wreak havoc on a peaceful land, and it is up to the centuries-dead hero, Sir Daniel Fortesque, to rise from his grave and defeat the very nemesis that put him in that grave.  Wander the land, destroying Zarok's undead minions; collect chalices to grant him more powerful weapons; solve puzzles in order to defeat the evil wizard and restore peace to the land -- so Daniel can go back to his eternal slumber.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/MediEvil%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/MediEvil%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "MediEvil",
+          "added": 1695426195766
+        },
+        {
+          "props": {
+            "uid": "4eba5c2d-d68f-4aa8-877b-9a4ca4505293"
+          },
+          "type": "psx",
+          "title": "MediEvil 2",
+          "description": "The game's plot takes place in 1886, 500 years after Sir Daniel Fortesque's battle against the evil sorcerer Zarok in the previous game. In Kensington, a wealthy industrialist and sorcerer named Lord Palethorn discovers Zarok's spellbook and casts its spell of raising the dead over the city of London. However, the pages of the book soon scatter across London, and Palethorn gains a demon-like appearance as a result. The spell Palethorn casts once again resurrects Dan, whose body had been on display in a nearby museum. He is recruited by a professor named Hamilton Kift and his ghostly sidekick Winston Chapelmount (a play on Winston Churchill) to recover the pages of Zarok's spellbook and put a stop to Palethorn's plans. Along the way, they end up being joined by an ancient mummy princess named Kiya, whom Dan falls in love with.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/MediEvil%202%20(Europe)%20(En%2CFr%2CDe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/MediEvil%202%20(Europe)%20(En%2CFr%2CDe).png",
+          "backgroundPixelated": true,
+          "longTitle": "MediEvil 2",
+          "added": 1695426367009
+        },
+        {
+          "props": {
+            "uid": "53f4c6dc-4a84-4da0-9e3a-35ba6f3fa153",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/PaRappa%20the%20Rapper%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "PaRappa the Rapper",
+          "description": "The rapping pup, PaRappa, dreams of impressing his friend, the beautiful Sunny Funny, and going out on a date with her.  But what he lacks is confidence - help PaRappa rap his way through learning Kung Fu, a driving test, cooking and more, all in order to get the girl.  And remember - You Gotta Believe!\n\nPaRappa the Rapper is a game based on lyrics, music and rhythm.  The game itself is very basic - each stage has a 'teacher', that PaRappa must follow.  You'll see the teacher say some lyrics, and then PaRappa must copy the teacher by pressing the appropriate buttons to repeat those lyrics back.  Rap well, and you'll be able to continue; fudge up the lyrics, and the music will start to distort and the teacher will become displeased.  Continue to mess up and you'll fail the stage.\n\nOf course, the goal is not to copy the teacher, but instead to outperform them - you can do this by improvising in the song's gaps.  Listen to how the song goes, and improvise in time to the music; if you perform well enough, the teacher will step aside, leaving you to freestyle on your own!\n\nThe PSP version of the game is a remake of the PlayStation original.  However, it includes a few upgrades, such as a 16:9 display, sharper graphics, game sharing, multiplayer support of up to four players, and the addition of song remixes, which can be downloaded via the internet onto your Memory Stick Duo.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/PaRappa%20the%20Rapper%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/PaRappa%20the%20Rapper%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "PaRappa the Rapper",
+          "added": 1695426462559
+        },
+        {
+          "props": {
+            "uid": "f60eedec-ba84-424e-b90b-4e22df773fac",
+            "discs": [
+              "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/International%20Superstar%20Soccer%20Deluxe%20%28Europe%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "International Superstar Soccer Deluxe",
+          "description": "This is the sequel to International Superstar Soccer, Konami's saga of soccer games. This Deluxe version was published first to the SNES, then the Mega Drive and Playstation.  ISS Deluxe has realistic animations and player sprites. You can compete with 36 national teams with recognizable celebrity players (like Valderrama, Baggio, Ravanelli, Petkov...), but their names are fictitious. You can choose too from 16 formations and 8 strategies to win.  The competitions available are: International Cup, World Series (League), Scenario Mode and customizable mini-cups/leagues.",
+          "thumbnail": "https://i.imgur.com/L2T0TiE.png",
+          "background": "https://i.imgur.com/oAeAD0U.png",
+          "longTitle": "International Superstar Soccer Deluxe",
+          "backgroundPixelated": true,
+          "added": 1695426812730
         }
       ],
       "longTitle": "Sony PlayStation (1995)",
