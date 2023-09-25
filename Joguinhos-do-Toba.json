@@ -2666,7 +2666,7 @@
       ],
       "longTitle": "Nintendo 64 (1996)",
       "description": "The Nintendo 64 (N64) is a home video game console developed by Nintendo. It was released on June 23, 1996, in Japan; on September 26, 1996, in North America; and on March 1, 1997, in Europe and Australia. The successor to the Super Nintendo Entertainment System, it was the last major home console to use cartridges as its primary storage format until the Nintendo Switch in 2017. It competed primarily with the Sony PlayStation and the Sega Saturn.",
-      "thumbnail": "https://i.imgur.com/ttlYlqV.png",
+      "thumbnail": "https://i.imgur.com/swdGfRo.png",
       "background": "https://i.imgur.com/guPRVKA.png"
     },
     {
@@ -4115,7 +4115,7 @@
           "description": "Xeno Crisis is an arena shooter in which up to two players enter a ravaged research outpost to confront an alien menace and get out alive! Run and gun your way through thousands of adversaries as you search for the source of the deadly alien outbreak."
         }
       ],
-      "thumbnail": "https://i.imgur.com/t2y6q1a.png",
+      "thumbnail": "https://i.imgur.com/kMijWKT.png",
       "background": "https://i.imgur.com/wKsMGRA.png",
       "longTitle": "Sega Mega Drive (1988)",
       "description": "The Sega Mega Drive, known as the Genesis in North America, is a 16-bit fourth generation home video game console developed and sold by Sega. It was Sega's third console and the successor to the Master System. Sega released it in 1988 in Japan as the Mega Drive, and in 1989 in North America as the Genesis. In 1990, it was distributed as the Mega Drive by Virgin Mastertronic in Europe, Ozisoft in Australasia, and Tectoy in Brazil. In South Korea, it was distributed by Samsung Electronics as the Super Gam*Boy and later the Super Aladdin Boy."
@@ -4313,7 +4313,7 @@
       ],
       "longTitle": "Sega CD (1991)",
       "description": "The Sega CD, also known as Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Sega Genesis developed and produced by Sega as part of the fourth generation of video game consoles. It was released on December 12, 1991, in Japan, October 15, 1992, in North America, and April 2, 1993, in Europe. The Sega CD plays CD games and adds hardware functionality such as a faster CPU and graphic enhancements such as sprite scaling and rotation. It can also play audio CDs and CD+G discs.",
-      "thumbnail": "https://i.imgur.com/hy4i0TZ.png",
+      "thumbnail": "https://i.imgur.com/5jhzilS.png",
       "background": "https://i.imgur.com/FpTP39g.png",
       "backgroundPixelated": true
     },
@@ -4371,6 +4371,20 @@
             "rom": "https://www.dropbox.com/scl/fi/sfle9ie6jh6rs86b0yoo9/bubblem.zip?rlkey=8a7sxhy7p99kd26401z1cqz2i&dl=1"
           },
           "added": 1693445958483
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/mame-merged/mame-merged/chasehq.zip",
+            "additionalRoms": []
+          },
+          "type": "arcade",
+          "title": "Chase H.Q.",
+          "description": "Chase H.Q. is a 1988 arcade racing game, released by Taito. It is a spiritual successor of Taito's 1987 Full Throttle.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Chase%20H.Q.%20(Japan%20UP).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Chase%20H.Q.%20(Japan%20UP).png",
+          "backgroundPixelated": true,
+          "longTitle": "Chase H.Q.",
+          "added": 1695615742946
         },
         {
           "type": "arcade-konami",
@@ -4580,6 +4594,20 @@
           "added": 1693348186070
         },
         {
+          "props": {
+            "rom": "https://archive.org/download/mame-merged/mame-merged/nspirit.zip",
+            "additionalRoms": []
+          },
+          "type": "arcade",
+          "title": "Ninja Spirit",
+          "description": "A side scrolling ninja action game. You take control of a ninja who has the ability to make shadow duplicates which trail your movements, and attack at your command. In your path are armies of ninjas, samurais and demons who are constantly out to kill you.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Ninja%20Spirit%20(World).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Ninja%20Spirit%20(World).png",
+          "backgroundPixelated": true,
+          "longTitle": "Ninja Spirit",
+          "added": 1695616099182
+        },
+        {
           "type": "arcade",
           "title": "Pretty Soldier Sailor Moon",
           "longTitle": "Pretty Soldier Sailor Moon",
@@ -4617,6 +4645,19 @@
             "rom": "https://www.dropbox.com/scl/fi/wo3ewngixvh963601e0fl/smashtv.zip?rlkey=r8gaqu7koxxwjnx0q28s0ie1v&dl=1"
           },
           "added": 1693348186077
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/mame-merged/mame-merged/splatter.zip"
+          },
+          "type": "arcade",
+          "title": "Splatterhouse",
+          "description": "In a dark and stormy night, Rick and his girlfriend Jeniffer take refuge in the creepy West mansion, only to find himself dead and Jeniffer missing! Now, a mysterious sacrificial mask with amazing powers brings him back from the dead and in order to free",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Splatter%20House%20(Japan%2C%20SH1).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Splatter%20House%20(Japan%2C%20SH1).png",
+          "backgroundPixelated": true,
+          "longTitle": "Splatterhouse",
+          "added": 1695616218685
         },
         {
           "type": "arcade-capcom",
@@ -4812,7 +4853,7 @@
       ],
       "longTitle": "Jogos de fliperama",
       "description": "An arcade video game takes player input from its controls, processes it through electrical or computerized components, and displays output to an electronic monitor or similar display. All arcade video games are coin-operated or accept other means of payment, housed in an arcade cabinet, and located in amusement arcades alongside other kinds of arcade games. Until the early 2000s, arcade video games were the largest and most technologically advanced segment of the video game industry.",
-      "thumbnail": "https://i.imgur.com/9HpZArh.png"
+      "thumbnail": "https://i.imgur.com/lTUWN8z.png"
     },
     {
       "title": "Neo Geo",
@@ -6847,6 +6888,22 @@
         },
         {
           "props": {
+            "uid": "ab754721-4778-4037-9408-79ea1e43bb89",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/MediEvil%20II%20%28USA%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "MediEvil II",
+          "description": "Sequel to Medievil.  Not as open ended to game advancement as the first, as instead of an adventure game it;s more of a action game in which you go through levels and when you win one you go back to a professers hide-out to collect the chalice and get weapons and such.\nThere are a large amount of mini-games, and the whole game is almost noting like the first, which is good or bad depending on your view.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/MediEvil%20II%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/MediEvil%20II%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "MediEvil II",
+          "added": 1695427245262
+        },
+        {
+          "props": {
             "uid": "c6472501-e512-4486-b551-3ef4661ba7e9",
             "discs": [
               "https://archive.org/download/chd_psx/CHD-PSX-USA/Mega%20Man%208%20%28USA%29.chd"
@@ -7250,6 +7307,22 @@
         },
         {
           "props": {
+            "uid": "08898dbc-7fa3-4893-acc3-28fa258155e6",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Syphon%20Filter%20%28USA%29%20%28Rev%201%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Syphon Filter",
+          "description": "Gabriel Logan, one of the government's top covert agents, must neutralize the terrorists that threaten Washington D.C. and destroy a biological weapon that has been built to end the lives of millions of innocent people. \n\nSyphon Filter is an action game played from the 3rd person. Players take the role of Gabiel Logan as well as other CBDC agents. \nTo successfully complete the mission, players must utilize each of the character's skills accordingly. Logan is able to kneel, crouch, walk, roll, climb, jump and run to meet his objectives.\n\nThe action unfolds over thirteen missions that are chock full of dangers, hazards and puzzles.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Syphon%20Filter%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Syphon%20Filter%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Syphon Filter",
+          "added": 1695427187507
+        },
+        {
+          "props": {
             "uid": "2ad71199-7531-4389-ad2c-fcbdbbb22a6a",
             "discs": [
               "https://archive.org/download/chd_psx/CHD-PSX-USA/Syphon%20Filter%202%20%28USA%29%20%28Disc%201%29.chd",
@@ -7600,43 +7673,11 @@
           "backgroundPixelated": true,
           "added": 1693359507521,
           "longTitle": "Yu-Gi-Oh! Forbidden Memories"
-        },
-        {
-          "props": {
-            "uid": "08898dbc-7fa3-4893-acc3-28fa258155e6",
-            "discs": [
-              "https://archive.org/download/chd_psx/CHD-PSX-USA/Syphon%20Filter%20%28USA%29%20%28Rev%201%29.chd"
-            ]
-          },
-          "type": "psx",
-          "title": "Syphon Filter",
-          "description": "Gabriel Logan, one of the government's top covert agents, must neutralize the terrorists that threaten Washington D.C. and destroy a biological weapon that has been built to end the lives of millions of innocent people. \n\nSyphon Filter is an action game played from the 3rd person. Players take the role of Gabiel Logan as well as other CBDC agents. \nTo successfully complete the mission, players must utilize each of the character's skills accordingly. Logan is able to kneel, crouch, walk, roll, climb, jump and run to meet his objectives.\n\nThe action unfolds over thirteen missions that are chock full of dangers, hazards and puzzles.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Syphon%20Filter%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Syphon%20Filter%20(Europe).png",
-          "backgroundPixelated": true,
-          "longTitle": "Syphon Filter",
-          "added": 1695427187507
-        },
-        {
-          "props": {
-            "uid": "ab754721-4778-4037-9408-79ea1e43bb89",
-            "discs": [
-              "https://archive.org/download/chd_psx/CHD-PSX-USA/MediEvil%20II%20%28USA%29.chd"
-            ]
-          },
-          "type": "psx",
-          "title": "MediEvil II",
-          "description": "Sequel to Medievil.  Not as open ended to game advancement as the first, as instead of an adventure game it;s more of a action game in which you go through levels and when you win one you go back to a professers hide-out to collect the chalice and get weapons and such.\nThere are a large amount of mini-games, and the whole game is almost noting like the first, which is good or bad depending on your view.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/MediEvil%20II%20(USA).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/MediEvil%20II%20(USA).png",
-          "backgroundPixelated": true,
-          "longTitle": "MediEvil II",
-          "added": 1695427245262
         }
       ],
       "longTitle": "Sony PlayStation (1995)",
       "description": "The PlayStation (abbreviated as PS, commonly known as the PS1/PS one or its codename PSX) is a home video game console developed and marketed by Sony Computer Entertainment. It was released in Japan on 3 December 1994, in North America on 9 September 1995, in Europe on 29 September 1995, and in Australia on 15 November 1995. As a fifth-generation console, the PlayStation primarily competed with the Nintendo 64 and the Sega Saturn.",
-      "thumbnail": "https://i.imgur.com/PqH4KmV.png",
+      "thumbnail": "https://i.imgur.com/Hful07Z.png",
       "background": "https://i.imgur.com/3SzM50D.png"
     },
     {
@@ -7690,6 +7731,19 @@
       "title": "TurboGrafx-16",
       "items": [
         {
+          "props": {
+            "rom": "https://archive.org/download/turbografx-16-champion-collection-updated/B/Bloody%20Wolf%20%28NA%29.pce"
+          },
+          "type": "pce",
+          "title": "Bloody Wolf",
+          "description": "Snake and Eagle, two commandos of the Bloody Wolf special forces, receive instructions from their commander to destroy the enemy's heavily armed base to rescue the President and any allies who have been reported as MIA.\r\n\r\nBased off the 1988 arcade game, this single-player, top-down, run and gun shooter takes a nod to Contra-style gameplay, allowing one of the two mercenaries to blast their way through eight levels of enemy opposition armed with only a knife and a machine gun. \r\n\r\nAlong the way, new weapons such as shotguns, bazookas, flash bombs and grenades grenades can be added to the arsenal, as well as health and defensive power-ups. Players can even find a motorcycle to ride in some areas, or swim through certain parts of a level.\r\n\r\nThe President and your fellow soldiers need you!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Bloody%20Wolf%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Bloody%20Wolf%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Bloody Wolf",
+          "added": 1695615528300
+        },
+        {
           "title": "Bomberman",
           "longTitle": "Bomberman",
           "type": "pce",
@@ -7729,6 +7783,84 @@
           "added": 1693347015815
         },
         {
+          "title": "Bonk 3: Bonk's Big Adventure",
+          "longTitle": "Bonk 3: Bonk's Big Adventure",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Bonk%203%20-%20Bonk's%20Big%20Adventure%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Bonk%203%20-%20Bonk's%20Big%20Adventure%20(USA).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/turbografx-16-champion-collection-updated/B/Bonk%203%20-%20Bonk%27s%20Big%20Adventure%20%28NA%29.pce"
+          },
+          "added": 1695615608346,
+          "description": "Bonk is back! And he's bigger and better than ever! Use your head (literally) to traverse 6 wild locations- including a forest grove, an antartic ice prison and more! Chomp on blue miracle candy to grow to gigantic proportions and break right through large obstacles. Chomp red candy to shrink to microscopic size and slip right under narrow cracks to discover secret items! Catch the magic flower in each stage to be transported to a bonus round- where you can score more points and earn bonus men! On your way, you will defeat menacing bosses that include acrobatic dinosaur, a sneaky squid and other! Are you ready to save the world, little cave dude!?"
+        },
+        {
+          "title": "Bonk's Adventure",
+          "longTitle": "Bonk's Adventure",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Bonk's%20Adventure%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Bonk's%20Adventure%20(USA).png",
+          "description": "Prehistoric platform game where you are in control of a baby and have to guide him through the levels avoiding all manner of strange nasties.\r\n\r\nThe game is very similar to every other platform game you have ever played, but it does have its own unique features such as the ability to climb vertical walls with your teeth and do a diving head butt from a jump. Power ups come in the form of lumps of meat and give extra speed and invulnerability in the later stages.\r\n\r\nIf you have ever played chuck rock then you know what to expect from this, a bog standard platform game with a prehistoric theme.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/turbografx-16-champion-collection-updated/B/Bonk%27s%20Adventure%20%28NA%29.pce"
+          },
+          "added": 1695615608346
+        },
+        {
+          "title": "Bonk's Revenge",
+          "longTitle": "Bonk's Revenge",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Bonk's%20Revenge%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Bonk's%20Revenge%20(USA).png",
+          "description": "Bonk has his revenge on King Drool III in his second game for the TurboGrafx.  It's not exactly clear why Bonk is so vengeful, but it appears that King Drool is responsible.  Bonk uses his over-sized cranium as a lethal weapon in this sequel.\r\n\r\nThe gameplay in this adventure is very similar to the first game. Bonk has head-butting, head-stomping, and fire-breathing moves when he eats some spicy meat.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/turbografx-16-champion-collection-updated/B/Bonk%27s%20Revenge%20%28NA%29.pce"
+          },
+          "added": 1695615608346
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/turbografx-16-champion-collection-updated/D/Dungeon%20Explorer%20%28NA%29.pce"
+          },
+          "type": "pce",
+          "title": "Dungeon Explorer",
+          "description": "The former king of Oddesia has entrusted you with an important, dangerous task. You must find the sacred ORA stone, which possesses the powers of life, light and happiness, and retrieve it before the king of the alien race, Natas, does. He has conquered this land and plunged it into an age of terror and despair, plagued with violence. It is up to you to stand against him and return your world to its former glory.\r\n\r\nDungeon Explorer plays like Gauntlet: you choose one of several different characters to play as (Fighter, Thief, Warlock, Witch, Bard, Bishop, Elf and Knome) and set out on your adventure alone or with up to four other players. Battles are real-time and of the shooter variety, ie, rather than swing a sword, you fire knives (or spells depending on your class). Enemies respawn out of holes in the ground which must be eradicated to keep them from pouring forth in waves. There are a number of items to be found and used throughout the game including potions of white and black magic, healing drinks and the like, but unlike Gauntlet there is no food to worry about.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Dungeon%20Explorer%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Dungeon%20Explorer%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "Dungeon Explorer",
+          "added": 1695615794753
+        },
+        {
+          "title": "Neutopia",
+          "longTitle": "Neutopia",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Neutopia%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Neutopia%20(USA).png",
+          "description": "You play as a young warrior named Jazeta. The princess Aurora was kidnapped by the evil Dirth, and the king send you on a mission to rescue her. It appears that once Dirth way sealed by eight wise men who used the power of eight sacred medallions. Princess Aurora is the only one who knows how to use those medallions, and that is why Dirth abducted her! You must explore the land, descend to the dangerous labyrinths, retrieve the eight medallions, rescue the princess, and defeat Dirth.\r\n\r\nVery similar to the famous Zelda games, \"Neutopia\" is Turbo Grafx' answer to Nintendo's king of action adventures. You roam freely the vast land, fighting many different monsters in wilderness areas as well as in dungeons. Dungeons also require some puzzle-solving (pushing stones, blowing walls with bombs, etc.). The game has a slight RPG flavor, allowing you to power-up by collecting various items, and equip different weapons and armor.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/turbografx-16-champion-collection-updated/N/Neutopia%20%28NA%29.pce"
+          },
+          "added": 1695615968416
+        },
+        {
+          "title": "Neutopia II",
+          "longTitle": "Neutopia II",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Neutopia%20II%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Neutopia%20II%20(USA).png",
+          "description": "Some years have passed since the brave hero Jazeta destroyed Dirth, the Emperor of Darkness. Peace has returned to the land of Neutopia. But there are still monsters roaming the countryside, and some of them were spotted near Yurius Shrine. Jazeta went there to find out what exactly had happened. But he didn't return... You are Jazeta's son, and you must first of all find your missing father! Can it be that the shadow of Emperor of Darkness threatens the peaceful land again?..\r\n\r\nThe sequel to \"Neutopia\" is similar to the predecessor in every way. Navigating your hero from a top-down view, you explore the vast countryside, fighting monsters in real time combat. The game is not a true RPG, but an action adventure: you don't gain any experience points from combat, only collect money to buy supplies. In dungeons, you must use bombs on walls to reveal secret passages, push stones, and fight many regular enemies and bosses.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/turbografx-16-champion-collection-updated/N/Neutopia%20II%20%28NA%29.pce"
+          },
+          "added": 1695615968416
+        },
+        {
           "props": {
             "rom": "https://www.dropbox.com/scl/fi/ru0q2vt1nknctzfyuc9hi/Reflectron.zip?rlkey=bc7ojf51bis3qtuar49vb1043&dl=1"
           },
@@ -7757,12 +7889,28 @@
       ],
       "longTitle": "NEC TurboGrafx-16 (1987)",
       "description": "The TurboGrafx-16, known as the PC Engine outside North America, is a home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was the first console marketed in the fourth generation, commonly known as the 16-bit era, though the console has an 8-bit central processing unit (CPU) coupled with a 16-bit graphics processor. It was released in Japan in 1987 and in North America in 1989. In Europe, the console is known as the PC Engine, after the Japanese model was imported and distributed in the United Kingdom and France from 1988. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super NES.",
-      "thumbnail": "https://i.imgur.com/GSFZBNu.png",
+      "thumbnail": "https://i.imgur.com/5pXAdb6.png",
       "background": "https://i.imgur.com/5yqrq2z.png"
     },
     {
-      "title": "PC Engine CD",
+      "title": "TurboGrafx-CD",
       "items": [
+        {
+          "props": {
+            "uid": "eb533e00-7936-40e0-851e-ef33e52a7631",
+            "discs": [
+              "https://archive.org/download/redump-nec-pc-engine-cd-turbografx-cd-2021-06-06/Beyond%20Shadowgate%20%28USA%29.chd"
+            ]
+          },
+          "type": "pcecd",
+          "title": "Beyond Shadowgate",
+          "description": "This is a sequel to the adventure game Shadowgate. You control Prince Eric, the descendant of the hero of the first game. You return to your home country, only to discover that your father was murdered. You should become the new king, but the minister of the late king has other plans, frames you for killing your own father, and throws you into jail, where your adventure begins. Unlike the first Shadowgate, this is a platform game - not an action game, but a classical point-and-click adventure viewed from a platform perspective. You can move your hero around, examine, manipulate, and take objects. You can also duck and have a \"punch\" command. Find the correct solutions to the game's puzzles, otherwise a gruesome death awaits you!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pcecd-images/master/Named_Titles/resized/Beyond%20Shadowgate%20(Turbo%20Technologies%20-%20Viacom)%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pcecd-images/master/Named_Snaps/output/Beyond%20Shadowgate%20(Turbo%20Technologies%20-%20Viacom)%20(USA).png",
+          "backgroundPixelated": true,
+          "added": 1695615456564,
+          "longTitle": "Beyond Shadowgate"
+        },
         {
           "props": {
             "uid": "da3e66d5-b3d0-4e5b-9147-7a93ed87e636",
@@ -7778,12 +7926,45 @@
           "backgroundPixelated": true,
           "added": 1693355481038,
           "longTitle": "Castlevania: Rondo of Blood (ENG)"
+        },
+        {
+          "props": {
+            "discs": [
+              "https://archive.org/download/redump-nec-pc-engine-cd-turbografx-cd-2021-06-06/Dungeon%20Explorer%20II%20%28USA%29.chd"
+            ],
+            "uid": "2d7c729e-a79c-434f-ac2d-dcc7336e284b"
+          },
+          "type": "pcecd",
+          "title": "Dungeon Explorer II",
+          "description": "Dungeon Explorer II is a continuation of the story told in Dungeon Explorer. After the fall of the Darklord Natas, Orb of Oras was once again in the hands of the good people of Oddesia. It prevented evil from entering Oddeasia for a century, thus, peace was restored. Now the evil once again threatens the world. Fades, as he calls himself, faithful to Natas, enters the throne of King Oddesia and demands the relinquishment of the Orb. With King Earl II dead and the Orb in the hands of evil, Oddesia was once again in grave danger. At the same time, Princess Miriam of Solis was visiting Ardeen and was taken hostage by Mynos the Man-Bull. As the game supports five players, you enter the throne room of Ardeen as one or more of the five to-be Immortals, with a character class of your choice: Fighter, Thief, Wizard, Cleric, Bard, Hunter, Dwarf or the Elf. Dungeon Explorer II plays very similarly to its prequel. You move around and talk to people in a regular RPG fashion. Since the movement is not limited to squares and you can move diagonally, the game has very action-oriented gameplay. You fight enemies as you would in The Legend of Zelda or Gauntlet, from a top-town view. Enemies spawn from Generators and drop usable items, power-ups and provide experience as you kill them. Items are used in real-time and leveling up gives you more health. New to Dungeon Explorer II, the game takes full advantage of the CD format. It includes full voice-acted dialogue instead of common subtitled dialogue. The game also includes fully digitalized music tracks, played from the game CD, as well as video sequences as introductional videos in TurboGrafx-CD fashion.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pcecd-images/master/Named_Titles/resized/Dungeon%20Explorer%20II%20(Hudson)%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pcecd-images/master/Named_Snaps/output/Dungeon%20Explorer%20II%20(Hudson)%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "Dungeon Explorer II",
+          "added": 1695615832504
+        },
+        {
+          "props": {
+            "uid": "23b4b8db-eb41-4efb-be85-00f0bebc53dd",
+            "discs": [
+              "https://archive.org/download/redump-nec-pc-engine-cd-turbografx-cd-2021-06-06/Last%20Alert%20%28USA%29.chd"
+            ]
+          },
+          "type": "pcecd",
+          "title": "Last Alert",
+          "description": "In the near future, a cabal of 4 very evil, powerful men known as The Force is planning world domination through the use of a Super Weapon known and Indra. You are Guy Kazama, a general-purpose bad-ass soldier who can stop these guys. You must take out each of the conspirators one by one and destroy the Indra before it becomes fully operational.  Last Alert is a shoot-em up played from a top-down perspective. You move Guy around more than 20 levels and shoot everything that stands in your way.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pcecd-images/master/Named_Titles/resized/Last%20Alert%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pcecd-images/master/Named_Snaps/output/Last%20Alert%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Last Alert",
+          "added": 1695615935607
         }
       ],
-      "longTitle": "PC Engine CD (1988)",
+      "longTitle": "TurboGrafx-CD (1989)",
       "description": "The CD-ROM² is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards. This made the PC Engine the first video game console to use CD-ROM as a storage media. The add-on consisted of two devices – the CD player itself and the interface unit, which connects the CD player to the console and provides a unified power supply and output for both. It was later released as the TurboGrafx-CD in the United States in November 1989, with a remodeled interface unit in order to suit the different shape of the TurboGrafx-16 console. The TurboGrafx-CD had a launch price of $399.99 and did not include any bundled games. Fighting Street and Monster Lair were the TurboGrafx-CD launch titles; Ys Book I & II soon followed.",
-      "thumbnail": "https://i.imgur.com/cpzRQsI.png",
-      "background": "https://i.imgur.com/Pp59kD5.png"
+      "thumbnail": "https://i.imgur.com/a7YdHDQ.png",
+      "background": "https://i.imgur.com/LNx4ZZE.png",
+      "backgroundPixelated": true
     },
     {
       "title": "Atari 2600",
@@ -7897,7 +8078,7 @@
       ],
       "longTitle": "Panasonic 3DO Interactive Multiplayer (1993)",
       "description": "The 3DO Interactive Multiplayer, also referred to as simply 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a set of specifications, originally designed by Dave Needle and Robert J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released afterwards by GoldStar, Sanyo, Creative Labs, and Samsung Electronics in 1997.",
-      "thumbnail": "https://i.imgur.com/MXTQaD2.png",
+      "thumbnail": "https://i.imgur.com/DFOZn2B.png",
       "background": "https://i.imgur.com/GMnpK6q.png",
       "backgroundPixelated": true
     }
