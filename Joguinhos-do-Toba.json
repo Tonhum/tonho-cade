@@ -1746,6 +1746,19 @@
             "rom": "https://www.dropbox.com/scl/fi/lf92s1zjje04424u39fzx/Zombies-Ate-My-Neighbors-USA.zip?rlkey=rrw257alt2ho8jl1ov6wcam82&dl=1"
           },
           "added": 1693332983504
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/o83vhe0aea2o5zvmf217u/Gunman-s-Proof-English-v1.03.zip?rlkey=z11tiiad15lr98cuc3tywt0fs&dl=1"
+          },
+          "type": "snes",
+          "title": "Gunple: Gunman's Proof",
+          "added": 1696905854047,
+          "description": "The year is 1880. Two meteors fell on Earth on a small island near North American Pacific Coast. In the middle of the island there is a small town governed by a sheriff. At first, the town's inhabitants didn't pay attention to the meteors. But then, strange things started happening. Monsters attacked people, and left on the victims' bodies a mysterious crest with one word: demiseed. One day you, a young boy who lives in the town, are contacted by two aliens who came in a miniature space ship. One of the aliens introduces himself as Zero, the Space Sheriff, and explains that an intergalactic criminal named Demi has escaped from justice and is hiding somewhere on the island, being the cause of all the troubles lately. Zero then possesses your body, lends you his powers, and commands you on the quest to destroy Demi and to bring peace to your island and to the alien world alike!\n\nThe game is an action/adventure with slight RPG elements (buying and upgrading weapons, etc.) set in Wild West. While featuring traditional dungeon-crawling and many enemies to dispose of in real time combat, the game doesn't equip you with standard medieval swords, but with pistols, shotgun, machine gun, and even a flamethrower. Your weapons have infinite ammo. You can duck to avoid the alien monsters' fire, and perform special attacks with various types of weapons.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Ganpuru%20-%20Gunman's%20Proof%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Ganpuru%20-%20Gunman's%20Proof%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "Gunple: Gunman's Proof (ENG)"
         }
       ],
       "longTitle": "Super Nintendo Entertainment System (1991)",
