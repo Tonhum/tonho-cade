@@ -644,6 +644,19 @@
           "added": 1693332983496
         },
         {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/o83vhe0aea2o5zvmf217u/Gunman-s-Proof-English-v1.03.zip?rlkey=z11tiiad15lr98cuc3tywt0fs&dl=1"
+          },
+          "type": "snes",
+          "title": "Gunple: Gunman's Proof",
+          "added": 1696905854047,
+          "description": "The year is 1880. Two meteors fell on Earth on a small island near North American Pacific Coast. In the middle of the island there is a small town governed by a sheriff. At first, the town's inhabitants didn't pay attention to the meteors. But then, strange things started happening. Monsters attacked people, and left on the victims' bodies a mysterious crest with one word: demiseed. One day you, a young boy who lives in the town, are contacted by two aliens who came in a miniature space ship. One of the aliens introduces himself as Zero, the Space Sheriff, and explains that an intergalactic criminal named Demi has escaped from justice and is hiding somewhere on the island, being the cause of all the troubles lately. Zero then possesses your body, lends you his powers, and commands you on the quest to destroy Demi and to bring peace to your island and to the alien world alike!\n\nThe game is an action/adventure with slight RPG elements (buying and upgrading weapons, etc.) set in Wild West. While featuring traditional dungeon-crawling and many enemies to dispose of in real time combat, the game doesn't equip you with standard medieval swords, but with pistols, shotgun, machine gun, and even a flamethrower. Your weapons have infinite ammo. You can duck to avoid the alien monsters' fire, and perform special attacks with various types of weapons.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Ganpuru%20-%20Gunman's%20Proof%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Ganpuru%20-%20Gunman's%20Proof%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "Gunple: Gunman's Proof (ENG)"
+        },
+        {
           "title": "Harvest Moon",
           "longTitle": "Harvest Moon",
           "type": "snes",
@@ -1746,19 +1759,6 @@
             "rom": "https://www.dropbox.com/scl/fi/lf92s1zjje04424u39fzx/Zombies-Ate-My-Neighbors-USA.zip?rlkey=rrw257alt2ho8jl1ov6wcam82&dl=1"
           },
           "added": 1693332983504
-        },
-        {
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/o83vhe0aea2o5zvmf217u/Gunman-s-Proof-English-v1.03.zip?rlkey=z11tiiad15lr98cuc3tywt0fs&dl=1"
-          },
-          "type": "snes",
-          "title": "Gunple: Gunman's Proof",
-          "added": 1696905854047,
-          "description": "The year is 1880. Two meteors fell on Earth on a small island near North American Pacific Coast. In the middle of the island there is a small town governed by a sheriff. At first, the town's inhabitants didn't pay attention to the meteors. But then, strange things started happening. Monsters attacked people, and left on the victims' bodies a mysterious crest with one word: demiseed. One day you, a young boy who lives in the town, are contacted by two aliens who came in a miniature space ship. One of the aliens introduces himself as Zero, the Space Sheriff, and explains that an intergalactic criminal named Demi has escaped from justice and is hiding somewhere on the island, being the cause of all the troubles lately. Zero then possesses your body, lends you his powers, and commands you on the quest to destroy Demi and to bring peace to your island and to the alien world alike!\n\nThe game is an action/adventure with slight RPG elements (buying and upgrading weapons, etc.) set in Wild West. While featuring traditional dungeon-crawling and many enemies to dispose of in real time combat, the game doesn't equip you with standard medieval swords, but with pistols, shotgun, machine gun, and even a flamethrower. Your weapons have infinite ammo. You can duck to avoid the alien monsters' fire, and perform special attacks with various types of weapons.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Ganpuru%20-%20Gunman's%20Proof%20(Japan).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Ganpuru%20-%20Gunman's%20Proof%20(Japan).png",
-          "backgroundPixelated": true,
-          "longTitle": "Gunple: Gunman's Proof (ENG)"
         }
       ],
       "longTitle": "Super Nintendo Entertainment System (1991)",
@@ -3550,7 +3550,7 @@
           "title": "Astebros",
           "added": 1693445710095,
           "description": "This story takes place long before the events of \"Demons of Asteborg\"...\n\nIn search of an Eldorado, humans and demons discovered Asteborg, a continent rich in resources and promising a luxurious future.\n\nHowever, no one who had ever set foot on the continent of Asteborg had yet returned.\n\nPlay as three heroes who set out to scout and confront the dangers of Asteborg, collect treasures and discover the oldest secrets of this lost continent...",
-          "longTitle": "Astebros",
+          "longTitle": "Astebros (PT-BR)",
           "thumbnail": "https://i.imgur.com/sdA5fI2.png",
           "background": "https://i.imgur.com/FJ4ouvT.png",
           "backgroundPixelated": true
@@ -3622,7 +3622,7 @@
         },
         {
           "title": "Demons of Asteborg",
-          "longTitle": "Demons of Asteborg",
+          "longTitle": "Demons of Asteborg (PT-BR)",
           "type": "genesis",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Demons%20of%20Asteborg%20(World)%20(Aftermarket)%20(Unl).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Demons%20of%20Asteborg%20(World)%20(Aftermarket)%20(Unl).png",
@@ -3947,7 +3947,7 @@
         },
         {
           "title": "Show do Milhão",
-          "longTitle": "Show do Milhão",
+          "longTitle": "Show do Milhão (PT-BR)",
           "type": "genesis",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Show%20do%20Milhao%20(Brazil).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Show%20do%20Milhao%20(Brazil).png",
@@ -3960,7 +3960,7 @@
         },
         {
           "title": "Show do Milhão Volume 2",
-          "longTitle": "Show do Milhão Volume 2",
+          "longTitle": "Show do Milhão Volume 2 (PT-BR)",
           "type": "genesis",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Show%20do%20Milhao%20Volume%202%20(Brazil).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Show%20do%20Milhao%20Volume%202%20(Brazil).png",
@@ -4116,7 +4116,7 @@
         },
         {
           "title": "Xeno Crisis",
-          "longTitle": "Xeno Crisis",
+          "longTitle": "Xeno Crisis (PT-BR)",
           "type": "genesis",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Xeno%20Crisis%20(World)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt)%20(Aftermarket)%20(Unl).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Xeno%20Crisis%20(World)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt)%20(Aftermarket)%20(Unl).png",
@@ -4126,6 +4126,71 @@
           },
           "added": 1693335959992,
           "description": "Xeno Crisis is an arena shooter in which up to two players enter a ravaged research outpost to confront an alien menace and get out alive! Run and gun your way through thousands of adversaries as you search for the source of the deadly alien outbreak."
+        },
+        {
+          "title": "Contra: Hard Corps",
+          "longTitle": "Contra: Hard Corps",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Contra%20-%20Hard%20Corps%20(USA%2C%20Korea).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Contra%20-%20Hard%20Corps%20(USA%2C%20Korea).png",
+          "description": "Kickin' cyborg butt... That's what it's all about, dude. Jack into this game of genetic engineering gone bad. Real bad. It's five years after the mother of all wars ended - and things still aren't right. Your job is to fix it. The ever-popular Contra series makes its Sega Genesis debut with a pulse-pounding new storyline. At 16 megs, HARD CORPS pushes the technology to bring you over ten gut-wrenching levels with huge boss characters, great graphics and dynamic sound. Find high powered weapons such as the homing gun, crush gun, needle laser or mine setter. Do you think you can handle it? Trust me, you can't. You still here? Okay, then get ready for the fight of your life. Pick one of the four heroes and begin your search across many dark levels of doom. The ending changes, depending on the paths you choose - but every pass crosses boss characters that will blow you away. Literally!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/r4u9m3s3mb51bwge5gvj8/Contra-Hard-Corps-USA-Korea.zip?rlkey=ta8486qm77hkmelavsrd7n7gp&dl=1"
+          },
+          "added": 1697218710609
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/0vurbuerwfnnzioj8h2qs/Pense-Bem-Brazil.zip?rlkey=s84uf4zdf805lu7v615iuu1ud&dl=1"
+          },
+          "type": "genesis",
+          "title": "Pense Bem",
+          "added": 1697218710609,
+          "longTitle": "Pense Bem (PT-BR)",
+          "description": "Do you remember the little computer with questions and answers? Well, now the game is available for the console. There are ten different topics to demonstrate your knowledge, including hard questions. At the end of each game, you receive a password and you can use it to increase your challenge score. How smart are you?",
+          "thumbnail": "https://i.imgur.com/17iXR6O.png",
+          "background": "https://i.imgur.com/xlWlUyM.png",
+          "backgroundPixelated": true
+        },
+        {
+          "title": "Turma da Mônica na Terra dos Monstros",
+          "longTitle": "Turma da Monica na Terra dos Monstros (PT-BR)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Turma%20da%20Monica%20na%20Terra%20dos%20Monstros%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Turma%20da%20Monica%20na%20Terra%20dos%20Monstros%20(Brazil).png",
+          "description": "Wonder Boy In Monster World puts you in control of Shion in his quest to save Monster World from the evil BioMeka. It controls like your standard platform game: run, jump, and kill enemies. The game is filled with RPG elements such as talking to townsfolk, collecting money to buy items, extending your life bar, and equipping a large variety of armor, weapons and magic.\n\nShion travels through the many interconnected regions of Monster World, all the while collecting increasingly powerful equipment in the form of many different swords, spears, shields, suits of armor, and boots.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/k7q3ogh4rmcoby0v3kcdc/Turma-da-Monica-na-Terra-dos-Monstros-Brazil.zip?rlkey=egamofx40oo0cfi5uto1hk4gg&dl=1"
+          },
+          "added": 1697218710610
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/nmco2i8jk85ryyabtbj6e/Ultracore-USA.zip?rlkey=wdfmfztwpm93d9odp2w3kselz&dl=1"
+          },
+          "type": "genesis",
+          "title": "Ultracore",
+          "added": 1697218710610,
+          "description": "An aftermarket release based on Hardcore, which was licensed for release by Sega back in the day but went unreleased by the original publisher, Psygnosis.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Ultracore%20(Europe)%20(MD-1.0)%20(Aftermarket)%20(Unl).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Ultracore%20(Europe)%20(MD-1.0)%20(Aftermarket)%20(Unl).png",
+          "backgroundPixelated": true,
+          "longTitle": "Ultracore"
+        },
+        {
+          "title": "YuYu Hakusho: Sunset Fighters",
+          "longTitle": "YuYu Hakusho: Sunset Fighters (PT-BR)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/YuYu%20Hakusho%20-%20Sunset%20Fighters%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/YuYu%20Hakusho%20-%20Sunset%20Fighters%20(Brazil).png",
+          "description": "Yuu Yuu Hakusho: Makyou Toitsusen is a 1994 fighting game for the Sega Mega Drive by Treasure made with the Yuu Yuu Hakusho license  the second such game, after Nextech's adventure game Yuu Yuu Hakusho Gaiden. Interestingly, TecToy published the game in Brazil as Yuu Yuu Hakusho: Sunset Fighters, however the game has not been released elsewhere. M.I.J.E.T. fan-translated the game to English in 2007.\n\nThe game is a 4-player fighting game. A and B attack and C blocks, with various combos along the way. Up jumps.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/yozop8yif2mci6i9l5408/YuYu-Hakusho-Sunset-Fighters-Brazil.zip?rlkey=w2ijs7gn2o7d27opgoncnydma&dl=1"
+          },
+          "added": 1697218710610
         }
       ],
       "thumbnail": "https://i.imgur.com/kMijWKT.png",
@@ -4138,7 +4203,7 @@
       "items": [
         {
           "title": "As Aventuras da TV Colosso",
-          "longTitle": "As Aventuras da TV Colosso",
+          "longTitle": "As Aventuras da TV Colosso (PT-BR)",
           "type": "sms",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Aventuras%20da%20TV%20Colosso%2C%20As%20(Brazil).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Aventuras%20da%20TV%20Colosso%2C%20As%20(Brazil).png",
@@ -4151,7 +4216,7 @@
         },
         {
           "title": "Castelo Rá-Tim-Bum",
-          "longTitle": "Castelo Rá-Tim-Bum",
+          "longTitle": "Castelo Rá-Tim-Bum (PT-BR)",
           "type": "sms",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Castelo%20Ra-Tim-Bum%20(Brazil).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Castelo%20Ra-Tim-Bum%20(Brazil).png",
@@ -4265,6 +4330,71 @@
             "rom": "https://www.dropbox.com/scl/fi/qkr9k4ev81de08dknquoh/Ultima-IV-Quest-of-the-Avatar-Europe.zip?rlkey=bl0h53glheyeqzufntv100cmg&dl=1"
           },
           "added": 1693335513861
+        },
+        {
+          "title": "Chapolim x Dracula: Um Duelo Assustador",
+          "longTitle": "Chapolim x Dracula: Um Duelo Assustador (PT-BR)",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Chapolim%20x%20Dracula%20-%20Um%20Duelo%20Assustador%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Chapolim%20x%20Dracula%20-%20Um%20Duelo%20Assustador%20(Brazil).png",
+          "description": "The player controls Mick, a young vampire hunter out to destroy five vampires in each stage before proceeding to the next.\n\nEverything is out to stop Mick from completing this tasks and making his way out of the mansion. The player has to punch, or jump on, his enemies to defeat them. Arrows will be flying from either direction and will attempt to hit Mick on the head, and he must either duck or jump on them for extra points. Players can jump or touch lights to freeze everything on screen for a few seconds. Rather than punching, the player can collect a sword on the lower level by jumping on it as it flies past him.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/ee8o3ytp377grikjcapip/Chapolim-x-Dracula-Um-Duelo-Assustador-Brazil.zip?rlkey=qi80ppbyy7vkml0mah9qqy5mf&dl=1"
+          },
+          "added": 1697218497038
+        },
+        {
+          "title": "Geraldinho",
+          "longTitle": "Geraldinho",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Geraldinho%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Geraldinho%20(Brazil).png",
+          "description": "Teddy Boy stars a young boy who is armed with a gun. Each level is an infinitely repeating maze with several dice. Each die is filled with monsters which hatch out and the player must shoot to shrink, then collect them. If the player does not collect each shrunken monster quickly, it turns into a time-eating bug which flies to the time limit bar and consumes a chunk of it. If you touch one monster or run out of time then you lose a life. The game ends if all lives are lost.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/bdwf5p9mbpep5wpkpxv96/Geraldinho-Brazil-En.zip?rlkey=1h92a9l2n1y8k3pxtbuso221s&dl=1"
+          },
+          "added": 1697218497038
+        },
+        {
+          "title": "Mônica no Castelo do Dragão",
+          "longTitle": "Mônica no Castelo do Dragão (PT-BR)",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Monica%20no%20Castelo%20do%20Dragao%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Monica%20no%20Castelo%20do%20Dragao%20(Brazil).png",
+          "description": "The game is the sequel to the 1986 game Wonder Boy and takes place eleven years after the events in the previous game. After enjoying over a decade of peace on Wonder Land following the defeat of the evil King by Tom-Tom, later bestowed the title \"Wonder Boy\", a fire-breathing dragon called the MEKA dragon appeared; he and his minions conquered Wonder Land, turning it into \"Monster Land\".",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/jjvdmp8hngtrs1huhfje7/Monica-no-Castelo-do-Dragao-Brazil.zip?rlkey=fyi4cc95djresvwwy1p7lz7tn&dl=1"
+          },
+          "added": 1697218497038
+        },
+        {
+          "title": "Sítio do Picapau Amarelo",
+          "longTitle": "Sítio do Picapau Amarelo (PT-BR)",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Sitio%20do%20Picapau%20Amarelo%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Sitio%20do%20Picapau%20Amarelo%20(Brazil).png",
+          "description": "Sitio do Picapau Amarelo is an Action game, published by Tec Toy, which was released in South America in 1997.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/pc5hzkjwhx8y4j5k1dum9/Sitio-do-Picapau-Amarelo-Brazil.zip?rlkey=mf8v94gq6h4bnuknkwgww52oc&dl=1"
+          },
+          "added": 1697218497038
+        },
+        {
+          "title": "Turma da Mônica em O Resgate",
+          "longTitle": "Turma da Mônica em O Resgate (PT-BR)",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Turma%20da%20Monica%20em%20O%20Resgate%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Turma%20da%20Monica%20em%20O%20Resgate%20(Brazil).png",
+          "description": "Wonder Boy looks for the Salamander Cross that is hidden by the Vampire Dragon in Monster Land.\nThe player explores and finds items and clues needed for Wonder Boy to access different parts of Monster Land.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/kjqsn4iobr0zvf3n62a6j/Turma-da-Monica-em-O-Resgate-Brazil.zip?rlkey=a301lta2e5fu3jgf13o5dmosa&dl=1"
+          },
+          "added": 1697218497038
         }
       ],
       "longTitle": "Sega Master System (1986)",
