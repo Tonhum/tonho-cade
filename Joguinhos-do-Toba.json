@@ -3144,6 +3144,19 @@
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gb-images/master/Named_Titles/resized/Wario%20Land%20-%20Super%20Mario%20Land%203%20(World).png",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gb-images/master/Named_Snaps/output/Wario%20Land%20-%20Super%20Mario%20Land%203%20(World).png",
           "backgroundPixelated": true
+        },
+        {
+          "title": "Metal Gear Solid",
+          "longTitle": "Metal Gear Solid",
+          "type": "gbc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Snaps/output/Metal%20Gear%20Solid%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Titles/resized/Metal%20Gear%20Solid%20(USA).png",
+          "description": "Metal Gear Solid (original Japanese name: Metal Gear: Ghost Babel) for GameBoy Color is not the same game as the popular Playstation/PC installment of the series. It is not set within the storyline of Metal Gear series, but instead tells an unrelated episode featuring the same hero - special agent Solid Snake. A secret government project, codenamed \"Babel\", attempts to revive the Metal Gear project - development of a highly destructive mech weapon. But an organization known as Gindran Liberation Front hijacked the Metal Gear prototype, without which any further development would be useless. Solid Snake is sent to infiltrate Outer Heaven, a location not entirely unfamiliar to him, and to retrieve the prototype.\n\nThe game is similar in style and gameplay to early Metal Gear games. It is viewed from top-down perspective, and its gameplay is mostly based on stealth. Snake has to sneak past the guards, using various tactics to distract them or to kill them silently. Weapons, gadgets, and moves are all similar to those used in the other Metal Gear Solid game. From time to time Snake will also encounter bosses whom he will have to defeat in order to proceed to the next area. Virtual Missions for Snake are also included in this release.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/4ctcuw7uqhwrll3s9lr8o/Metal-Gear-Solid-USA.zip?rlkey=vohzxy6lg9hufvmbm1zubaylm&dl=1"
+          },
+          "added": 1697420531788
         }
       ],
       "longTitle": "Nintendo Game Boy Color (1998)",
@@ -3608,6 +3621,19 @@
           "added": 1693335959988
         },
         {
+          "title": "Contra: Hard Corps",
+          "longTitle": "Contra: Hard Corps",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Contra%20-%20Hard%20Corps%20(USA%2C%20Korea).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Contra%20-%20Hard%20Corps%20(USA%2C%20Korea).png",
+          "description": "Kickin' cyborg butt... That's what it's all about, dude. Jack into this game of genetic engineering gone bad. Real bad. It's five years after the mother of all wars ended - and things still aren't right. Your job is to fix it. The ever-popular Contra series makes its Sega Genesis debut with a pulse-pounding new storyline. At 16 megs, HARD CORPS pushes the technology to bring you over ten gut-wrenching levels with huge boss characters, great graphics and dynamic sound. Find high powered weapons such as the homing gun, crush gun, needle laser or mine setter. Do you think you can handle it? Trust me, you can't. You still here? Okay, then get ready for the fight of your life. Pick one of the four heroes and begin your search across many dark levels of doom. The ending changes, depending on the paths you choose - but every pass crosses boss characters that will blow you away. Literally!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/r4u9m3s3mb51bwge5gvj8/Contra-Hard-Corps-USA-Korea.zip?rlkey=ta8486qm77hkmelavsrd7n7gp&dl=1"
+          },
+          "added": 1697218710609
+        },
+        {
           "title": "Crusader of Centy",
           "longTitle": "Crusader of Centy",
           "type": "genesis",
@@ -3788,6 +3814,19 @@
             "rom": "https://www.dropbox.com/scl/fi/s8ww0xk2et22eqezbfn5d/Old-Towers.zip?rlkey=ee8s5rrfmgth77azz3vlnbqpn&dl=1"
           },
           "added": 1693335959990
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/0vurbuerwfnnzioj8h2qs/Pense-Bem-Brazil.zip?rlkey=s84uf4zdf805lu7v615iuu1ud&dl=1"
+          },
+          "type": "genesis",
+          "title": "Pense Bem",
+          "added": 1697218710609,
+          "longTitle": "Pense Bem (PT-BR)",
+          "description": "Do you remember the little computer with questions and answers? Well, now the game is available for the console. There are ten different topics to demonstrate your knowledge, including hard questions. At the end of each game, you receive a password and you can use it to increase your challenge score. How smart are you?",
+          "thumbnail": "https://i.imgur.com/17iXR6O.png",
+          "background": "https://i.imgur.com/xlWlUyM.png",
+          "backgroundPixelated": true
         },
         {
           "title": "Phantasy Star II",
@@ -4089,6 +4128,32 @@
           "added": 1693335959992
         },
         {
+          "title": "Turma da Mônica na Terra dos Monstros",
+          "longTitle": "Turma da Monica na Terra dos Monstros (PT-BR)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Turma%20da%20Monica%20na%20Terra%20dos%20Monstros%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Turma%20da%20Monica%20na%20Terra%20dos%20Monstros%20(Brazil).png",
+          "description": "Wonder Boy In Monster World puts you in control of Shion in his quest to save Monster World from the evil BioMeka. It controls like your standard platform game: run, jump, and kill enemies. The game is filled with RPG elements such as talking to townsfolk, collecting money to buy items, extending your life bar, and equipping a large variety of armor, weapons and magic.\n\nShion travels through the many interconnected regions of Monster World, all the while collecting increasingly powerful equipment in the form of many different swords, spears, shields, suits of armor, and boots.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/k7q3ogh4rmcoby0v3kcdc/Turma-da-Monica-na-Terra-dos-Monstros-Brazil.zip?rlkey=egamofx40oo0cfi5uto1hk4gg&dl=1"
+          },
+          "added": 1697218710610
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/nmco2i8jk85ryyabtbj6e/Ultracore-USA.zip?rlkey=wdfmfztwpm93d9odp2w3kselz&dl=1"
+          },
+          "type": "genesis",
+          "title": "Ultracore",
+          "added": 1697218710610,
+          "description": "An aftermarket release based on Hardcore, which was licensed for release by Sega back in the day but went unreleased by the original publisher, Psygnosis.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Ultracore%20(Europe)%20(MD-1.0)%20(Aftermarket)%20(Unl).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Ultracore%20(Europe)%20(MD-1.0)%20(Aftermarket)%20(Unl).png",
+          "backgroundPixelated": true,
+          "longTitle": "Ultracore"
+        },
+        {
           "title": "Where in the World Is Carmen Sandiego",
           "longTitle": "Where in the World Is Carmen Sandiego (PT-BR)",
           "type": "genesis",
@@ -4126,58 +4191,6 @@
           },
           "added": 1693335959992,
           "description": "Xeno Crisis is an arena shooter in which up to two players enter a ravaged research outpost to confront an alien menace and get out alive! Run and gun your way through thousands of adversaries as you search for the source of the deadly alien outbreak."
-        },
-        {
-          "title": "Contra: Hard Corps",
-          "longTitle": "Contra: Hard Corps",
-          "type": "genesis",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Contra%20-%20Hard%20Corps%20(USA%2C%20Korea).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Contra%20-%20Hard%20Corps%20(USA%2C%20Korea).png",
-          "description": "Kickin' cyborg butt... That's what it's all about, dude. Jack into this game of genetic engineering gone bad. Real bad. It's five years after the mother of all wars ended - and things still aren't right. Your job is to fix it. The ever-popular Contra series makes its Sega Genesis debut with a pulse-pounding new storyline. At 16 megs, HARD CORPS pushes the technology to bring you over ten gut-wrenching levels with huge boss characters, great graphics and dynamic sound. Find high powered weapons such as the homing gun, crush gun, needle laser or mine setter. Do you think you can handle it? Trust me, you can't. You still here? Okay, then get ready for the fight of your life. Pick one of the four heroes and begin your search across many dark levels of doom. The ending changes, depending on the paths you choose - but every pass crosses boss characters that will blow you away. Literally!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/r4u9m3s3mb51bwge5gvj8/Contra-Hard-Corps-USA-Korea.zip?rlkey=ta8486qm77hkmelavsrd7n7gp&dl=1"
-          },
-          "added": 1697218710609
-        },
-        {
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/0vurbuerwfnnzioj8h2qs/Pense-Bem-Brazil.zip?rlkey=s84uf4zdf805lu7v615iuu1ud&dl=1"
-          },
-          "type": "genesis",
-          "title": "Pense Bem",
-          "added": 1697218710609,
-          "longTitle": "Pense Bem (PT-BR)",
-          "description": "Do you remember the little computer with questions and answers? Well, now the game is available for the console. There are ten different topics to demonstrate your knowledge, including hard questions. At the end of each game, you receive a password and you can use it to increase your challenge score. How smart are you?",
-          "thumbnail": "https://i.imgur.com/17iXR6O.png",
-          "background": "https://i.imgur.com/xlWlUyM.png",
-          "backgroundPixelated": true
-        },
-        {
-          "title": "Turma da Mônica na Terra dos Monstros",
-          "longTitle": "Turma da Monica na Terra dos Monstros (PT-BR)",
-          "type": "genesis",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Turma%20da%20Monica%20na%20Terra%20dos%20Monstros%20(Brazil).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Turma%20da%20Monica%20na%20Terra%20dos%20Monstros%20(Brazil).png",
-          "description": "Wonder Boy In Monster World puts you in control of Shion in his quest to save Monster World from the evil BioMeka. It controls like your standard platform game: run, jump, and kill enemies. The game is filled with RPG elements such as talking to townsfolk, collecting money to buy items, extending your life bar, and equipping a large variety of armor, weapons and magic.\n\nShion travels through the many interconnected regions of Monster World, all the while collecting increasingly powerful equipment in the form of many different swords, spears, shields, suits of armor, and boots.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/k7q3ogh4rmcoby0v3kcdc/Turma-da-Monica-na-Terra-dos-Monstros-Brazil.zip?rlkey=egamofx40oo0cfi5uto1hk4gg&dl=1"
-          },
-          "added": 1697218710610
-        },
-        {
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/nmco2i8jk85ryyabtbj6e/Ultracore-USA.zip?rlkey=wdfmfztwpm93d9odp2w3kselz&dl=1"
-          },
-          "type": "genesis",
-          "title": "Ultracore",
-          "added": 1697218710610,
-          "description": "An aftermarket release based on Hardcore, which was licensed for release by Sega back in the day but went unreleased by the original publisher, Psygnosis.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Ultracore%20(Europe)%20(MD-1.0)%20(Aftermarket)%20(Unl).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Ultracore%20(Europe)%20(MD-1.0)%20(Aftermarket)%20(Unl).png",
-          "backgroundPixelated": true,
-          "longTitle": "Ultracore"
         },
         {
           "title": "YuYu Hakusho: Sunset Fighters",
@@ -4226,6 +4239,32 @@
             "rom": "https://www.dropbox.com/scl/fi/jfmbrcbplo33u0iom93gr/Castelo-Ra-Tim-Bum-Brazil.zip?rlkey=g25uxlyl1kvyzlekanm8fz3gx&dl=1"
           },
           "added": 1693335513860
+        },
+        {
+          "title": "Chapolim x Dracula: Um Duelo Assustador",
+          "longTitle": "Chapolim x Dracula: Um Duelo Assustador (PT-BR)",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Chapolim%20x%20Dracula%20-%20Um%20Duelo%20Assustador%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Chapolim%20x%20Dracula%20-%20Um%20Duelo%20Assustador%20(Brazil).png",
+          "description": "The player controls Mick, a young vampire hunter out to destroy five vampires in each stage before proceeding to the next.\n\nEverything is out to stop Mick from completing this tasks and making his way out of the mansion. The player has to punch, or jump on, his enemies to defeat them. Arrows will be flying from either direction and will attempt to hit Mick on the head, and he must either duck or jump on them for extra points. Players can jump or touch lights to freeze everything on screen for a few seconds. Rather than punching, the player can collect a sword on the lower level by jumping on it as it flies past him.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/ee8o3ytp377grikjcapip/Chapolim-x-Dracula-Um-Duelo-Assustador-Brazil.zip?rlkey=qi80ppbyy7vkml0mah9qqy5mf&dl=1"
+          },
+          "added": 1697218497038
+        },
+        {
+          "title": "Geraldinho",
+          "longTitle": "Geraldinho",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Geraldinho%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Geraldinho%20(Brazil).png",
+          "description": "Teddy Boy stars a young boy who is armed with a gun. Each level is an infinitely repeating maze with several dice. Each die is filled with monsters which hatch out and the player must shoot to shrink, then collect them. If the player does not collect each shrunken monster quickly, it turns into a time-eating bug which flies to the time limit bar and consumes a chunk of it. If you touch one monster or run out of time then you lose a life. The game ends if all lives are lost.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/bdwf5p9mbpep5wpkpxv96/Geraldinho-Brazil-En.zip?rlkey=1h92a9l2n1y8k3pxtbuso221s&dl=1"
+          },
+          "added": 1697218497038
         },
         {
           "title": "Ghouls'n Ghosts",
@@ -4293,6 +4332,19 @@
           "added": 1693335513860
         },
         {
+          "title": "Mônica no Castelo do Dragão",
+          "longTitle": "Mônica no Castelo do Dragão (PT-BR)",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Monica%20no%20Castelo%20do%20Dragao%20(Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Monica%20no%20Castelo%20do%20Dragao%20(Brazil).png",
+          "description": "The game is the sequel to the 1986 game Wonder Boy and takes place eleven years after the events in the previous game. After enjoying over a decade of peace on Wonder Land following the defeat of the evil King by Tom-Tom, later bestowed the title \"Wonder Boy\", a fire-breathing dragon called the MEKA dragon appeared; he and his minions conquered Wonder Land, turning it into \"Monster Land\".",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/jjvdmp8hngtrs1huhfje7/Monica-no-Castelo-do-Dragao-Brazil.zip?rlkey=fyi4cc95djresvwwy1p7lz7tn&dl=1"
+          },
+          "added": 1697218497038
+        },
+        {
           "title": "Ninja Gaiden",
           "longTitle": "Ninja Gaiden",
           "type": "sms",
@@ -4319,58 +4371,6 @@
           "added": 1693335513860
         },
         {
-          "title": "Ultima IV - Quest of the Avatar",
-          "longTitle": "Ultima IV - Quest of the Avatar",
-          "type": "sms",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Ultima%20IV%20-%20Quest%20of%20the%20Avatar%20(Europe%2C%20Brazil).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Ultima%20IV%20-%20Quest%20of%20the%20Avatar%20(Europe%2C%20Brazil).png",
-          "description": "Following the defeat of the evil triad in the previous three Ultima games, the world of Sosaria changed beyond recognition: continents rose and sank, and new cities were built, heralding the advent of a different civilization. Unified by the reign of the benevolent monarch Lord British, the new world was renamed Britannia. Lord British wished to base people's well-being on the ethical principles of Truth, Love, and Courage, proclaiming the Eight Virtues (Honesty, Compassion, Valor, Justice, Sacrifice, Honor, Spirituality, and Humility) as the ideal everyone should strive for. The person who could accomplish full understanding and realization of these virtues would serve as a spiritual leader and a moral example for the inhabitants of Britannia; he alone would be able to obtain holy artifacts, descend into the Stygian Abyss, and access the Codex of Ultimate Wisdom. This person is the Avatar.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/qkr9k4ev81de08dknquoh/Ultima-IV-Quest-of-the-Avatar-Europe.zip?rlkey=bl0h53glheyeqzufntv100cmg&dl=1"
-          },
-          "added": 1693335513861
-        },
-        {
-          "title": "Chapolim x Dracula: Um Duelo Assustador",
-          "longTitle": "Chapolim x Dracula: Um Duelo Assustador (PT-BR)",
-          "type": "sms",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Chapolim%20x%20Dracula%20-%20Um%20Duelo%20Assustador%20(Brazil).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Chapolim%20x%20Dracula%20-%20Um%20Duelo%20Assustador%20(Brazil).png",
-          "description": "The player controls Mick, a young vampire hunter out to destroy five vampires in each stage before proceeding to the next.\n\nEverything is out to stop Mick from completing this tasks and making his way out of the mansion. The player has to punch, or jump on, his enemies to defeat them. Arrows will be flying from either direction and will attempt to hit Mick on the head, and he must either duck or jump on them for extra points. Players can jump or touch lights to freeze everything on screen for a few seconds. Rather than punching, the player can collect a sword on the lower level by jumping on it as it flies past him.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/ee8o3ytp377grikjcapip/Chapolim-x-Dracula-Um-Duelo-Assustador-Brazil.zip?rlkey=qi80ppbyy7vkml0mah9qqy5mf&dl=1"
-          },
-          "added": 1697218497038
-        },
-        {
-          "title": "Geraldinho",
-          "longTitle": "Geraldinho",
-          "type": "sms",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Geraldinho%20(Brazil).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Geraldinho%20(Brazil).png",
-          "description": "Teddy Boy stars a young boy who is armed with a gun. Each level is an infinitely repeating maze with several dice. Each die is filled with monsters which hatch out and the player must shoot to shrink, then collect them. If the player does not collect each shrunken monster quickly, it turns into a time-eating bug which flies to the time limit bar and consumes a chunk of it. If you touch one monster or run out of time then you lose a life. The game ends if all lives are lost.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/bdwf5p9mbpep5wpkpxv96/Geraldinho-Brazil-En.zip?rlkey=1h92a9l2n1y8k3pxtbuso221s&dl=1"
-          },
-          "added": 1697218497038
-        },
-        {
-          "title": "Mônica no Castelo do Dragão",
-          "longTitle": "Mônica no Castelo do Dragão (PT-BR)",
-          "type": "sms",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Monica%20no%20Castelo%20do%20Dragao%20(Brazil).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Monica%20no%20Castelo%20do%20Dragao%20(Brazil).png",
-          "description": "The game is the sequel to the 1986 game Wonder Boy and takes place eleven years after the events in the previous game. After enjoying over a decade of peace on Wonder Land following the defeat of the evil King by Tom-Tom, later bestowed the title \"Wonder Boy\", a fire-breathing dragon called the MEKA dragon appeared; he and his minions conquered Wonder Land, turning it into \"Monster Land\".",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/jjvdmp8hngtrs1huhfje7/Monica-no-Castelo-do-Dragao-Brazil.zip?rlkey=fyi4cc95djresvwwy1p7lz7tn&dl=1"
-          },
-          "added": 1697218497038
-        },
-        {
           "title": "Sítio do Picapau Amarelo",
           "longTitle": "Sítio do Picapau Amarelo (PT-BR)",
           "type": "sms",
@@ -4395,6 +4395,19 @@
             "rom": "https://www.dropbox.com/scl/fi/kjqsn4iobr0zvf3n62a6j/Turma-da-Monica-em-O-Resgate-Brazil.zip?rlkey=a301lta2e5fu3jgf13o5dmosa&dl=1"
           },
           "added": 1697218497038
+        },
+        {
+          "title": "Ultima IV - Quest of the Avatar",
+          "longTitle": "Ultima IV - Quest of the Avatar",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Ultima%20IV%20-%20Quest%20of%20the%20Avatar%20(Europe%2C%20Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Ultima%20IV%20-%20Quest%20of%20the%20Avatar%20(Europe%2C%20Brazil).png",
+          "description": "Following the defeat of the evil triad in the previous three Ultima games, the world of Sosaria changed beyond recognition: continents rose and sank, and new cities were built, heralding the advent of a different civilization. Unified by the reign of the benevolent monarch Lord British, the new world was renamed Britannia. Lord British wished to base people's well-being on the ethical principles of Truth, Love, and Courage, proclaiming the Eight Virtues (Honesty, Compassion, Valor, Justice, Sacrifice, Honor, Spirituality, and Humility) as the ideal everyone should strive for. The person who could accomplish full understanding and realization of these virtues would serve as a spiritual leader and a moral example for the inhabitants of Britannia; he alone would be able to obtain holy artifacts, descend into the Stygian Abyss, and access the Codex of Ultimate Wisdom. This person is the Avatar.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/qkr9k4ev81de08dknquoh/Ultima-IV-Quest-of-the-Avatar-Europe.zip?rlkey=bl0h53glheyeqzufntv100cmg&dl=1"
+          },
+          "added": 1693335513861
         }
       ],
       "longTitle": "Sega Master System (1986)",
