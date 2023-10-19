@@ -1759,6 +1759,19 @@
             "rom": "https://www.dropbox.com/scl/fi/lf92s1zjje04424u39fzx/Zombies-Ate-My-Neighbors-USA.zip?rlkey=rrw257alt2ho8jl1ov6wcam82&dl=1"
           },
           "added": 1693332983504
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/2zexb0cbtpvgc6dp0up96/Futebol-Brasileiro-2023.zip?rlkey=vg1bvuzabm3lrfm5455xt47eg&dl=1"
+          },
+          "type": "snes",
+          "title": "Futebol Brasileiro 2023",
+          "added": 1697744811236,
+          "description": "It's a whole new ball game... Reallistic prites with 36 teams featuring recognisable celebrity players. Increased CPU intelligence to challenge beginners and experts alike. Choose from 15 formations, 8 strategies, 20 players and 9 adjustable player skills. Four way play possible with adaptor.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/International%20Superstar%20Soccer%20Deluxe%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/International%20Superstar%20Soccer%20Deluxe%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Futebol Brasileiro 2023"
         }
       ],
       "longTitle": "Super Nintendo Entertainment System (1991)",
@@ -7561,7 +7574,7 @@
             "game": "doom1"
           },
           "type": "doom",
-          "title": "Doom",
+          "title": "Doom (Shareware)",
           "description": "Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting his way through hordes of invading demons from Hell. The first episode, comprising nine levels, was distributed freely as shareware and played by an estimated 15–20 million people within two years.",
           "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/doom/doom1-thumb.png",
           "background": "https://webrcade.github.io/webrcade-default-feed/images/doom/freedoom2-background.png",
