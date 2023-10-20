@@ -593,6 +593,19 @@
         },
         {
           "props": {
+            "rom": "https://www.dropbox.com/scl/fi/2zexb0cbtpvgc6dp0up96/Futebol-Brasileiro-2023.zip?rlkey=vg1bvuzabm3lrfm5455xt47eg&dl=1"
+          },
+          "type": "snes",
+          "title": "Futebol Brasileiro 2023",
+          "added": 1697744811236,
+          "description": "It's a whole new ball game... Reallistic prites with 36 teams featuring recognisable celebrity players. Increased CPU intelligence to challenge beginners and experts alike. Choose from 15 formations, 8 strategies, 20 players and 9 adjustable player skills. Four way play possible with adaptor.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/International%20Superstar%20Soccer%20Deluxe%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/International%20Superstar%20Soccer%20Deluxe%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Futebol Brasileiro 2023"
+        },
+        {
+          "props": {
             "rom": "https://www.dropbox.com/scl/fi/is7l2cqtyjdpz4m2o6klw/Ganbare-Goemon-2-Kiteretsu-Shougun-Magginesu-Japan-ENG.zip?rlkey=228hccw83jlytelhx37pt1ujw&dl=1"
           },
           "type": "snes",
@@ -1759,19 +1772,6 @@
             "rom": "https://www.dropbox.com/scl/fi/lf92s1zjje04424u39fzx/Zombies-Ate-My-Neighbors-USA.zip?rlkey=rrw257alt2ho8jl1ov6wcam82&dl=1"
           },
           "added": 1693332983504
-        },
-        {
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/2zexb0cbtpvgc6dp0up96/Futebol-Brasileiro-2023.zip?rlkey=vg1bvuzabm3lrfm5455xt47eg&dl=1"
-          },
-          "type": "snes",
-          "title": "Futebol Brasileiro 2023",
-          "added": 1697744811236,
-          "description": "It's a whole new ball game... Reallistic prites with 36 teams featuring recognisable celebrity players. Increased CPU intelligence to challenge beginners and experts alike. Choose from 15 formations, 8 strategies, 20 players and 9 adjustable player skills. Four way play possible with adaptor.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/International%20Superstar%20Soccer%20Deluxe%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/International%20Superstar%20Soccer%20Deluxe%20(Europe).png",
-          "backgroundPixelated": true,
-          "longTitle": "Futebol Brasileiro 2023"
         }
       ],
       "longTitle": "Super Nintendo Entertainment System (1991)",
@@ -7555,6 +7555,22 @@
           "backgroundPixelated": true,
           "added": 1693359507521,
           "longTitle": "Yu-Gi-Oh! Forbidden Memories"
+        },
+        {
+          "props": {
+            "discs": [
+              "https://www.dropbox.com/scl/fi/7s39qhw1kyqvxuwfvofer/WE2002-Brasileirao-2022-BY-WeLegends.chd?rlkey=07kgn57i14nwcdopb7ozw38wm&dl=0"
+            ],
+            "uid": "e755eb51-7635-4481-a332-36fdd5897daf"
+          },
+          "type": "psx",
+          "title": "Brasileirão 2022",
+          "description": "\tWitness the resurrection! Pro Evolution Soccer 2/Winning Eleven 2002 is here and according to die-hard football fans, all areas of the press and online experts it's by far and away the best football action game ever released! Winning Eleven 2002 is the eagerly awaited successor to a game that has rewritten the rules for football simulation titles and created a new and immense benchmark for others to try and imitate. In short, it is THE world-class football title. Prepare yourself for a game the like of which you've never experienced before...",
+          "thumbnail": "https://i.imgur.com/BbbRelH.png",
+          "background": "https://i.imgur.com/R5gCihb.png",
+          "longTitle": "Brasileirão 2022 (Winning Eleven 2002)",
+          "backgroundPixelated": true,
+          "added": 1697760483084
         }
       ],
       "longTitle": "Sony PlayStation (1995)",
