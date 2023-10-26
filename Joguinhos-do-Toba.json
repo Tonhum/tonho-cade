@@ -1772,6 +1772,19 @@
             "rom": "https://www.dropbox.com/scl/fi/lf92s1zjje04424u39fzx/Zombies-Ate-My-Neighbors-USA.zip?rlkey=rrw257alt2ho8jl1ov6wcam82&dl=1"
           },
           "added": 1693332983504
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/liexlzvngaoaxh9l22bde/BS-Dynami-Tracer-Japan-ENG.zip?rlkey=cmitfv43gm90kyommaix7e6aj&dl=1"
+          },
+          "type": "snes",
+          "title": "Dynami Tracer",
+          "added": 1698291893811,
+          "longTitle": "Dynami Tracer (ENG)",
+          "description": "Dynami Tracer is a mischievous mÃ©lange of RPG exploration and racing. It was released exclusively for Nintendo's Satellaview system, which sent games to the Super Famicom via satellite signals, requiring a special adapter to receive and decode the data. This means that Dynami Tracer was never released in cartridge form, and as such, you can't purchase it anywhere, ever. The RPG aspect primarily involves your character going from star to star, interacting with the flamboyant locals and acquiring information. Every once in a while, you'll somehow get yourself involved in a race.",
+          "thumbnail": "https://i.imgur.com/6YVHhfO.png",
+          "background": "https://i.imgur.com/tmpMBaf.png",
+          "backgroundPixelated": true
         }
       ],
       "longTitle": "Super Nintendo Entertainment System (1991)",
@@ -3698,8 +3711,8 @@
           "added": 1693335959991
         },
         {
-          "title": "Shinobi III - Return of the Ninja Master",
-          "longTitle": "Shinobi III - Return of the Ninja Master",
+          "title": "Shinobi III: Return of the Ninja Master",
+          "longTitle": "Shinobi III: Return of the Ninja Master",
           "type": "genesis",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20(USA).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20(USA).png",
@@ -6336,6 +6349,22 @@
         },
         {
           "props": {
+            "discs": [
+              "https://www.dropbox.com/scl/fi/7s39qhw1kyqvxuwfvofer/WE2002-Brasileirao-2022-BY-WeLegends.chd?rlkey=07kgn57i14nwcdopb7ozw38wm&dl=0"
+            ],
+            "uid": "e755eb51-7635-4481-a332-36fdd5897daf"
+          },
+          "type": "psx",
+          "title": "Brasileirão 2022",
+          "description": "\tWitness the resurrection! Pro Evolution Soccer 2/Winning Eleven 2002 is here and according to die-hard football fans, all areas of the press and online experts it's by far and away the best football action game ever released! Winning Eleven 2002 is the eagerly awaited successor to a game that has rewritten the rules for football simulation titles and created a new and immense benchmark for others to try and imitate. In short, it is THE world-class football title. Prepare yourself for a game the like of which you've never experienced before...",
+          "thumbnail": "https://i.imgur.com/BbbRelH.png",
+          "background": "https://i.imgur.com/R5gCihb.png",
+          "longTitle": "Brasileirão 2022 (Winning Eleven 2002)",
+          "backgroundPixelated": true,
+          "added": 1697760483084
+        },
+        {
+          "props": {
             "uid": "21ce6a0b-75c6-4eda-a7e1-26ec5cfd24f9",
             "discs": [
               "https://archive.org/download/chd_psx/CHD-PSX-USA/Castlevania%20Chronicles%20%28USA%29.chd"
@@ -7555,22 +7584,6 @@
           "backgroundPixelated": true,
           "added": 1693359507521,
           "longTitle": "Yu-Gi-Oh! Forbidden Memories"
-        },
-        {
-          "props": {
-            "discs": [
-              "https://www.dropbox.com/scl/fi/7s39qhw1kyqvxuwfvofer/WE2002-Brasileirao-2022-BY-WeLegends.chd?rlkey=07kgn57i14nwcdopb7ozw38wm&dl=0"
-            ],
-            "uid": "e755eb51-7635-4481-a332-36fdd5897daf"
-          },
-          "type": "psx",
-          "title": "Brasileirão 2022",
-          "description": "\tWitness the resurrection! Pro Evolution Soccer 2/Winning Eleven 2002 is here and according to die-hard football fans, all areas of the press and online experts it's by far and away the best football action game ever released! Winning Eleven 2002 is the eagerly awaited successor to a game that has rewritten the rules for football simulation titles and created a new and immense benchmark for others to try and imitate. In short, it is THE world-class football title. Prepare yourself for a game the like of which you've never experienced before...",
-          "thumbnail": "https://i.imgur.com/BbbRelH.png",
-          "background": "https://i.imgur.com/R5gCihb.png",
-          "longTitle": "Brasileirão 2022 (Winning Eleven 2002)",
-          "backgroundPixelated": true,
-          "added": 1697760483084
         }
       ],
       "longTitle": "Sony PlayStation (1995)",
