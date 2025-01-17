@@ -1837,6 +1837,19 @@
             "rom": "https://drive.google.com/file/d/1JoaGb0r-2fS9jCcdZgWEjD30n7BAY1nW/view?usp=sharing"
           },
           "added": 1693332983504
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1SN_N3UlvdVnWlbQGW_OSIOBDV27JgDuq/view?usp=sharing"
+          },
+          "type": "snes",
+          "title": "Ninjawarriors",
+          "description": "The land is under the grip of a tyrant named Benglar, who is able to brainwash those he captures. Using this ability he has taken over the military forces and now appears unstoppable. However, resistance forces lead by Mulk have been developing a new weapon: Cybernetic Special Forces with the ability to think, dubbed the Ninja Warriors. Untested, these machines are given the orders to assassinate Benglar...\n\nNinja Warriors plays as a side scrolling beat 'em up, and is a single player adaptation of The Ninja Warriors arcade game. Players can choose from 3 different Ninja Warriors: Ninja, Kunoichi or Kamaitachi. The characters play differently, but share some common controls. Each can attack, jump, grab the enemy, block attacks or unleash a special attack on the entire screen. This special attack charges up gradually and can be reset by being knocked to the ground.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Ninjawarriors%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Ninjawarriors%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "The Ninjawarriors",
+          "added": 1737092680871
         }
       ],
       "longTitle": "Super Nintendo Entertainment System (1991)",
@@ -2458,6 +2471,58 @@
             "rom": "https://drive.google.com/file/d/1pUyFC9Vrh0tZ1n57Ogxa_NmVMoxTK9Gr/view?usp=sharing"
           },
           "added": 1693334272187
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1wI9YNpQ00hSkswHEy-STFbupX5WNUL8K/view?usp=sharing"
+          },
+          "type": "nes",
+          "title": "Battletoads",
+          "description": "After her defeat by the Galactic Corporation at the battle of Canis Major, the evil Dark Queen and her renegade space troops retreat to the outer reaches of the universe, hiding out in dark spaces between the stars. Meanwhile, on board the spaceship Vulture, Professor T. Bird and the trio of Battletoads - Rash, Zitz and Pimple - are escorting the Princess Angelica back to her home planet, where her father, the Terran Emperor, awaits her safe arrival. Along the way, Pimple, the biggest Battletoad, takes Angelica out for a cruise in the Toadster to a nearby Leisure Station, but the Dark Queen ambushes them before they can get there, and they are kidnapped and carried away to Ragnarok's World, the Dark Queen's planet. Professor Bird sends remaining Battletoads down on Ragnarok to save Pimple and Angelica, but it will be a hard battle against planet's dangerous environments, traps and Dark Queen's troops. They have to go a long way from the planet's rough surface to deep caves and landed Gargantua and ultimately to the Tower of Shadows, where the Dark Queen awaits.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Battletoads%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Battletoads%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Battletoads",
+          "added": 1737092789015
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/10AieS6igiy8Os1UD46UUUmugPTEb3ZNe/view?usp=sharing"
+          },
+          "type": "nes",
+          "title": "Blaster Master",
+          "description": "Blaster Master has two modes of gameplay which depends on the situation and location of the player. The first mode is where the player controls SOPHIA in a twodimensional platform mode; the second mode is where the player controls Jason while outside SOPHIA in either the same 2D platform mode or in a top-down perspective. Gameplay in the top-down perspective consists of a series of labyrinths in which players navigate and defeat enemies along the way.Gameplay is non-linear, and players must return to earlier levels in order to advance to later levels in the game. The objective is to complete all eight levels and destroy the mutants and their bosses with various weaponry such as guns, grenades, and special weapons.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Blaster%20Master%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Blaster%20Master%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Blaster Master",
+          "added": 1737092815775
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1Ud1h0409k6lhfVw3ql8SKjZQ7WnyFpgT/view?usp=sharing"
+          },
+          "type": "nes",
+          "title": "Metal Storm",
+          "description": "Battle station cyberg's massive computer that keeps peace throughout the solar system is no longer user friendly. It's gone wildly out of control. The LaserGun it operates has already destroyed Neptune. Earth is its next target. As a high-tech hot shot, you must enter Cyber's core and activate the system's self-destruct mechanism. Mankind is reyling on your know-how and toughness to see this thing through. But time is running out...",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Metal%20Storm%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Metal%20Storm%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Metal Storm",
+          "added": 1737092897207
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/13kqM0AstwBtQ4TXd7ZM1sWg6FmkhNf5a/view?usp=sharing"
+          },
+          "type": "nes",
+          "title": "Shi Kong Zhi Lun",
+          "longTitle": "Chrono Trigger: Shi Kong Zhi Lun (ENG)",
+          "description": "Shi Kong Zhi Lun, also known as Chrono Trigger (erroneously Cnrono Trigger on the title screen) is a backport of the original Squaresoft SNES game, made by Shenzhen Nanjing Technology Co., Ltd. for the Famicom.\nThe game is loosely based off the original game, and it shares the same characteristics of other Nanjing RPGs, since they share the same engine. The battle system here isn't implemented properly; the game treats the battle layout as a standard RPG battle but still relies on the gauges from the original active battle system the game uses.The game only goes up to the fight with Magus, whose battle is cited as being near impossible due to requiring near-frame perfect inputs even with maxed stats.",
+          "thumbnail": "https://i.imgur.com/nZGIXRF.jpeg",
+          "background": "https://i.imgur.com/HrWtmz7.jpeg",
+          "backgroundPixelated": true,
+          "added": 1737093131631
         }
       ],
       "longTitle": "Nintendo Entertainment System (1985)",
@@ -2792,6 +2857,19 @@
           "backgroundPixelated": true,
           "longTitle": "Worms Armageddon",
           "added": 1725721407968
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1RutxS5uZAYYQVQVPzH7csQhWaVQr6wTM/view?usp=sharing"
+          },
+          "type": "n64",
+          "title": "Mario Golf",
+          "description": "Players can play as a variety of characters including Mario, Luigi, Princess Peach, Yoshi, and Wario. The game also introduces Plum, Sonny, Harry, Maple, and Charlie, new characters created by Camelot specifically for the game. Players can then select from a number of courses which have features adapted to the Nintendo world. Mario Golf is also very easy to play (also known as a \"pick up and play\" game) as it makes golf very simple.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Golf%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Golf%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Mario Golf",
+          "added": 1737093231471
         }
       ],
       "longTitle": "Nintendo 64 (1996)",
@@ -3304,6 +3382,19 @@
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gb-images/master/Named_Titles/resized/Wario%20Land%20-%20Super%20Mario%20Land%203%20(World).png",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gb-images/master/Named_Snaps/output/Wario%20Land%20-%20Super%20Mario%20Land%203%20(World).png",
           "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1jHE3gBqe6GUQSZJG2q5t9T1MHqVjq_Uq/view?usp=sharing"
+          },
+          "type": "gbc",
+          "title": "Mario Tennis",
+          "description": "Mario Tennis for the Game Boy Color is a much different experience than its N64 effort. In addition to the core gameplay found in the N64 version, the GBC version features an RPG-style world that allows you to work your way up through the ranks at the Royal Tennis Academy.\n\nThe main mode, Mario Tour, has you starting off as a Rookie with low stats. By completing training programs and defeating other students, you're able to gain experience points, which allow you to boost your tennis stats. When you're not playing tennis, you can spend time wandering the Academy grounds: talking to other students, or just taking in the sights and sounds.\n\nIn addition to the main game, there's also an exhibition mode (singles or doubles) for quick-play. And, if you get tired of playing the computer, the game supports the Game Link Cable for play against a friend.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Titles/resized/Mario%20Tennis%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Snaps/output/Mario%20Tennis%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Mario Tennis",
+          "added": 1737093360111
         }
       ],
       "longTitle": "Nintendo Game Boy Color (1998)",
@@ -4392,6 +4483,32 @@
             "rom": "https://drive.google.com/file/d/1oRjyVy_CxYWlokfK0NpnfChouaJ90Mh-/view?usp=sharing"
           },
           "added": 1697218710610
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1MwLnqdtNs2M0seLk2M-U-BYyyj2i_6PV/view?usp=sharing"
+          },
+          "type": "genesis",
+          "title": "Alex Kidd in the Enchanted Castle",
+          "description": "Alex lives on Planet Aries, controlled by his brother, King Igul. After hearing a rumor that his long-lost father, King Thor, is still alive on Planet Paperock, Alex travels to the planet to search for him.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Alex Kidd in the Enchanted Castle",
+          "added": 1737093517655
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1spvV2Asrquc5hQmZybcPu07iYODnkmse/view?usp=sharing"
+          },
+          "type": "genesis",
+          "title": "Guerra dos Monstros",
+          "longTitle": "Guerra dos Monstros",
+          "description": "Trata-se de um \"card-game\". O game não foi vendido em mídia física, mas lançado apenas na memória de alguns modelos do console Mega Drive vendidos no Brasil, como o Sega Tec Toy Super Mega Drive 3 com 71 jogos na memória. Jogo lançado exclusivamente no Mega Drive.",
+          "thumbnail": "https://i.imgur.com/RTy9LWd.png",
+          "background": "https://i.imgur.com/J3zc4pf.png",
+          "backgroundPixelated": true,
+          "added": 1737093713118
         }
       ],
       "thumbnail": "https://i.imgur.com/kMijWKT.png",
@@ -4596,6 +4713,71 @@
             "rom": "https://drive.google.com/file/d/1lMXBtvvMEETV2G42zag2vzqYDRBafP8n/view?usp=sharing"
           },
           "added": 1693335513861
+        },
+        {
+          "title": "Alex Kidd: High-Tech World",
+          "longTitle": "Alex Kidd: High-Tech World",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Alex%20Kidd%20-%20High-Tech%20World%20(USA%2C%20Europe%2C%20Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Alex%20Kidd%20-%20High-Tech%20World%20(USA%2C%20Europe%2C%20Brazil).png",
+          "description": "Alex Kidd is contacted by one of his friends, who tells him a new arcade, High Tech World, has opened in town. Alex has a map to its location, but it has been torn into eight pieces, and is needed to find the arcade before it closes at 5:00 sharp. He solves puzzles, answers questions, runs errands and does housework to find the pieces. However, once he finds the pieces of the map, he learns that the front gates are shut, and thus is unable to leave. Using a hang-glider to leave the house he lands in the forest. On his way to the arcade, a clan of ninjas appear, who attempt to kill him. Upon fighting through the forest of ninjas, Alex finally makes it to the Arcade.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1Q00tUvtBxXSm5w9rYmp6USAHBxdos3wm&confirm=t"
+          },
+          "added": 1737093887883
+        },
+        {
+          "title": "Alex Kidd: The Lost Stars",
+          "longTitle": "Alex Kidd: The Lost Stars",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Alex%20Kidd%20-%20The%20Lost%20Stars%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Alex%20Kidd%20-%20The%20Lost%20Stars%20(World).png",
+          "description": "Alex Kidd: The Lost Stars features Alex Kidd and Stella searching for the twelve Zodiac signs.\nThe Master System version has infinite lives, though being hit or falling into a pit subtracts seconds in the timer and backtracks the player to the last checkpoint in the round.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1iYJEJzRFYTRKTtkjlddYap3I5-85lVSa&confirm=t"
+          },
+          "added": 1737093887883
+        },
+        {
+          "title": "Alex Kidd in Miracle World",
+          "longTitle": "Alex Kidd in Miracle World",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Alex%20Kidd%20in%20Miracle%20World%20(USA%2C%20Europe%2C%20Brazil)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Alex%20Kidd%20in%20Miracle%20World%20(USA%2C%20Europe%2C%20Brazil)%20(Rev%201).png",
+          "description": "Alex Kidd attack is punching, which he can use to kill enemies, break certain types of rocks to open blocks, and access new areas and collect money. Breaking or stepping on certain blocks releases an evil spirit that will try to kill Alex; others unlock a great ability to jump. The game requires more than the player's ability to accomplish specific phases.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1R0e0WtjZ49_yhbyEtSRuuHPdrQl3g9BX&confirm=t"
+          },
+          "added": 1737093887883
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1Q3K1jIW3MFFL50yxQMneV2VZrdPHTHgt/view?usp=sharing"
+          },
+          "type": "sms",
+          "title": "Alex Kidd in Shinobi World",
+          "description": "Alex Kidd has to rescue his girlfriend, a native of Shinobi World, from an evil ninja named Hanzo. A good ninja fuses into him and gives him his powers.\n\nAlex Kidd in Shinobi World contains 4 rounds with 3 stages:\nRound 1: Kabuto\nRound 2: Raid of the Helicopters\nRound 3: The Jungle\nRound 4: The Battle with the Dark Ninja",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Alex%20Kidd%20in%20Shinobi%20World%20(USA%2C%20Europe%2C%20Brazil).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Alex%20Kidd%20in%20Shinobi%20World%20(USA%2C%20Europe%2C%20Brazil).png",
+          "backgroundPixelated": true,
+          "longTitle": "Alex Kidd in Shinobi World",
+          "added": 1737093939863
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/17p_PwI6Sdwm8yzmRnNQ0dCSMTXeQFVYq/view?usp=sharing"
+          },
+          "type": "sms",
+          "title": "Sapo Xule vs. Os Invasores do Brejo",
+          "description": "Psycho Fox must get to the right hand side of the level. However, there are many enemies in the way. He can use a Shinto stick to change into characters/animals like a hippopotamus, a monkey or a tiger, each of which has its own special ability. The hippopotamus is slow and cannot jump very high, but can punch through special destructible blocks in the game world. The monkey can jump higher than the other creatures and the tiger can run faster. Psycho also has an ally named Birdfly, who can be used as armor or as a boomerang. If Psycho is hit while carrying Birdfly, Birdfly goes away and the player does not lose a life.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Sapo%20Xule%20vs.%20Os%20Invasores%20do%20Brejo%20(Brazil).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Sapo%20Xule%20vs.%20Os%20Invasores%20do%20Brejo%20(Brazil).png",
+          "backgroundPixelated": true,
+          "longTitle": "Sapo Xule vs. Os Invasores do Brejo",
+          "added": 1737094043726
         }
       ],
       "longTitle": "Sega Master System (1986)",
@@ -4685,6 +4867,38 @@
           "backgroundPixelated": true,
           "added": 1693355065857,
           "longTitle": "Terminator, The"
+        },
+        {
+          "props": {
+            "discs": [
+              "https://drive.google.com/file/d/1Sd7FDBMQ-qxlJPc-hekuxCXiMusK1NE4/view?usp=sharing"
+            ],
+            "uid": "95ab9a25-7754-42a5-9462-50974003ef19"
+          },
+          "type": "segacd",
+          "title": "Dune",
+          "description": "Based on the legendary Frank Herbert novel of the same name and visually inspired by the 1984 David Lynch movie, Dune is a strategy-adventure hybrid where the player takes the role of young Paul Atreides, the son of Duke Leto. The Emperor Shaddam Corrino IV has given the Atreides House the rights to manage the extraction of the most precious substance in the entire universe - the Melange, commonly known as Spice in the desolate desert planet Arrakis (Dune), the only place in the universe capable of producing the substance. While everything indicates the offer is a trap orchestrated by their enemies the Harkonnen, the Atreides family agrees on moving, as he who controls the spice, controls the universe.  The player arrives in Arrakis with the mission of contacting and convincing the Fremen tribes residing in sietches (desert settlements) near the Atreides palace to harvest the spice. Harvesting is the most important part of the game, required to purchase equipment from the smugglers and appease the emperor. To speed up the process of harvesting, the player can equip the tribes with harvesters to increase production and ornis to protect them from the gigantic protectors of the planet: Shai-Hulud - the sandworms.   However, the spice doesn't last forever and new sietches must be prospected before having a mining crew assigned, but the player cannot run Southwards forever, as the Harkonnen enemy controls the North of the Planet, dangerously close to the Atreides Palace. Soon after the initial batches are sent to the Emperor, the player will have to actively deal with the Harkonnen, who will try to take control of player Sietches. For those, Fremen tribes can be assigned to military training with Gurney Halleck, but before doing such work Paul must have a certain reputation, gained by the control of Arrakis.  As the game advances, the player will untap Paul's latent powers, as well as meeting other characters from the Dune universe, such as Duke Leto, Jessica, Thufir Hawat, Duncan Idaho, Harah, Chani, Stilgar and Liet Kynes, the mastermind behind the ecological plans on Dune - the ultimate goal.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-segacd-images/master/Named_Titles/resized/Dune%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CAr).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-segacd-images/master/Named_Snaps/output/Dune%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CAr).png",
+          "backgroundPixelated": true,
+          "longTitle": "Dune",
+          "added": 1737094182511
+        },
+        {
+          "props": {
+            "uid": "3a014064-37ef-4ae0-aaa2-2aa6ddae8d87",
+            "discs": [
+              "https://drive.google.com/file/d/1xoUvSzLGicLWfMCfOhsqu1cpKAHiuXGU/view?usp=sharing"
+            ]
+          },
+          "type": "segacd",
+          "title": "Popful Mail",
+          "description": "In this platform action game, you play as a cute bounty hunter known as Popful Mail. While you might think that a cute Anime chick would have no trouble making a living slashing bad guys with her sword, Popful is having a hard time making ends meet.  One day, however, Popful learns about a magician who has gone rogue and has a hefty bounty on his head. So, her adventure begins as Popful fights her way through a new adventure, and makes new friends along the way.  Primarily this is an action game with very slight RPG elements. As you make your way through the plethora of levels, you will have to collect money from slain foes. You use this money in the shops to buy weapons, armor, health, and so on. Also, this game features interaction with many, many characters through both on-screen dialog and fully animated sequences. Some of these characters become playable as you progress through the game.  This release has the same story and general gameplay style as the  earlier version, but otherwise was made from scratch, having entirely different graphics, locations, enemies, challenges, etc.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-segacd-images/master/Named_Titles/resized/Popful%20Mail%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-segacd-images/master/Named_Snaps/output/Popful%20Mail%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Popful Mail",
+          "added": 1737094208910
         }
       ],
       "longTitle": "Sega CD (1991)",
@@ -5281,6 +5495,33 @@
             "rom": "https://drive.google.com/file/d/1gub2LF-TIJQXwckRcJkXT1NM8nG3_c2o/view?usp=sharing"
           },
           "added": 1693348186078
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1PDfXExQmXNwNnAHzAMfksJ4HJnil6CZa/view?usp=sharing",
+            "additionalRoms": []
+          },
+          "type": "arcade",
+          "title": "Alien vs Predator",
+          "description": "San Drad, California, has been overrun by the Aliens, and the cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have been abandoned by their superiors and are cornered by a swarm of the Alien drones.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Alien%20vs%20Predator%20(940520%20Asia).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Alien%20vs%20Predator%20(940520%20Asia).png",
+          "backgroundPixelated": true,
+          "longTitle": "Alien vs Predator",
+          "added": 1737094274358
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1oiJ6y7mvSTj3BQYN7Igmiml_tBvU4Okq/view?usp=sharing"
+          },
+          "type": "arcade",
+          "title": "Cadillacs and Dinosaurs",
+          "description": "Cadillacs and Dinosaurs é um jogo de beat 'em up para arcade lançado em 1993 pela Capcom e baseado nos quadrinhos Xenozoic Tales de Mark Schultz. \nApós inúmeros desastres naturais causados pela poluição, a humanidade entra em colapso e os sobreviventes são obrigados a viver por séculos em cidades subterrâneas. Ao voltar para a superfície, no ano de 2513, os humanos descobrem que a Terra foi repovoada por dinossauros, que a princípio eram dóceis e conviviam de forma pacífica com os humanos, até que começaram a sofrer ataques de uma gangue chamada Black Marketers, que caçavam os dinossauros e cometiam outras atrocidades sem motivo aparente. Isso fez com que os dinossauros se tornassem hostis com os humanos e começassem a atacar povoados. A fim de colocar as coisas em ordem novamente, Jack Tenrec, Hannah Dundee, Mustapha Cairo e Mess O'Bradovich decidem juntar-se contra as ações dos Black Marketers e iniciam uma busca aos membros da gangue e seus líderes.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Cadillacs%20and%20Dinosaurs%20(28th-Anniversary%2C%20Hack).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Cadillacs%20and%20Dinosaurs%20(28th-Anniversary%2C%20Hack).png",
+          "backgroundPixelated": true,
+          "longTitle": "Cadillacs and Dinosaurs",
+          "added": 1737094421847
         }
       ],
       "longTitle": "Jogos de fliperama",
@@ -5302,6 +5543,240 @@
           "backgroundPixelated": true,
           "longTitle": "Crossed Swords",
           "added": 1725733098444
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1W4PX-_wYcCffZmimJwaA_dCgkrdv6M-q/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Metal Slug - Super Vehicle-001",
+          "description": "Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.\n\nThe player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there's also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss. \n\nThe PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%20-%20Super%20Vehicle-001.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%20-%20Super%20Vehicle-001.png",
+          "backgroundPixelated": true,
+          "longTitle": "Metal Slug: Super Vehicle-001",
+          "added": 1725733603547
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1Y9c9lkwWsbScTwIZ29-c0rvwTGv0yymr/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Metal Slug 2: Super Vehicle-001/II",
+          "description": "The heroes of Metal Slug, Marco and Tarma, are called into action once again to take on the might of General Morden and his armies in this, the first of several sequels to the superb 1996 original. This time, however, Morden has acquired a number of powerful allies to aid him in his evil schemes, some of which are not even human. The 2 brave soldiers are called upon to deal with this threat once again, aided by members of the newly founded 'Sparrow Squad', Fio and Eri.\n\nMetal Slug 2 improved on much of what made the first game great; featuring more enemies, larger bosses, more weapons, more vehicles, more hostages, more surprises and more humour than its illustrious predecessor. The occasional moments of slowdown that blighted the first game are still present, however.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%202%20-%20Super%20Vehicle-001_II%20(CZXInc%20FC2%20Version%2C%20hack).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%202%20-%20Super%20Vehicle-001_II%20(CZXInc%20FC2%20Version%2C%20hack).png",
+          "backgroundPixelated": true,
+          "longTitle": "Metal Slug 2: Super Vehicle-001/II",
+          "added": 1725733643115
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1JDvzcrBnAzk4OWFSLTr4EPKrUi6e932Q/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Metal Slug 3",
+          "description": "The heroes of the first 2 games return once more to do battle with the ever-present General Morden and his vast army. The third game of the series places a greater emphasis on defeating hulking boss characters than the 2 previous outings. Metal Slug 3 also introduced multiple routes through most levels, vastly increasing the replay value of the game. For example; on the first level the player reaches a point where they can either continue over land, or enter a small submarine and head down into the ocean depths, where they will be faced with a variety of huge, deadly sea-dwelling creatures.\n\nMetal Slug 3 introduced a number of new elements that have a direct effect on the player's character - similar to the 'mummification' of the second game. The first of these is the 'fatty' affect : should the player pick up too much food (fish, for example) their character will morph in an obese version of itself. This doesn't have any detrimental effect on performance and is included purely for reasons of humour. Another effect is the now infamous 'Zombiefication'; should the player's character be attacked by a Zombie, he or she will become Zombie until they are either killed, or pick up a first-aid, which will restore the player's character back to human form. Movement while in the zombie state is slow and restricted but the player is armed with what can perhaps be best described as the 'Zombie Vomit'; a huge arc of blood that can be used to destroy oncoming enemies. A second Zombie attack while the player's character is in a Zombie state will result in the player losing a life.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%203%20(Multifunction%20Hack%2C%2020190119).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%203%20(Multifunction%20Hack%2C%2020190119).png",
+          "backgroundPixelated": true,
+          "longTitle": "Metal Slug 3",
+          "added": 1725733669299
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1suqFLia4TaPJZpSeTlJzKj4sV47lWKwY/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Metal Slug 4",
+          "description": "The popular series of side-scrolling action games continues, introducing all-new characters into the plot. The world is now trembling under the fear of cyber terror, as the birth of a deadly new computer virus threatens to snatch the main military system out of every country. The virus has been created by the terrorist group known as Amadeus, and must be stopped by the four main heroes in the story. They are : Marco Rossi, an army platoon leader; Fio Germi, a superior director of an Italian secret service; Nadia Cassel, a French regular army soldier; and Trevor Spacey, a regular army sergeant. In the game introduction, the team discover that Morden is still alive and probably behind Amadeus...",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%204%20(Multifunction%20Hack%2C%2020171225).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%204%20(Multifunction%20Hack%2C%2020171225).png",
+          "backgroundPixelated": true,
+          "longTitle": "Metal Slug 4",
+          "added": 1725733694755
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1AmosmOd2SIaAFgNFHCJZCGnad5lx_g5V/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Metal Slug 5",
+          "description": "A research installation developing the next-generation of Metal Slugs is attacked by unknown forces and a disk containing Metal Slug secrets is stolen. Ordered to recover the disk, Marco and Tarma follow in hot pursuit. Meanwhile, Eri and Fio, investigating the Ptolemaic Army, a paramilitary syndicate active in archeological excavation, catch up with them at an ancient ruin, 'The Corridor of Fire'. The two try to storm and seize the site but are repulsed by the natives and giant Metal Slugs. This incident proves it was the Ptolemaic Army that stole the Metal Slug secrets. The military subsequently launches a second raid by the elite PF squad and Sparrows on the 'The Corridor of Fire' to recover the secrets and destroy the syndicate!!!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%205%20(bootleg%2C%20set%201).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%205%20(bootleg%2C%20set%201).png",
+          "backgroundPixelated": true,
+          "longTitle": "Metal Slug 5",
+          "added": 1725733719395
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1_FgH_c0zpv82V2gOEwtDnLMGTvSrHQMY/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Metal Slug X: Super Vehicle-001",
+          "description": "Originally released to improve upon some of the problems the previous Metal Slug game (\"Metal Slug 2 - Super Vehicle-001/II\") had, most notably its notorious slowdown, this update also implemented several changes to beef up the gameplay, such as new enemies, a different end boss layout and a number of new weapons and secrets. The result is a better game and one of the finest chapters in this series.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%20X%20-%20Super%20Vehicle-001%20(AzStar%20Soda%20Remix%20FC2%20Version%2C%20hack).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%20X%20-%20Super%20Vehicle-001%20(AzStar%20Soda%20Remix%20FC2%20Version%2C%20hack).png",
+          "backgroundPixelated": true,
+          "longTitle": "Metal Slug X: Super Vehicle-001",
+          "added": 1725733745843
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1EY86jHZCWKkHRIgNJNWkW_n3rPjLqFzz/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Neo Bomberman",
+          "description": "As Bomberman, you must kill all the enemies in the level before proceeding to the next. To do this, you clear a path of blocks by setting bombs that will detonate a few seconds later, and then use the bombs to wipe out enemies. Some blocks will uncover power-ups, and depending on which ones you collect, you will receive more bombs, more lives, more time, manual bomb detonation, expanded blast zone, and the ability to move faster. In some levels some blocks will reveal eggs that you can hatch to produce a bird that you can ride on and allows you to take an additional hit from an enemy or bomb blast without losing a life.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Neo%20Bomberman.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Neo%20Bomberman.png",
+          "backgroundPixelated": true,
+          "longTitle": "Neo Bomberman",
+          "added": 1725733772979
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1qrn80RHkaWZrYuq3XWIpRMFAkGCjJdiW/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Neo Drift Out: New Technology",
+          "description": "Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level. ",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Neo%20Drift%20Out%20-%20New%20Technology.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Neo%20Drift%20Out%20-%20New%20Technology.png",
+          "backgroundPixelated": true,
+          "longTitle": "Neo Drift Out: New Technology",
+          "added": 1725733891203
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1wfHvo7EaapQrAnUdDVyZdsxuRIHOw-Nr/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Neo Turf Masters",
+          "description": "Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn \"super-clubs\" that can only be used once. These can also be traded between friends.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Neo%20Turf%20Masters%20_%20Big%20Tournament%20Golf.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Neo%20Turf%20Masters%20_%20Big%20Tournament%20Golf.png",
+          "backgroundPixelated": true,
+          "longTitle": "Neo Turf Masters / Big Tournament Golf",
+          "added": 1725734348050
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1eWMz1oDLZQlssBQ3oMCRlQd3PbdQu2nt/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Neo-Geo Cup '98: The Road to the Victory",
+          "description": "Neo Geo Cup'98 is a football simulation based on the World Cup 1998. This title is a new installment in the series Super Sidekicks and updates all data to focus on the event. In qualification phase or during games knockout, lead one of the 64 available teams to victory.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Neo-Geo%20Cup%20'98%20-%20The%20Road%20to%20the%20Victory.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Neo-Geo%20Cup%20'98%20-%20The%20Road%20to%20the%20Victory.png",
+          "backgroundPixelated": true,
+          "longTitle": "Neo-Geo Cup '98: The Road to the Victory",
+          "added": 1725733801195
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1TzyyhsfaUnX5i0XzVo--vHqQKpeI2Lwh/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Samurai Shodown",
+          "description": "The game that put the Neo-Geo on the map! Superb weapons-based fighter featuring 12 characters, bonus rounds and one end boss.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20_%20Samurai%20Spirits%20(NGH-045).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20_%20Samurai%20Spirits%20(NGH-045).png",
+          "backgroundPixelated": true,
+          "longTitle": "Samurai Shodown / Samurai Spirits",
+          "added": 1725733922603
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1a7HRcyiA2hKsoWXzRn7pEsqPNgRc03RS/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Samurai Shodown II",
+          "description": "One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20II%20_%20Shin%20Samurai%20Spirits%20-%20Haohmaru%20jigokuhen%20(NGM-063)(NGH-063).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20II%20_%20Shin%20Samurai%20Spirits%20-%20Haohmaru%20jigokuhen%20(NGM-063)(NGH-063).png",
+          "backgroundPixelated": true,
+          "longTitle": "Samurai Shodown II / Shin Samurai Spirits: Haohmaru jigokuhen",
+          "added": 1725733969091
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/13xQGYwu7G077AgcPbEYJF8-GBA1sqUvg/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Samurai Shodown III",
+          "description": "To have no fear, to slice and die! To survive! Continuing the aesthetic tradition and high quality of the very successful series featuring 12 selectable characters to fight Zankuro, a very powerful demon samurai.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20III%20_%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20(NGH-087).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20III%20_%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20(NGH-087).png",
+          "backgroundPixelated": true,
+          "longTitle": "Samurai Shodown III / Samurai Spirits: Zankurou Musouken",
+          "added": 1725734013675
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1RbJ_IiESBd-IChNDFjpWol_k2cUzi9d5/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Samurai Shodown IV: Amakusa's Revenge",
+          "description": "Bringing a new breath to SNK's swordsman fighting series, this 4th installment marks the return of 3 classic characters (Yagyu Jubei, Charlotte and Tam Tam, now with updated stuff), introduces 2 newcomers for the pantheon (the brothers Sogetsu Kazama and Kazuki Kazama) and brings some new backgrounds.\n\nIn spite of these little improvements, the game preserved (and improved a lot) many elements that did the previous one (Samurai Shodown III: Blades of Blood) a quite popular title, like the dodge move and the chance to choose between two versions of the fighter: the standard one and an alternative dark-styled one (SLASH and BUST, respectively).\n\nWith the intention to provide more action in the battles, the \"No Contest\" Moves were introduced: working in similar way (and under certain conditions) to the many games of Mortal Kombat Series, your fighter will execute an ultimate-slaughter move in a stunned opponent.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20IV%20-%20Amakusa's%20Revenge%20_%20Samurai%20Spirits%20-%20Amakusa%20Kourin%20(NGM-222)(NGH-222).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20IV%20-%20Amakusa's%20Revenge%20_%20Samurai%20Spirits%20-%20Amakusa%20Kourin%20(NGM-222)(NGH-222).png",
+          "backgroundPixelated": true,
+          "longTitle": "Samurai Shodown IV: Amakusa's Revenge / Samurai Spirits: Amakusa Kourin",
+          "added": 1725734056731
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1rGEKPT7svi2lMA52KBTAT7NWix7N1U0D/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Samurai Shodown V",
+          "description": "A 5th episode of the Samurai Shodown saga on Neo-Geo with 24 selectable characters plus Poppy (secret character) plus 3 bosses (Sankuro the mid-boss, Yumeji the sub-boss and the general Gaoh as final boss).",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20V%20_%20Samurai%20Spirits%20Zero%20(bootleg).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20V%20_%20Samurai%20Spirits%20Zero%20(bootleg).png",
+          "backgroundPixelated": true,
+          "longTitle": "Samurai Shodown V / Samurai Spirits Zero",
+          "added": 1725734092714
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1eGE9WPjaxKu62TQlqmb7GgEBuu6T05tn/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Samurai Shodown V Special",
+          "description": "An 'upgrade' of the Samurai Spirits Zero episode with its 24 fighters plus 4 more characters : Amakusa, Gaoh, Zankuro and Mizuki. It's probably the ultimate game released on MVS since SNK Playmore decided to develop its future games on AtomisWave.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20V%20Special%20_%20Samurai%20Spirits%20Zero%20Special%20(NGH-2720)%20(1st%20release%2C%20censored).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20V%20Special%20_%20Samurai%20Spirits%20Zero%20Special%20(NGH-2720)%20(1st%20release%2C%20censored).png",
+          "backgroundPixelated": true,
+          "longTitle": "Samurai Shodown V Special / Samurai Spirits Zero Special",
+          "added": 1725734179586
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1UqaZieSL5g7OZH0e5JVq_0sYB6bBzp5Q/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "SNK vs. Capcom: SVC Chaos",
+          "description": "SVC Chaos: SNK vs. Capcom on Neo Geo is a fighting game featuring the warriors of the two famous series Street Fighter and King of Fighters. The game offers an arcade mode where one follows the story of his hero, as well as modes versus, challenge and survival.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/SNK%20vs.%20Capcom%20-%20SVC%20Chaos%20(bootleg).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/SNK%20vs.%20Capcom%20-%20SVC%20Chaos%20(bootleg).png",
+          "backgroundPixelated": true,
+          "longTitle": "SNK vs. Capcom: SVC Chaos",
+          "added": 1725734311473
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1bqiZzyDjxWkrbVA4Na0GiNO94QVoD7JH/view?usp=sharing"
+          },
+          "type": "neogeo",
+          "title": "Super Sidekicks 3: A Próxima Glória",
+          "description": "Loaded with world class excitement! Features 6 competition modes like World Cup for 64 worldwide teams. Utilizes Digitized Trace Animation and 3D camera angled shots for a realistic on-the-fly action graphic explosion. With 8 different playing modes including options such as Speed and Stamina, you can mix and match 512 different team configurations. Accidents hinder or enhance a team's ability within head-to-head gameplay for the ultimate super-real soccer experience!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Super%20Sidekicks%203%20-%20The%20Next%20Glory%20_%20Tokuten%20Ou%203%20-%20eikou%20e%20no%20michi.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Super%20Sidekicks%203%20-%20The%20Next%20Glory%20_%20Tokuten%20Ou%203%20-%20eikou%20e%20no%20michi.png",
+          "backgroundPixelated": true,
+          "longTitle": "Super Sidekicks 3: The Next Glory / Tokuten Ou 3: Eikou e no Michi",
+          "added": 1725734242962
         },
         {
           "props": {
@@ -5448,214 +5923,6 @@
         },
         {
           "props": {
-            "rom": "https://drive.google.com/file/d/1W4PX-_wYcCffZmimJwaA_dCgkrdv6M-q/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Metal Slug - Super Vehicle-001",
-          "description": "Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.\n\nThe player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there's also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss. \n\nThe PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%20-%20Super%20Vehicle-001.png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%20-%20Super%20Vehicle-001.png",
-          "backgroundPixelated": true,
-          "longTitle": "Metal Slug: Super Vehicle-001",
-          "added": 1725733603547
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1Y9c9lkwWsbScTwIZ29-c0rvwTGv0yymr/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Metal Slug 2: Super Vehicle-001/II",
-          "description": "The heroes of Metal Slug, Marco and Tarma, are called into action once again to take on the might of General Morden and his armies in this, the first of several sequels to the superb 1996 original. This time, however, Morden has acquired a number of powerful allies to aid him in his evil schemes, some of which are not even human. The 2 brave soldiers are called upon to deal with this threat once again, aided by members of the newly founded 'Sparrow Squad', Fio and Eri.\n\nMetal Slug 2 improved on much of what made the first game great; featuring more enemies, larger bosses, more weapons, more vehicles, more hostages, more surprises and more humour than its illustrious predecessor. The occasional moments of slowdown that blighted the first game are still present, however.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%202%20-%20Super%20Vehicle-001_II%20(CZXInc%20FC2%20Version%2C%20hack).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%202%20-%20Super%20Vehicle-001_II%20(CZXInc%20FC2%20Version%2C%20hack).png",
-          "backgroundPixelated": true,
-          "longTitle": "Metal Slug 2: Super Vehicle-001/II",
-          "added": 1725733643115
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1JDvzcrBnAzk4OWFSLTr4EPKrUi6e932Q/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Metal Slug 3",
-          "description": "The heroes of the first 2 games return once more to do battle with the ever-present General Morden and his vast army. The third game of the series places a greater emphasis on defeating hulking boss characters than the 2 previous outings. Metal Slug 3 also introduced multiple routes through most levels, vastly increasing the replay value of the game. For example; on the first level the player reaches a point where they can either continue over land, or enter a small submarine and head down into the ocean depths, where they will be faced with a variety of huge, deadly sea-dwelling creatures.\n\nMetal Slug 3 introduced a number of new elements that have a direct effect on the player's character - similar to the 'mummification' of the second game. The first of these is the 'fatty' affect : should the player pick up too much food (fish, for example) their character will morph in an obese version of itself. This doesn't have any detrimental effect on performance and is included purely for reasons of humour. Another effect is the now infamous 'Zombiefication'; should the player's character be attacked by a Zombie, he or she will become Zombie until they are either killed, or pick up a first-aid, which will restore the player's character back to human form. Movement while in the zombie state is slow and restricted but the player is armed with what can perhaps be best described as the 'Zombie Vomit'; a huge arc of blood that can be used to destroy oncoming enemies. A second Zombie attack while the player's character is in a Zombie state will result in the player losing a life.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%203%20(Multifunction%20Hack%2C%2020190119).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%203%20(Multifunction%20Hack%2C%2020190119).png",
-          "backgroundPixelated": true,
-          "longTitle": "Metal Slug 3",
-          "added": 1725733669299
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1suqFLia4TaPJZpSeTlJzKj4sV47lWKwY/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Metal Slug 4",
-          "description": "The popular series of side-scrolling action games continues, introducing all-new characters into the plot. The world is now trembling under the fear of cyber terror, as the birth of a deadly new computer virus threatens to snatch the main military system out of every country. The virus has been created by the terrorist group known as Amadeus, and must be stopped by the four main heroes in the story. They are : Marco Rossi, an army platoon leader; Fio Germi, a superior director of an Italian secret service; Nadia Cassel, a French regular army soldier; and Trevor Spacey, a regular army sergeant. In the game introduction, the team discover that Morden is still alive and probably behind Amadeus...",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%204%20(Multifunction%20Hack%2C%2020171225).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%204%20(Multifunction%20Hack%2C%2020171225).png",
-          "backgroundPixelated": true,
-          "longTitle": "Metal Slug 4",
-          "added": 1725733694755
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1AmosmOd2SIaAFgNFHCJZCGnad5lx_g5V/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Metal Slug 5",
-          "description": "A research installation developing the next-generation of Metal Slugs is attacked by unknown forces and a disk containing Metal Slug secrets is stolen. Ordered to recover the disk, Marco and Tarma follow in hot pursuit. Meanwhile, Eri and Fio, investigating the Ptolemaic Army, a paramilitary syndicate active in archeological excavation, catch up with them at an ancient ruin, 'The Corridor of Fire'. The two try to storm and seize the site but are repulsed by the natives and giant Metal Slugs. This incident proves it was the Ptolemaic Army that stole the Metal Slug secrets. The military subsequently launches a second raid by the elite PF squad and Sparrows on the 'The Corridor of Fire' to recover the secrets and destroy the syndicate!!!",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%205%20(bootleg%2C%20set%201).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%205%20(bootleg%2C%20set%201).png",
-          "backgroundPixelated": true,
-          "longTitle": "Metal Slug 5",
-          "added": 1725733719395
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1_FgH_c0zpv82V2gOEwtDnLMGTvSrHQMY/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Metal Slug X: Super Vehicle-001",
-          "description": "Originally released to improve upon some of the problems the previous Metal Slug game (\"Metal Slug 2 - Super Vehicle-001/II\") had, most notably its notorious slowdown, this update also implemented several changes to beef up the gameplay, such as new enemies, a different end boss layout and a number of new weapons and secrets. The result is a better game and one of the finest chapters in this series.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Metal%20Slug%20X%20-%20Super%20Vehicle-001%20(AzStar%20Soda%20Remix%20FC2%20Version%2C%20hack).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Metal%20Slug%20X%20-%20Super%20Vehicle-001%20(AzStar%20Soda%20Remix%20FC2%20Version%2C%20hack).png",
-          "backgroundPixelated": true,
-          "longTitle": "Metal Slug X: Super Vehicle-001",
-          "added": 1725733745843
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1EY86jHZCWKkHRIgNJNWkW_n3rPjLqFzz/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Neo Bomberman",
-          "description": "As Bomberman, you must kill all the enemies in the level before proceeding to the next. To do this, you clear a path of blocks by setting bombs that will detonate a few seconds later, and then use the bombs to wipe out enemies. Some blocks will uncover power-ups, and depending on which ones you collect, you will receive more bombs, more lives, more time, manual bomb detonation, expanded blast zone, and the ability to move faster. In some levels some blocks will reveal eggs that you can hatch to produce a bird that you can ride on and allows you to take an additional hit from an enemy or bomb blast without losing a life.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Neo%20Bomberman.png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Neo%20Bomberman.png",
-          "backgroundPixelated": true,
-          "longTitle": "Neo Bomberman",
-          "added": 1725733772979
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1eWMz1oDLZQlssBQ3oMCRlQd3PbdQu2nt/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Neo-Geo Cup '98: The Road to the Victory",
-          "description": "Neo Geo Cup'98 is a football simulation based on the World Cup 1998. This title is a new installment in the series Super Sidekicks and updates all data to focus on the event. In qualification phase or during games knockout, lead one of the 64 available teams to victory.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Neo-Geo%20Cup%20'98%20-%20The%20Road%20to%20the%20Victory.png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Neo-Geo%20Cup%20'98%20-%20The%20Road%20to%20the%20Victory.png",
-          "backgroundPixelated": true,
-          "longTitle": "Neo-Geo Cup '98: The Road to the Victory",
-          "added": 1725733801195
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1qrn80RHkaWZrYuq3XWIpRMFAkGCjJdiW/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Neo Drift Out: New Technology",
-          "description": "Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level. ",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Neo%20Drift%20Out%20-%20New%20Technology.png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Neo%20Drift%20Out%20-%20New%20Technology.png",
-          "backgroundPixelated": true,
-          "longTitle": "Neo Drift Out: New Technology",
-          "added": 1725733891203
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1TzyyhsfaUnX5i0XzVo--vHqQKpeI2Lwh/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Samurai Shodown",
-          "description": "The game that put the Neo-Geo on the map! Superb weapons-based fighter featuring 12 characters, bonus rounds and one end boss.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20_%20Samurai%20Spirits%20(NGH-045).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20_%20Samurai%20Spirits%20(NGH-045).png",
-          "backgroundPixelated": true,
-          "longTitle": "Samurai Shodown / Samurai Spirits",
-          "added": 1725733922603
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1a7HRcyiA2hKsoWXzRn7pEsqPNgRc03RS/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Samurai Shodown II",
-          "description": "One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20II%20_%20Shin%20Samurai%20Spirits%20-%20Haohmaru%20jigokuhen%20(NGM-063)(NGH-063).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20II%20_%20Shin%20Samurai%20Spirits%20-%20Haohmaru%20jigokuhen%20(NGM-063)(NGH-063).png",
-          "backgroundPixelated": true,
-          "longTitle": "Samurai Shodown II / Shin Samurai Spirits: Haohmaru jigokuhen",
-          "added": 1725733969091
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/13xQGYwu7G077AgcPbEYJF8-GBA1sqUvg/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Samurai Shodown III",
-          "description": "To have no fear, to slice and die! To survive! Continuing the aesthetic tradition and high quality of the very successful series featuring 12 selectable characters to fight Zankuro, a very powerful demon samurai.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20III%20_%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20(NGH-087).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20III%20_%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20(NGH-087).png",
-          "backgroundPixelated": true,
-          "longTitle": "Samurai Shodown III / Samurai Spirits: Zankurou Musouken",
-          "added": 1725734013675
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1RbJ_IiESBd-IChNDFjpWol_k2cUzi9d5/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Samurai Shodown IV: Amakusa's Revenge",
-          "description": "Bringing a new breath to SNK's swordsman fighting series, this 4th installment marks the return of 3 classic characters (Yagyu Jubei, Charlotte and Tam Tam, now with updated stuff), introduces 2 newcomers for the pantheon (the brothers Sogetsu Kazama and Kazuki Kazama) and brings some new backgrounds.\n\nIn spite of these little improvements, the game preserved (and improved a lot) many elements that did the previous one (Samurai Shodown III: Blades of Blood) a quite popular title, like the dodge move and the chance to choose between two versions of the fighter: the standard one and an alternative dark-styled one (SLASH and BUST, respectively).\n\nWith the intention to provide more action in the battles, the \"No Contest\" Moves were introduced: working in similar way (and under certain conditions) to the many games of Mortal Kombat Series, your fighter will execute an ultimate-slaughter move in a stunned opponent.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20IV%20-%20Amakusa's%20Revenge%20_%20Samurai%20Spirits%20-%20Amakusa%20Kourin%20(NGM-222)(NGH-222).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20IV%20-%20Amakusa's%20Revenge%20_%20Samurai%20Spirits%20-%20Amakusa%20Kourin%20(NGM-222)(NGH-222).png",
-          "backgroundPixelated": true,
-          "longTitle": "Samurai Shodown IV: Amakusa's Revenge / Samurai Spirits: Amakusa Kourin",
-          "added": 1725734056731
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1rGEKPT7svi2lMA52KBTAT7NWix7N1U0D/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Samurai Shodown V",
-          "description": "A 5th episode of the Samurai Shodown saga on Neo-Geo with 24 selectable characters plus Poppy (secret character) plus 3 bosses (Sankuro the mid-boss, Yumeji the sub-boss and the general Gaoh as final boss).",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20V%20_%20Samurai%20Spirits%20Zero%20(bootleg).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20V%20_%20Samurai%20Spirits%20Zero%20(bootleg).png",
-          "backgroundPixelated": true,
-          "longTitle": "Samurai Shodown V / Samurai Spirits Zero",
-          "added": 1725734092714
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1eGE9WPjaxKu62TQlqmb7GgEBuu6T05tn/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Samurai Shodown V Special",
-          "description": "An 'upgrade' of the Samurai Spirits Zero episode with its 24 fighters plus 4 more characters : Amakusa, Gaoh, Zankuro and Mizuki. It's probably the ultimate game released on MVS since SNK Playmore decided to develop its future games on AtomisWave.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20V%20Special%20_%20Samurai%20Spirits%20Zero%20Special%20(NGH-2720)%20(1st%20release%2C%20censored).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20V%20Special%20_%20Samurai%20Spirits%20Zero%20Special%20(NGH-2720)%20(1st%20release%2C%20censored).png",
-          "backgroundPixelated": true,
-          "longTitle": "Samurai Shodown V Special / Samurai Spirits Zero Special",
-          "added": 1725734179586
-        },
-        {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1bqiZzyDjxWkrbVA4Na0GiNO94QVoD7JH/view?usp=sharing"
-          },
-          "type": "neogeo",
-          "title": "Super Sidekicks 3: A Próxima Glória",
-          "description": "Loaded with world class excitement! Features 6 competition modes like World Cup for 64 worldwide teams. Utilizes Digitized Trace Animation and 3D camera angled shots for a realistic on-the-fly action graphic explosion. With 8 different playing modes including options such as Speed and Stamina, you can mix and match 512 different team configurations. Accidents hinder or enhance a team's ability within head-to-head gameplay for the ultimate super-real soccer experience!",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Super%20Sidekicks%203%20-%20The%20Next%20Glory%20_%20Tokuten%20Ou%203%20-%20eikou%20e%20no%20michi.png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Super%20Sidekicks%203%20-%20The%20Next%20Glory%20_%20Tokuten%20Ou%203%20-%20eikou%20e%20no%20michi.png",
-          "backgroundPixelated": true,
-          "longTitle": "Super Sidekicks 3: The Next Glory / Tokuten Ou 3: Eikou e no Michi",
-          "added": 1725734242962
-        },
-        {
-          "props": {
             "rom": "https://drive.google.com/file/d/1kRcf12Y-iNmxKVt9rTAUYD587MvyVVpU/view?usp=sharing"
           },
           "type": "neogeo",
@@ -5668,30 +5935,239 @@
           "added": 1725734278115
         },
         {
-          "props": {
-            "rom": "https://drive.google.com/file/d/1UqaZieSL5g7OZH0e5JVq_0sYB6bBzp5Q/view?usp=sharing"
-          },
           "type": "neogeo",
-          "title": "SNK vs. Capcom: SVC Chaos",
-          "description": "SVC Chaos: SNK vs. Capcom on Neo Geo is a fighting game featuring the warriors of the two famous series Street Fighter and King of Fighters. The game offers an arcade mode where one follows the story of his hero, as well as modes versus, challenge and survival.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/SNK%20vs.%20Capcom%20-%20SVC%20Chaos%20(bootleg).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/SNK%20vs.%20Capcom%20-%20SVC%20Chaos%20(bootleg).png",
+          "title": "Blue's Journey",
+          "longTitle": "Blue's Journey",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Blue's%20Journey%20_%20Raguy%20(ALM-001)(ALH-001).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Blue's%20Journey%20_%20Raguy%20(ALM-001)(ALH-001).png",
+          "description": "Raguy is an environmentally-themed side-scrolling platform game for one or two players. \n\nThe player controls a heroic young man named 'Blue' (in the two-player game the second player controls 'Princess Fa', who has identical powers to Blue), whose peaceful home planet of 'Raguy' has been invaded by the evil Daruma tribe. The Daruma are polluting the planet as they consume its dwindling resources and it falls on Blue and the Princess to stop them and save Raguy. \n\nBoth Blue and Princess Fa have the ability to stun enemies by hitting them with a large leaf. Once stunned, they can be picked up and thrown as projectiles at other enemies. Blue and Princess Fa can also shrink in size in order to access hidden areas, but they are not able to stun enemies while shrunk. If only one player is shrunk, they can be picked up by the other player and thrown as a projectile at the enemies. \n\nFlowers, bonus items and power-ups are littered throughout the levels. The flowers are the game's form of currency and can be used in the shops that are located throughout the game. There are two different types of shop, offering either tips and help with overcoming certain obstacles, or health and weapon power-ups.",
           "backgroundPixelated": true,
-          "longTitle": "SNK vs. Capcom: SVC Chaos",
-          "added": 1725734311473
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1dZSBxa5uCIeOWtpmuzUX2JpXkzbEkwNe&confirm=t"
+          },
+          "added": 1737094578404
+        },
+        {
+          "type": "neogeo",
+          "title": "Burning Fight",
+          "longTitle": "Burning Fight",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Burning%20Fight%20(NGM-018)(NGH-018).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Burning%20Fight%20(NGM-018)(NGH-018).png",
+          "description": "New York detectives battle organized crime in this fighter. Duke and Billy, 2 popular and renowned New York City Police detectives, are hot on the trail of a dangerous Japanese crime syndicate. Their investigation has led them to the mean streets of Japan where they meet a police officer and martial arts expert named Ryu. Ryu agrees to join the NYPD detectives as they track down the crime syndicate bosses and end their reign of terror once and for all.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1VH7zlkUYEB_LAKH73mYzU_8pysCwbPzv&confirm=t"
+          },
+          "added": 1737094578404
+        },
+        {
+          "type": "neogeo",
+          "title": "Ganryu",
+          "longTitle": "Ganryu",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Ganryu%20_%20Musashi%20Ganryuki.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Ganryu%20_%20Musashi%20Ganryuki.png",
+          "description": "One month has passed since Musashi defeated his sworn enemy, Kojiro. Musashi was on the way to Kyoto, where his beloved Otsu was waiting for him. Around this time, many abductions had occurred by a mysterious group of ninjas, and Otsu was one of the missing. What is the true purpose of these ninjas? The time to fight has come again for Musashi!!\n\nYou must guide Musashi or his sister, Suzame, around several locations defeating a horde of ninjas with only a sword. Weapon power-ups and life bonuses can be collected along the way. You can jump high and use your grappling hook to attach to and climb some ceilings, as well as attaching yourself to faraway objects. At the end of each location, you must defeat a guardian in order to continue the game. Cut-scenes are viewed between locations.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=16ARucvJyDHPT-KiEPWTBKiRLJwismbv3&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "Garou: Mark of the Wolves",
+          "longTitle": "Garou: Mark of the Wolves",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Garou%20-%20Mark%20of%20the%20Wolves%20(NGM-2530).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Garou%20-%20Mark%20of%20the%20Wolves%20(NGM-2530).png",
+          "description": "It's been several years since Geese Howard was defeated in a battle with Terry Bogard, a young man looking to avenge his father. Rather than looking to be saved from death after falling off his office balcony, Geese instead decided to die, and left behind his young son, Rock. Terry took Rock in and became like a big brother to him, raising the boy throughout his life.\n\nNow Rock is a teenager, and Terry is a man in his 30s, and both are about to come together in a new clash...new faces and old come together for the greatest battle yet!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1-grDCM9NaoBrE9a10StB2ejOhlsuP9pH&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "King of the Monsters",
+          "longTitle": "King of the Monsters",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/King%20of%20the%20Monsters%20(set%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/King%20of%20the%20Monsters%20(set%201).png",
+          "description": "King of the Monsters is a two player (or one player vs. computer) fighting game, in which the players take control of two gargantuan monsters (like Godzillas) and battle it out in different city locations.\r\n\r\nThe city gets gradually destroyed as the two creatures fight it out. The players can also interact with the scenery by picking up boats and such, to use as weapons against the other player.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1K_5K12f0oRViXbN_f13Vf7kfn7v-0Ps2&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "King of the Monsters 2: The Next Thing",
+          "longTitle": "King of the Monsters 2: The Next Thing",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/King%20of%20the%20Monsters%202%20-%20The%20Next%20Thing%20(NGM-039)(NGH-039).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/King%20of%20the%20Monsters%202%20-%20The%20Next%20Thing%20(NGM-039)(NGH-039).png",
+          "description": "The object of King of the Monsters 2 is similar to its predecessor. Choose from three monsters which include a large lizard, a large robotic ape, and a huge mutant human. Then walk through each city, making sure to destroy everything in site, including planes, buildings, and other creatures. When smashed, some buildings reveal power-ups that make your character more powerful. At the end of each city, you go head-to-head with the boss creature. There are small stages in between where you fight a second monster for bonus points, or you fall from the sky and land underwater where you try to collect points and power-ups while falling.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1t1CbUyEEg4PJioCalbUnuQji7UXKodm9&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "League Bowling",
+          "longTitle": "League Bowling",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/League%20Bowling%20(NGM-019)(NGH-019).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/League%20Bowling%20(NGM-019)(NGH-019).png",
+          "description": "The lanes are crowded every night with Big Time Pin Slammin' action! You call the shots selecting a right or left handed bowler. Determine ball weight, and develop the skills of the pro's as you skillfully throw a variety of shots that you control. So pop some refreshments and settle into this indoor sport like you've never seen before!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1FEcGSs9jXsLmMSa1A1DnEB_hSo7pq2vD&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "NAM-1975",
+          "longTitle": "NAM-1975",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/NAM-1975%20(NGM-001)(NGH-001).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/NAM-1975%20(NGM-001)(NGH-001).png",
+          "description": "As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second. At the end of every location, you will need to defeat a series of bosses, which are not the same every play. Cut-scenes are viewed in between locations, and contain dramatic digitized dialogue.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1C6Q2ocQ8-dnmG-dIDZoYrBXw2Ir6DjCR&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "Super Dodge Ball",
+          "longTitle": "Super Dodge Ball",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Super%20Dodge%20Ball%20_%20Kunio%20no%20Nekketsu%20Toukyuu%20Densetsu.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Super%20Dodge%20Ball%20_%20Kunio%20no%20Nekketsu%20Toukyuu%20Densetsu.png",
+          "description": "Super Dodgeball uses the same basic gameplay used in the other games in the series with some minor differences. The game puts you in control of a team of 3 characters (with you controlling the lead character or the one with the ball at the time) that must defeat a selection of other teams in order to become the champion. This time around the teams are all formed by characters from the Nekketsu Kunio Kun universe, each representing different suburbs of Tokyo that compete in an amusement park for the ultimate title. Each character has their unique stats and special moves, which now depend on a power bar that can be charged-up by holding both attack buttons.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1qNxY0NH_28Ei5UMnhtij7FAjrAA7uRqx&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "Sengoku 2",
+          "longTitle": "Sengoku 2",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Sengoku%202%20_%20Sengoku%20Denshou%202.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Sengoku%202%20_%20Sengoku%20Denshou%202.png",
+          "description": "A sequel to Sengoku, Sengoku 2 once again casts you as two street fighting heroes caught in the midst of a supernatural attack by the undead forces of the evil Nobunaga from the Japanese sengoku period, although this time the game warps you through several time periods and locations to fight evil, from feudal Japan to WWII Europe.\n\nAs in the original, the game plays as a standard 2D side-scrolling beat 'em up, in which you have to proceed through each stage killing all enemies that cross your path and defeating the stage boss to proceed. New for the sequel is the inclusion of swords as your default weapons, which now feature both high and low attacks, as well as a block move that allows you to parry enemy attacks. Collecting orbs gives you weapon upgrades and energy attacks, as well as the ability to morph into any of the three spirits released in the original which give you a new arsenal of moves and powers.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1PUujVnMno5J8vRXn8T1hJ3988u1xIVdE&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "Sengoku 3",
+          "longTitle": "Sengoku 3",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Sengoku%203%20_%20Sengoku%20Densho%202001%20(set%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Sengoku%203%20_%20Sengoku%20Densho%202001%20(set%201).png",
+          "description": "The third game in the Sengoku series of beat 'em ups, Sengoku 3 once again pits you and a friend against the undead forces of Nobunaga, however this time you can freely select from a group of different characters each with their own weapons and abilities, as well as choose which location in the world (or level) to tackle whenever you want.\n\nThe game incorporates a more complex fighting system similar to a one-on-one fighting game, by giving players different attack buttons, special moves based on directional inputs, combos and even a super bar used to unleash devastating super moves. You cannot change weapons or transform into other characters as in the previous games, but you can acquire different ranged weapons for additional attacks as well as unlock certain bosses to increase your available characters.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1zxCsjN2Ip7y0KLJtcW968RW-I-2dvhHR&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "Aero Fighters 2",
+          "longTitle": "Aero Fighters 2",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Aero%20Fighters%202%20_%20Sonic%20Wings%202.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Aero%20Fighters%202%20_%20Sonic%20Wings%202.png",
+          "description": "Aero Fighters 2 is a vertically-scrolling shooter in the same vein as 1942 and similar games. It supports up to two players and  has 8 different aircraft to choose from, each equipped with unique primary and secondary weapons. Power-ups upgrade the look, power, size and shape of the shots. Bombs activate a special power that usually wipes off the enemies on the screen. The game has a total of 10 stages (Japan, Brazil, Atlantic, U.S.A., France, Australia, Himalayas, Mexico, Hawaii and Space), all of them with a boss battle.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1vLFAlOSI4mOTw89RdAzMccR7iBacMFAz&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "Aero Fighters 3",
+          "longTitle": "Aero Fighters 3",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Aero%20Fighters%203%20_%20Sonic%20Wings%203.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Aero%20Fighters%203%20_%20Sonic%20Wings%203.png",
+          "description": "The third game in this excellent series adheres to the solid shoot-em-up template set down by its predecessors. The player takes on the role of a Jet Fighter aircraft pilot whose mission is to combat world terrorism. The object of the game is to fly from country to country and destroy all opposition around the world, before flying into outer space to combat the menace responsible for the terrorism. Each pilot has his own storyline that ties in with the game.\n\nOne enemy shot destroys the player's plane and releases a special power-up that the plane may have been carrying. If the player's final ship is destroyed, all power-ups and extra bombs are released and can be collected if the player chooses the 'continue' option, or if a second player is still active. However, on the final mission in Outer Space, the player is forced to start again at the beginning of the space mission, unless 2 players are active.\n\nSonic Wings now features an array of 10 selectable pilots :\nAmerican Vought F4U Corsair piloted by Robo-Keaton. \nAmerican Northrop P-61 Black Widow piloted by the Blazers. \nJapanese Mitsubishi A6M Zero-Sen piloted by Hien. \nJapanese Aichi M6A1 Seiran piloted by Mao Mao. \nSoviet Il-2 Stormovik piloted by Chaika and Pooshka. \nSoviet Polikarpov I-16 piloted by Spanky. \nGerman Dornier Do-335 Pfeil piloted by Malcolm ('Pfeil' is german for 'Arrow') \nGerman Junkers Ju-87 Stuka piloted by Kowful and River. \nBritish Westland Whirlwind piloted by Alex and Pictus. \nBritish Fairy Swordfish piloted by Cindy and Ellen. \n\nThere are also 2 secret planes (see the TIPS AND TRICKS section for details) :\nThe Aka Usagi (Red Rabbit) piloted by Kotomi. \nThe Diabloon piloted by The Man.\n\nPlanes Spec. :\nVought F4U Corsair can have 3 power-ups and 5 bombs.\nNorthrop P-61 Black Widow can have 3 power-ups and 7 bombs.\nMitsubishi A6M Zero-Sen have 3 power-ups and 5 bombs.\nAichi M6A1 Seiran can have 2 power-ups and 5 bombs.\nIl-2 Stormovik can have 2 power-ups and 7 bombs.\nPolikarpov I-16 can have 4 power-ups and 6 bombs.\nDornier Do-335 Pfeil can have 3 power-ups and 4 bombs.\nJunkers Ju-87 Stuka can have 4 power-ups and 7 bombs.\nWestland Whirlwind can have 3 power-ups and 6 bombs.\nFairy Swordfish can have 1 power-up and 7 bombs.\nAka Usagi (Red Rabbit, see below) can have 2 power-ups and 4 bombs.\nDiabloon (see below) can have 7 power-ups and 2 bombs.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1WnU8AzBht8BnvJN34s2uo0DvyFizwFE5&confirm=t"
+          },
+          "added": 1737095080023
+        },
+        {
+          "type": "neogeo",
+          "title": "Street Hoop",
+          "longTitle": "Street Hoop",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Street%20Hoop%20_%20Street%20Slam%20_%20Dunk%20Dream%20(DEM-004)%20(DEH-004).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Street%20Hoop%20_%20Street%20Slam%20_%20Dunk%20Dream%20(DEM-004)%20(DEH-004).png",
+          "description": "Which team is the best at 3-on-3? Choose from ten countries to find out. Shots vary according to the shooting distance. Fake dunk, aloof - a variety of techniques to choose from! Speedy! Powerful! Move your body to hip hoppin' rap music. When the power gauge reaches its max, Super Dunk sparks!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1WWeg-OxWZVLt9A0Vz-HyUgSLQd4g4uoS&confirm=t"
+          },
+          "added": 1737095080024
+        },
+        {
+          "type": "neogeo",
+          "title": "The Super Spy",
+          "longTitle": "The Super Spy",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20Super%20Spy%20(NGM-011)(NGH-011).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20Super%20Spy%20(NGM-011)(NGH-011).png",
+          "description": "Roy Heart has been asked by the CIA to wipe out terrorists who have taken over a large skyscraper of a major auto-maker in Japan. \nUsing your fists, knife, or gun, you must use the elevators to travel between floors and wipe out terrorists that try to bring you down. Each weapon has its disadvantages. The gun, for example, will only have so many bullets per life, and the knife will decrease in strength with every use. During your mission, you will also earn experience points, and meet and free hostages along the way. These hostages will heal you, fix your knife, and give you a machine gun. Some floors end with you defeating a boss, while others end at elevators. Your must reach the top of the building where you will confront the leader.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1XfQkzWfc14wCrK9Dyfz6ueIVQzr3otuK&confirm=t"
+          },
+          "added": 1737095080024
+        },
+        {
+          "type": "neogeo",
+          "title": "Top Hunter: Roddy & Cathy",
+          "longTitle": "Top Hunter: Roddy & Cathy",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Top%20Hunter%20-%20Roddy%20%26%20Cathy%20(NGM-046).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Top%20Hunter%20-%20Roddy%20%26%20Cathy%20(NGM-046).png",
+          "description": "Clean up the Space Pirates! Time: The age of space colonialism. The dreaded Klaptons are on the loose, turning peaceful settlements into ghost towns. Searching for the price on the Klapton's heads come the cosmic bounty hunters RODDY and CATHY. Do these two have what it takes to save the universe? Can they work together without competing for the rewards themselves? Their fate, and the fate of the free universe is IN YOUR HANDS - the legendary team known as TOP HUNTER!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1JFLEEkrkUShwJtk9A9f37Nl4d6Bnao_o&confirm=t"
+          },
+          "added": 1737095080024
+        },
+        {
+          "type": "neogeo",
+          "title": "Windjammers",
+          "longTitle": "Windjammers",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Windjammers%20_%20Flying%20Power%20Disc.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Windjammers%20_%20Flying%20Power%20Disc.png",
+          "description": "A flying disk game from Data East.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://drive.google.com/uc?export=download&id=1fYyO0bS_SLScU4S_NxpW2tScMA-Of6m3&confirm=t"
+          },
+          "added": 1737095080024
         },
         {
           "props": {
-            "rom": "https://drive.google.com/file/d/1wfHvo7EaapQrAnUdDVyZdsxuRIHOw-Nr/view?usp=sharing"
+            "rom": "https://drive.google.com/file/d/1tZKxZnuyUj3-myl-BCsGenVZFhb-F5V0/view?usp=sharing",
+            "additionalRoms": []
           },
           "type": "neogeo",
-          "title": "Neo Turf Masters",
-          "description": "Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn \"super-clubs\" that can only be used once. These can also be traded between friends.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Neo%20Turf%20Masters%20_%20Big%20Tournament%20Golf.png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Neo%20Turf%20Masters%20_%20Big%20Tournament%20Golf.png",
+          "title": "Shock Troopers",
+          "description": "Shock Troopers pits the players against a mighty terrorist group who are holding a girl hostage, in order to force her grandfather to surrender a powerful drug which will enable the terrorists to control the minds of the grandfather's soldiers and create a huge, unstoppable army.\n\nShock Troopers is a multi-directional scrolling shoot-em-up for one or two players that builds upon the foundations laid by Capcom's 1985 classic, \"Commando (Capcom)\" and also borrows heavily from Commando's sequel, '\"Mercs\". As well as enemy troops, players must contend with tanks, choppers and assorted military vehicles, and must also be careful to avoid any of the landmines that litter the levels. Extra weapons and health can be picked up from destroyed enemy vehicles, as well as being found in enemy supply crates. Shock Troopers is effectively three games in one as players can chose one of three different routes; each made up of different levels. The game also offers greater variety of gameplay than other of the genre; with levels having the players travel on the back of fast moving vehicles, climbing a rock face etc.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Shock%20Troopers%20(set%201).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Shock%20Troopers%20(set%201).png",
           "backgroundPixelated": true,
-          "longTitle": "Neo Turf Masters / Big Tournament Golf",
-          "added": 1725734348050
+          "longTitle": "Shock Troopers",
+          "added": 1737095303478
         }
       ],
       "longTitle": "SNK NEO•GEO (1990)",
@@ -5710,24 +6186,6 @@
       "items": [
         {
           "props": {
-            "discs": [
-              "https://drive.google.com/file/d/14Ba8WPLnnxbdDaEaueGPWANZWKkDne7T/view?usp=sharing"
-            ],
-            "uid": "7d2e204e-ba43-4fa9-827f-2da2917b6726",
-            "cdSpeedHack": true,
-            "skipCdLoading": true
-          },
-          "type": "neogeocd",
-          "title": "Samurai Shodown RPG: Tales of the Bushidou",
-          "description": "Shinsetsu Samurai Spirits: Bushidō Retsuden (真説サムライスピリッツ武士道列伝), is role-playing game released in 1997 for the Neo Geo CD, Sega Saturn and Sony PlayStation. It was never released outside of Japan.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeocd-images/master/Named_Titles/resized/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(Japan).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeocd-images/master/Named_Snaps/output/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(Japan).png",
-          "backgroundPixelated": true,
-          "longTitle": "Shinsetsu Samurai Spirits: Bushidou Retsuden (ENG)",
-          "added": 1725735276457
-        },
-        {
-          "props": {
             "uid": "6e926d64-ae8b-4a1c-9d21-c1ca14f1590d",
             "discs": [
               "https://drive.google.com/file/d/1xs23gJZoKAD8s0w14sDAx5W7s7un0_I4/view?usp=sharing"
@@ -5743,6 +6201,24 @@
           "backgroundPixelated": true,
           "longTitle": "Crossed Swords II",
           "added": 1725735303825
+        },
+        {
+          "props": {
+            "discs": [
+              "https://drive.google.com/file/d/14Ba8WPLnnxbdDaEaueGPWANZWKkDne7T/view?usp=sharing"
+            ],
+            "uid": "7d2e204e-ba43-4fa9-827f-2da2917b6726",
+            "cdSpeedHack": true,
+            "skipCdLoading": true
+          },
+          "type": "neogeocd",
+          "title": "Samurai Shodown RPG: Tales of the Bushidou",
+          "description": "Shinsetsu Samurai Spirits: Bushidō Retsuden (真説サムライスピリッツ武士道列伝), is role-playing game released in 1997 for the Neo Geo CD, Sega Saturn and Sony PlayStation. It was never released outside of Japan.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeocd-images/master/Named_Titles/resized/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeocd-images/master/Named_Snaps/output/Shinsetsu%20Samurai%20Spirits%20-%20Bushidou%20Retsuden%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "Shinsetsu Samurai Spirits: Bushidou Retsuden (ENG)",
+          "added": 1725735276457
         },
         {
           "props": {
@@ -5783,6 +6259,23 @@
           "backgroundPixelated": true,
           "longTitle": "Ape Escape",
           "added": 1695425459294
+        },
+        {
+          "props": {
+            "discs": [
+              "https://drive.google.com/file/d/1o_JTkMmBXCyMDIy2VUR2JUExmsP68pnq/view?usp=sharing"
+            ],
+            "sbi": [],
+            "uid": "c8136a8e-d47b-4f97-9744-e7437700c91f"
+          },
+          "type": "psx",
+          "title": "Beavis and Butt-Head in Virtual Stupidity",
+          "description": "Beavis and Butt-Head in Virtual Stupidity is a point-and-click adventure computer game based on the American animated television series created by Mike Judge, Beavis and Butt-Head, that was developed by ICOM Simulations and published by Viacom New Media.\n\nIt featured vocals from the series' cast of voice actors, including Mike Judge. Besides the main game, four mini-games are featured, called Hock-A-Loogie, Court Chaos, Bug Justice, and Air Guitar.",
+          "thumbnail": "https://i.imgur.com/v6p1f8i.png",
+          "background": "https://i.imgur.com/aaxgJw7.png",
+          "longTitle": "Beavis and Butt-Head in Virtual Stupidity (ENG)",
+          "backgroundPixelated": true,
+          "added": 1725736611518
         },
         {
           "props": {
@@ -5978,19 +6471,19 @@
         },
         {
           "props": {
-            "uid": "9f9d8f24-88b3-4d06-bed8-a56adc7e1ad1",
+            "uid": "39e14bb3-25e9-4eea-92fe-87e9e799e3b9",
             "discs": [
-              "https://archive.org/download/chd_psx/CHD-PSX-USA/Disney%27s%20Hercules%20Action%20Game%20%28USA%29.chd"
+              "https://drive.google.com/file/d/1KmerSVjXq66duiawmphn8JvqYK_FE7sx/view?usp=sharing"
             ]
           },
           "type": "psx",
-          "title": "Hercules",
-          "description": "The game is based on Disney's animated cartoon movie. You take control of Hercules, son of the god Zeus and a mortal woman, the strongest man in the world and the legendary hero in the Greek mythology. Your goal is to prove yourself worthy of being admitted to Mount Olympus, the residence of gods, and to become a god yourself. You must commit heroic deeds and overcome various obstacles to show your strength and courage. Hades, the overlord of the dead, is making it even more difficult for you by sending fearsome Titans to stop you.\n\nThis is a 2D platform action game. Hercules can jump, grab ledges, swing on poles, and jump while running. He has a variety of attack moves at his disposal. He can execute a basic attack with his sword, or pull out different combo attacks. He can also Power Punch enemies, but he needs time to charge for this powerful attack. He can even slam the ground to reveal secret areas by performing a certain move while jumping. There are also different power-ups to collect, such as coins to grant bonus points at the end of the level, Hercules Action Figures to increase your hero rating, and upgrades to your sword - Sonic, Lightning, and Fireball swords.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney's%20Hercules%20Action%20Game%20(USA).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney's%20Hercules%20Action%20Game%20(USA).png",
+          "title": "Dr. Slump",
+          "description": "An action game, simply titled Dr. Slump (ドクタースランプ), for the PlayStation based on the second television series was released on March 18, 1999, by Bandai.",
+          "thumbnail": "https://i.imgur.com/Gz4d5Cu.png",
+          "background": "https://i.imgur.com/zSTWfr6.png",
+          "longTitle": "Dr. Slump (ENG)",
           "backgroundPixelated": true,
-          "longTitle": "Disney's Hercules Action Game",
-          "added": 1695425690775
+          "added": 1725736811637
         },
         {
           "props": {
@@ -6056,6 +6549,22 @@
           "backgroundPixelated": true,
           "added": 1693357512067,
           "longTitle": "Final Fantasy Chronicles: Chrono Trigger"
+        },
+        {
+          "props": {
+            "uid": "d9e4e52b-ac8a-44b4-b0fc-cc2cd08cd53c",
+            "discs": [
+              "https://drive.google.com/file/d/13brpJSlqXXmUUrMrrSsDmtlPCPpvfzDe/view?usp=sharing"
+            ]
+          },
+          "type": "psx",
+          "title": "Friday Night Funkin'",
+          "longTitle": "Friday Night Funkin'",
+          "description": "Friday Night Funkin' (also known as Friday Night Funkin': The Full Ass Game) is a rhythm video game developed by Funkin' Crew Inc. and released on Newgrounds in 2020. The game is developed by a small group called The Funkin' Crew Inc., which consists primarily of Cameron \"ninjamuffin99\" Taylor, David \"PhantomArcade\" Brown, Isaac \"Kawai Sprite\" Garcia, and evilsk8r. The game is also open-source.",
+          "thumbnail": "https://i.imgur.com/E4fMqa7.png",
+          "background": "https://i.imgur.com/BvVrM7a.png",
+          "backgroundPixelated": true,
+          "added": 1725737187269
         },
         {
           "props": {
@@ -6153,6 +6662,22 @@
           "backgroundPixelated": true,
           "longTitle": "Herc's Adventures",
           "added": 1695426020965
+        },
+        {
+          "props": {
+            "uid": "9f9d8f24-88b3-4d06-bed8-a56adc7e1ad1",
+            "discs": [
+              "https://archive.org/download/chd_psx/CHD-PSX-USA/Disney%27s%20Hercules%20Action%20Game%20%28USA%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Hercules",
+          "description": "The game is based on Disney's animated cartoon movie. You take control of Hercules, son of the god Zeus and a mortal woman, the strongest man in the world and the legendary hero in the Greek mythology. Your goal is to prove yourself worthy of being admitted to Mount Olympus, the residence of gods, and to become a god yourself. You must commit heroic deeds and overcome various obstacles to show your strength and courage. Hades, the overlord of the dead, is making it even more difficult for you by sending fearsome Titans to stop you.\n\nThis is a 2D platform action game. Hercules can jump, grab ledges, swing on poles, and jump while running. He has a variety of attack moves at his disposal. He can execute a basic attack with his sword, or pull out different combo attacks. He can also Power Punch enemies, but he needs time to charge for this powerful attack. He can even slam the ground to reveal secret areas by performing a certain move while jumping. There are also different power-ups to collect, such as coins to grant bonus points at the end of the level, Hercules Action Figures to increase your hero rating, and upgrades to your sword - Sonic, Lightning, and Fireball swords.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney's%20Hercules%20Action%20Game%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney's%20Hercules%20Action%20Game%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Disney's Hercules Action Game",
+          "added": 1695425690775
         },
         {
           "props": {
@@ -7053,55 +7578,6 @@
           "backgroundPixelated": true,
           "added": 1693359507521,
           "longTitle": "Yu-Gi-Oh! Forbidden Memories"
-        },
-        {
-          "props": {
-            "discs": [
-              "https://drive.google.com/file/d/1o_JTkMmBXCyMDIy2VUR2JUExmsP68pnq/view?usp=sharing"
-            ],
-            "sbi": [],
-            "uid": "c8136a8e-d47b-4f97-9744-e7437700c91f"
-          },
-          "type": "psx",
-          "title": "Beavis and Butt-Head in Virtual Stupidity",
-          "description": "Beavis and Butt-Head in Virtual Stupidity is a point-and-click adventure computer game based on the American animated television series created by Mike Judge, Beavis and Butt-Head, that was developed by ICOM Simulations and published by Viacom New Media.\n\nIt featured vocals from the series' cast of voice actors, including Mike Judge. Besides the main game, four mini-games are featured, called Hock-A-Loogie, Court Chaos, Bug Justice, and Air Guitar.",
-          "thumbnail": "https://i.imgur.com/v6p1f8i.png",
-          "background": "https://i.imgur.com/aaxgJw7.png",
-          "longTitle": "Beavis and Butt-Head in Virtual Stupidity (ENG)",
-          "backgroundPixelated": true,
-          "added": 1725736611518
-        },
-        {
-          "props": {
-            "uid": "39e14bb3-25e9-4eea-92fe-87e9e799e3b9",
-            "discs": [
-              "https://drive.google.com/file/d/1KmerSVjXq66duiawmphn8JvqYK_FE7sx/view?usp=sharing"
-            ]
-          },
-          "type": "psx",
-          "title": "Dr. Slump",
-          "description": "An action game, simply titled Dr. Slump (ドクタースランプ), for the PlayStation based on the second television series was released on March 18, 1999, by Bandai.",
-          "thumbnail": "https://i.imgur.com/Gz4d5Cu.png",
-          "background": "https://i.imgur.com/zSTWfr6.png",
-          "longTitle": "Dr. Slump (ENG)",
-          "backgroundPixelated": true,
-          "added": 1725736811637
-        },
-        {
-          "props": {
-            "uid": "d9e4e52b-ac8a-44b4-b0fc-cc2cd08cd53c",
-            "discs": [
-              "https://drive.google.com/file/d/13brpJSlqXXmUUrMrrSsDmtlPCPpvfzDe/view?usp=sharing"
-            ]
-          },
-          "type": "psx",
-          "title": "Friday Night Funkin'",
-          "longTitle": "Friday Night Funkin'",
-          "description": "Friday Night Funkin' (also known as Friday Night Funkin': The Full Ass Game) is a rhythm video game developed by Funkin' Crew Inc. and released on Newgrounds in 2020. The game is developed by a small group called The Funkin' Crew Inc., which consists primarily of Cameron \"ninjamuffin99\" Taylor, David \"PhantomArcade\" Brown, Isaac \"Kawai Sprite\" Garcia, and evilsk8r. The game is also open-source.",
-          "thumbnail": "https://i.imgur.com/E4fMqa7.png",
-          "background": "https://i.imgur.com/BvVrM7a.png",
-          "backgroundPixelated": true,
-          "added": 1725737187269
         }
       ],
       "longTitle": "Sony PlayStation (1995)",
