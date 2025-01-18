@@ -7848,6 +7848,20 @@
           "backgroundPixelated": true,
           "longTitle": "Ultima VIII: Pagan",
           "added": 1737143112610
+        },
+        {
+          "props": {
+            "uid": "0e685ec2-d254-4284-bca6-acd1f56b5719",
+            "archive": "https://drive.google.com/file/d/1kjQjGzmJ8CX-nbPsGrLNHnjvlUSz2gfY/view?usp=sharing"
+          },
+          "type": "scummvm",
+          "title": "Gabriel Knight: Sins of the Fathers",
+          "description": "Gabriel Knight was the first game in the Gabriel Knight series.  The game is set in New Orleans and follows a man named Gabriel Knight who becomes involved in a police investigation of a series of murders that seem to have a connection to Louisiana voodoo.  The murders lead to Gabriel finding out the secret of his family history, and the link to the horrible nightmares he has been suffering since childhood.  Now Gabriel has to embrace his heritage in order to stop the murders, and his nightmares from happening again.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-scummvm-images/master/Named_Titles/resized/Gabriel%20Knight.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-scummvm-images/master/Named_Snaps/output/Gabriel%20Knight.png",
+          "backgroundPixelated": true,
+          "longTitle": "Gabriel Knight: Sins of the Fathers",
+          "added": 1737162111001
         }
       ],
       "description": "ScummVM is a program which allows you to run certain classic graphical adventure and role-playing games, provided you already have their data files. The clever part about this: ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed! ScummVM is a complete rewrite of these games' executables and is not an emulator.",
