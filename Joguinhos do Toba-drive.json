@@ -6262,23 +6262,6 @@
         },
         {
           "props": {
-            "discs": [
-              "https://drive.google.com/file/d/1o_JTkMmBXCyMDIy2VUR2JUExmsP68pnq/view?usp=sharing"
-            ],
-            "sbi": [],
-            "uid": "c8136a8e-d47b-4f97-9744-e7437700c91f"
-          },
-          "type": "psx",
-          "title": "Beavis and Butt-Head in Virtual Stupidity",
-          "description": "Beavis and Butt-Head in Virtual Stupidity is a point-and-click adventure computer game based on the American animated television series created by Mike Judge, Beavis and Butt-Head, that was developed by ICOM Simulations and published by Viacom New Media.\n\nIt featured vocals from the series' cast of voice actors, including Mike Judge. Besides the main game, four mini-games are featured, called Hock-A-Loogie, Court Chaos, Bug Justice, and Air Guitar.",
-          "thumbnail": "https://i.imgur.com/v6p1f8i.png",
-          "background": "https://i.imgur.com/aaxgJw7.png",
-          "longTitle": "Beavis and Butt-Head in Virtual Stupidity (ENG)",
-          "backgroundPixelated": true,
-          "added": 1725736611518
-        },
-        {
-          "props": {
             "uid": "ad8dfa04-f6d3-475d-8431-cbdd301c95e0",
             "discs": [
               "https://archive.org/download/chd_psx/CHD-PSX-USA/Bloody%20Roar%20%28USA%29.chd"
@@ -6452,22 +6435,6 @@
           "backgroundPixelated": true,
           "added": 1693357384428,
           "longTitle": "Dino Crisis 2"
-        },
-        {
-          "props": {
-            "uid": "6def0456-35d2-4111-8868-3bccde70b759",
-            "discs": [
-              "https://archive.org/download/chd_psx/CHD-PSX-USA/Discworld%20II%20-%20Mortality%20Bytes%21%20%28USA%29.chd"
-            ]
-          },
-          "type": "psx",
-          "title": "Discworld II: Mortality Bytes!",
-          "description": "Mortality Bytes casts players again in the role of Rincewind, from the first game.\n\nDeath, the grim reaper, who normally ushers the Discworld inhabitants into the afterlife, is on an extended vacation. This means that those whose \"time is up\" are faltering around in limbo. Now it's up to Rincewind to bring him back or suffer the fate of immortality.\n\nGameplay is divided into 4 Acts. There are many locations to explore and a multitude of obstacles in Rincewind's path to overcome. Conversations with characters and interaction with inventory objects is necessary to move ahead.\n\nThe game features unique humour similar to the previous game.",
-          "thumbnail": "https://i.imgur.com/1Ho6K1M.png",
-          "background": "https://i.imgur.com/aNuvscT.png",
-          "added": 1693357414916,
-          "longTitle": "Discworld II: Mortality Bytes!",
-          "backgroundPixelated": true
         },
         {
           "props": {
@@ -7274,22 +7241,6 @@
           "backgroundPixelated": true,
           "added": 1693359186164,
           "longTitle": "Tekken 3"
-        },
-        {
-          "props": {
-            "uid": "20b4da95-d2fb-4eaa-bbcb-2cb28cebd1e3",
-            "discs": [
-              "https://archive.org/download/chd_psx/CHD-PSX-USA/Terry%20Pratchett%27s%20Discworld%20%28USA%29.chd"
-            ]
-          },
-          "type": "psx",
-          "title": "Terry Pratchett's Discworld",
-          "description": "This adventure game puts the player in the shoes of Rincewind, a wizard whose sole purpose in life is to stay alive. He appears to be very good at it as well, because apparently the universe has decided to continuously challenge him. The game takes place in the humorous fantasy world created by Terry Pratchett. The world is called the Discworld, as it is actually a flat disc carried on the backs of four gigantic elephants, which themselves stand on the back of an even larger turtle.  The story is loosely based on the novel \"Guards! Guards!\". Both in the book and the game, a dragon is summoned by a group of mysterious conspirators and now terrorizes the city state of Ankh-Morpork. Being the most expendable wizard of the Unseen University, Rincewind is given the task to get rid of the beast (only in the game though; in the book, the city's nightwatch has to deal with the problem).  Discworld is a classical point-and-click adventure game with a few original features. For example, Rincewind's inventory is limited to two objects, and the majority of his belongings is stored in the Luggage, an intelligent chest with dozens of little feet. Furthermore, at a certain point in the game the player gains access to a time-traveling device and has to send Rincewind to the past and back in order to solve some of the puzzles.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Terry%20Pratchett's%20Discworld%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Terry%20Pratchett's%20Discworld%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
-          "backgroundPixelated": true,
-          "added": 1693359209235,
-          "longTitle": "Terry Pratchett's Discworld"
         },
         {
           "props": {
