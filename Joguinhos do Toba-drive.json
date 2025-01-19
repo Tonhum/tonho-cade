@@ -4732,12 +4732,12 @@
             "rom": "https://drive.google.com/file/d/17p_PwI6Sdwm8yzmRnNQ0dCSMTXeQFVYq/view?usp=sharing"
           },
           "type": "sms",
-          "title": "Sapo Xule vs. Os Invasores do Brejo",
+          "title": "Sapo Xulé vs. Os Invasores do Brejo",
           "description": "Psycho Fox must get to the right hand side of the level. However, there are many enemies in the way. He can use a Shinto stick to change into characters/animals like a hippopotamus, a monkey or a tiger, each of which has its own special ability. The hippopotamus is slow and cannot jump very high, but can punch through special destructible blocks in the game world. The monkey can jump higher than the other creatures and the tiger can run faster. Psycho also has an ally named Birdfly, who can be used as armor or as a boomerang. If Psycho is hit while carrying Birdfly, Birdfly goes away and the player does not lose a life.",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Sapo%20Xule%20vs.%20Os%20Invasores%20do%20Brejo%20(Brazil).png",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Sapo%20Xule%20vs.%20Os%20Invasores%20do%20Brejo%20(Brazil).png",
           "backgroundPixelated": true,
-          "longTitle": "Sapo Xule vs. Os Invasores do Brejo",
+          "longTitle": "Sapo Xulé vs. Os Invasores do Brejo",
           "added": 1737094043726
         },
         {
@@ -4767,7 +4767,7 @@
           "added": 1697218497038
         },
         {
-          "title": "Ultima IV: Quest of the Avatar",
+          "title": "Última IV",
           "longTitle": "Ultima IV: Quest of the Avatar",
           "type": "sms",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Ultima%20IV%20-%20Quest%20of%20the%20Avatar%20(Europe%2C%20Brazil).png",
@@ -4778,6 +4778,32 @@
             "rom": "https://drive.google.com/file/d/1lMXBtvvMEETV2G42zag2vzqYDRBafP8n/view?usp=sharing"
           },
           "added": 1693335513861
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1NBATCaa5-KYmYhp7CGhQZ0jPzxfGSy_s/view?usp=sharing"
+          },
+          "type": "sms",
+          "title": "Sapo Xulé: S.O.S. Lagoa Poluída",
+          "description": "Basic Sega shoot-em-up in which you must guide your ship through three zones while avoiding hazards. Your only weapon are bullets as your only defense, but if you shoot the flashing red pieces on the terrain, chances are that a green ship will approach you, and if you collect this ship, your weapons will be upgraded so that you shoot a laser beam instead. Keep collecting ships and you can shoot up to three laser beams at once. \n\nAt the end of each zone, you will come across a boss that takes multiple hits to kill. If you manage to conquer all three zones, you are back to where you started. The whole point of this game is to earn as many points you can without losing all of your lives.",
+          "thumbnail": "https://i.imgur.com/P4kAB2G.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Sapo%20Xule%20-%20S.O.S.%20Lagoa%20Poluida%20(Brazil%2C%20Portugal).png",
+          "backgroundPixelated": true,
+          "longTitle": "Sapo Xulé: S.O.S. Lagoa Poluída",
+          "added": 1737304769993
+        },
+        {
+          "props": {
+            "rom": "https://drive.google.com/file/d/1-q5EsHeJoWWc-UKr9eGGGzo1Ve95AWsv/view?usp=sharing"
+          },
+          "type": "sms",
+          "title": "Sapo Xulé: O Mestre do Kung Fu",
+          "description": "Get ready to perform the martial arts with the precision of a master. Now is the time to accept your fate as the most courageous man alive. You're the invincible Wang. The most skilled Kung Fu artist in the history of ancient China. Armed with the mysterious and traditional Talisman, your talents are the only defense against the wicked Madanda, the most dreaded creature to ever live. He's just awakened from a sleep of several thousand years and his desire is to terrorize your village and devour its people. The battle will be furious. And nobody knows the outcome for sure. So fight with pride and power to send this unnatural force to a final resting place.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Sapo%20Xule%20-%20O%20Mestre%20do%20Kung%20Fu%20(Brazil).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Sapo%20Xule%20-%20O%20Mestre%20do%20Kung%20Fu%20(Brazil).png",
+          "backgroundPixelated": true,
+          "longTitle": "Sapo Xulé: O Mestre do Kung Fu",
+          "added": 1737304831449
         }
       ],
       "longTitle": "Sega Master System (1986)",
@@ -5213,7 +5239,7 @@
         },
         {
           "type": "arcade-capcom",
-          "title": "Mega Man: The Power Battle",
+          "title": "Mega Man - The Power Battle",
           "longTitle": "Mega Man: The Power Battle",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Mega%20Man%20-%20the%20power%20battle%20(951006%20USA).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Mega%20Man%20-%20the%20power%20battle%20(951006%20USA).png",
@@ -5358,7 +5384,7 @@
         {
           "type": "arcade-capcom",
           "title": "Street Fighter Zero",
-          "longTitle": "Street Fighter Zero (Brazil)",
+          "longTitle": "Street Fighter Zero",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Street%20Fighter%20Zero%20(951109%20Brazil).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Street%20Fighter%20Zero%20(951109%20Brazil).png",
           "description": "It's Street Fighter as you always remember it, with some new moves, characters and combo systems, as well as a more polished look and feel.\n\nThe new moves available for each fighter, called Super moves, allow them to fire off very powerful moves. A bar at the bottom of the screen represents the power that you have to use for the moves. You start the first round on 0, and each attack that you make adds power to the bar. Once you reach level 3, you can unleash the special attacks, that can sometimes KO the opponant.\n\nThe other major change over the Street Fighter 2 series are the Alpha counters. These can be used to counter an on-coming attack after blocking.",
@@ -5374,7 +5400,7 @@
         {
           "type": "arcade-capcom",
           "title": "Street Fighter Zero 2 Alpha",
-          "longTitle": "Street Fighter Zero 2 Alpha (Brazil)",
+          "longTitle": "Street Fighter Zero 2 Alpha",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Street%20Fighter%20Zero%202%20Alpha%20(960813%20Brazil).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Street%20Fighter%20Zero%202%20Alpha%20(960813%20Brazil).png",
           "backgroundPixelated": true,
@@ -5390,7 +5416,7 @@
         {
           "type": "arcade-capcom",
           "title": "Street Fighter Zero 3",
-          "longTitle": "Street Fighter Alpha 3 (Brazil)",
+          "longTitle": "Street Fighter Alpha 3",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Street%20Fighter%20Alpha%203%20(980629%20Brazil).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Street%20Fighter%20Alpha%203%20(980629%20Brazil).png",
           "description": "Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31 fighters, the most in the series so far. New characters include old favorites E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli.",
