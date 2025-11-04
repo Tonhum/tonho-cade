@@ -9,13 +9,15 @@ if [ -z "$NO_TELEMETRY" ]; then
 fi
 # -----------------------------------------------------
 
-curl -# -L -o main.zip https://github.com/ZFEbHVUE/Batocera-CRT-Script/archive/refs/heads/main.zip && \
+curl -# -L -o main.zip "https://github.com/ZFEbHVUE/Batocera-CRT-Script/archive/refs/heads/main.zip" && \
 unzip -qq main.zip 'Batocera-CRT-Script-main/userdata/system/Batocera-CRT-Script/*' -d /userdata/system/ && \
+rm -rf /userdata/system/Batocera-CRT-Script && \
 mkdir -p /userdata/system/Batocera-CRT-Script && \
-find /userdata/system/Batocera-CRT-Script -mindepth 1 -exec rm -rf {} + && \
 mv /userdata/system/Batocera-CRT-Script-main/userdata/system/Batocera-CRT-Script/* /userdata/system/Batocera-CRT-Script/ && \
-rm main.zip && \
-rm -r /userdata/system/Batocera-CRT-Script-main && \
-chmod 755 /userdata/system/Batocera-CRT-Script/Batocera_ALLINONE/Batocera-CRT-Script-v42.sh && \
+rm -f main.zip && \
+rm -rf /userdata/system/Batocera-CRT-Script-main && \
+chmod 755 \
+  /userdata/system/Batocera-CRT-Script/Batocera_ALLINONE/Batocera-CRT-Script-v42.sh \
+  /userdata/system/Batocera-CRT-Script/Batocera_ALLINONE/crt_script_selfcheck.sh && \
 /userdata/system/Batocera-CRT-Script/Batocera_ALLINONE/Batocera-CRT-Script-v42.sh && \
 ( [ -z "$NO_TELEMETRY" ] && curl -m 3 -fsSL "https://api.counterapi.dev/v1/batocera-crt-script/install_v42_completed/up" >/dev/null 2>&1 || true )
