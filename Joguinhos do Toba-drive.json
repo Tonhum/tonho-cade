@@ -163,7 +163,7 @@
         },
         {
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/liexlzvngaoaxh9l22bde/BS-Dynami-Tracer-Japan-ENG.zip?rlkey=cmitfv43gm90kyommaix7e6aj&dl=1"
+            "rom": "https://drive.google.com/file/d/17FYsALYuxgRaT4jUt8-fXYPXuPG75L91/view?usp=sharing"
           },
           "type": "snes",
           "title": "BS Dynami Tracer",
@@ -176,7 +176,7 @@
         },
         {
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/56drw7pngerkinraefk6j/BS-Zelda-no-Densetsu-Inishie-no-Sekiban-Japan-ENG-Week-1.zip?rlkey=e4qoifbhq9hyzzdqpo0bndsqj&dl=1"
+            "rom": "https://drive.google.com/file/d/1sdpRu9b-dLRjq3_jT_jA0ymv98VFzg3y/view?usp=sharing"
           },
           "type": "snes",
           "title": "BS The Legend of Zelda: Ancient Stone Tablets",
@@ -189,7 +189,7 @@
         },
         {
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/cmroywspiervbuogqywcd/BS-Zelda-no-Densetsu-Inishie-no-Sekiban-Japan-ENG-Week-2.zip?rlkey=ag46amxjv0p87takdiujkiwjc&dl=1"
+            "rom": "https://drive.google.com/file/d/19d14F0DAjeWcrF3v03WUdsG9nnMfezGV/view?usp=sharing"
           },
           "type": "snes",
           "title": "BS The Legend of Zelda: Ancient Stone Tablets",
@@ -202,7 +202,7 @@
         },
         {
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/7brvgyeg15cnnj4zqr5sl/BS-Zelda-no-Densetsu-Inishie-no-Sekiban-Japan-ENG-Week-3.zip?rlkey=nye1hpf2jqbte8a11lrqwfm6s&dl=1"
+            "rom": "https://drive.google.com/file/d/1C5OL7bith2AOBNV8huEZScFbZcKfc8ha/view?usp=sharing"
           },
           "type": "snes",
           "title": "BS The Legend of Zelda: Ancient Stone Tablets",
@@ -215,7 +215,7 @@
         },
         {
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/zfjft3fhpnpsh35m51h1m/BS-Zelda-no-Densetsu-Inishie-no-Sekiban-Japan-ENG-Week-4.zip?rlkey=rqf7j7zbypchvlepb271wy6kp&dl=1"
+            "rom": "https://drive.google.com/file/d/11wz_f1k2ke0De8KpSmVzsUpTZqpIOAl7/view?usp=sharing"
           },
           "type": "snes",
           "title": "BS The Legend of Zelda: Ancient Stone Tablets",
@@ -628,19 +628,6 @@
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/International%20Superstar%20Soccer%20Deluxe%20(USA).png",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/International%20Superstar%20Soccer%20Deluxe%20(USA).png",
           "backgroundPixelated": true
-        },
-        {
-          "props": {
-            "rom": "https://www.dropbox.com/scl/fi/2zexb0cbtpvgc6dp0up96/Futebol-Brasileiro-2023.zip?rlkey=vg1bvuzabm3lrfm5455xt47eg&dl=1"
-          },
-          "type": "snes",
-          "title": "Futebol Brasileiro 2023",
-          "added": 1697744811236,
-          "description": "It's a whole new ball game... Reallistic prites with 36 teams featuring recognisable celebrity players. Increased CPU intelligence to challenge beginners and experts alike. Choose from 15 formations, 8 strategies, 20 players and 9 adjustable player skills. Four way play possible with adaptor.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/International%20Superstar%20Soccer%20Deluxe%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/International%20Superstar%20Soccer%20Deluxe%20(Europe).png",
-          "backgroundPixelated": true,
-          "longTitle": "Futebol Brasileiro 2023"
         },
         {
           "props": {
@@ -3888,7 +3875,7 @@
         },
         {
           "props": {
-            "rom": "https://www.dropbox.com/scl/fi/tgirucx066cuog15f4oj3/Cave-Story-PC-Demake-PT-BR.zip?rlkey=p9nt9f34fr851q5ailkfequie&dl=1"
+            "rom": "https://drive.google.com/file/d/1Upf1B86wpyXsgzV0jTAg81Lrezo67FCn/view?usp=sharing"
           },
           "type": "genesis",
           "title": "Cave Story",
