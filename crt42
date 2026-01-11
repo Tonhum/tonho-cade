@@ -21,3 +21,5 @@ chmod 755 \
   /userdata/system/Batocera-CRT-Script/Batocera_ALLINONE/crt_script_selfcheck.sh && \
 /userdata/system/Batocera-CRT-Script/Batocera_ALLINONE/Batocera-CRT-Script-v42.sh && \
 ( [ -z "$NO_TELEMETRY" ] && curl -m 3 -fsSL "https://api.counterapi.dev/v1/batocera-crt-script/install_v42_completed/up" >/dev/null 2>&1 || true )
+
+#Shortened URL: https://tinyurl.com/batocera-crt-42
