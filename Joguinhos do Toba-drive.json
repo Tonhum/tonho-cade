@@ -12,7 +12,8 @@
       "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5502.bin"
     ],
     "threedo_bios": "https://drive.google.com/file/d/1fxhDUREtN4KjQcJOhGK_Eb_3sk5iIKdy/view?usp=sharing",
-    "neogeocd_bios": "https://drive.google.com/file/d/1oYzNOb-mfyiQYhG1EurM4kuy-0YDLei7/view?usp=sharing"
+    "neogeocd_bios": "https://drive.google.com/file/d/1oYzNOb-mfyiQYhG1EurM4kuy-0YDLei7/view?usp=sharing",
+    "saturn_bios": "https://drive.google.com/file/d/1xg0joznQbYdiKxTACJW_RZ7Qa8w8IYJQ/view?usp=sharing"
   },
   "categories": [
     {
@@ -4919,6 +4920,207 @@
       "thumbnail": "https://i.imgur.com/5jhzilS.png",
       "background": "https://i.imgur.com/FpTP39g.png",
       "backgroundPixelated": true
+    },
+    {
+      "title": "Saturn",
+      "longTitle": "Sega Saturn (1995)",
+      "description": "The Sega Saturn is a home video game console developed by Sega and released on November 22, 1994, in Japan, May 11, 1995, in North America, and July 8, 1995, in Europe. Part of the fifth generation of video game consoles, it is the successor to the successful Genesis. The Saturn has a dual-CPU architecture and eight processors. Its games are in CD-ROM format, including several ports of arcade games and original games. ",
+      "items": [
+        {
+          "props": {
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Astal%20%28US%29.chd"
+            ],
+            "uid": "b2d3b5a0-c2e1-48ca-99d1-204dc6173b34"
+          },
+          "type": "saturn",
+          "title": "Astal",
+          "description": "A launch-window 2D side-scroller that showcases the Saturn's 2D capabilities with large, hand-drawn sprites and colorful backgrounds. Players control Astal, who must use his immense strength and a bird companion to rescue Leda. It is praised for its beautiful artistic direction and rich graphical details.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Astal%20(USA)%20(2S).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Astal%20(USA)%20(2S).png",
+          "backgroundPixelated": true,
+          "longTitle": "Astal",
+          "added": 1775092443456
+        },
+        {
+          "props": {
+            "uid": "e5f99e30-851e-4743-abd2-eb4da3f95af4",
+            "discs": [
+              "https://drive.google.com/file/d/1dTj7Z0NfyHtihIkNztvSwdU7cyNP3TsR/view?usp=sharing"
+            ]
+          },
+          "type": "saturn",
+          "title": "Bulk Slash",
+          "description": "A cult classic third-person mech shooter. Players pilot a transformable mech (S.L.A.S.H.) through open 3D environments to liberate a planet from a military coup. The game features a colorful anime cast (Navigators) who join you in the cockpit, providing voiced commentary and buffs. It is praised for its fast, smooth 3D action.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Bulk%20Slash%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Bulk%20Slash%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "Bulk Slash (ENG)",
+          "added": 1775092967825
+        },
+        {
+          "props": {
+            "uid": "30c41a80-dde0-4cee-84bb-37acb40bf53f",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Daytona%20USA%20%28US%29.chd"
+            ]
+          },
+          "type": "saturn",
+          "title": "Daytona USA",
+          "description": "The first home port of Sega’s legendary Model 2 arcade racer. As a launch-era title in Japan, it was a showcase for the Saturn's ability to handle texture-mapped 3D polygons. Players race the iconic Hornet car across three tracks: Three-Seven Speedway, Dinosaur Canyon, and Sea-Side Street. Despite having a lower frame rate than the arcade, it famously retained the 'vocal' soundtrack that became a hallmark of the franchise.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Daytona%20USA%20v1.000%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Daytona%20USA%20v1.000%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "Daytona USA",
+          "added": 1775093015123
+        },
+        {
+          "props": {
+            "uid": "906388fd-77a9-45a5-8acf-81e52d888fa5"
+          },
+          "type": "saturn",
+          "title": "Die Hard Arcade",
+          "description": "Known as Dynamite Deka in Japan, Die Hard Arcade is a 3D side-scrolling beat 'em up that serves as a spiritual successor to games like Streets of Rage. Players control John McClane (or Kris Thompsen) as they fight through a skyscraper to rescue the president's daughter. The game is famous for its 'Quick Time Events' during cinematic transitions and its wide variety of improvised weapons, including grandfather clocks and pepper shakers. The Saturn port is a perfect translation of the ST-V arcade original.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Die%20Hard%20Arcade%20v1.001%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Die%20Hard%20Arcade%20v1.001%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Die Hard Arcade",
+          "added": 1775093044259
+        },
+        {
+          "props": {
+            "uid": "ca8d87a6-4a7a-478c-b463-b5e4d231c5d2",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Guardian%20Heroes%20%28US%29.chd"
+            ]
+          },
+          "type": "saturn",
+          "title": "Guardian Heroes",
+          "description": "A legendary title from Treasure, Guardian Heroes blends traditional side-scrolling beat 'em up action with deep RPG elements and a branching narrative path. Players can choose from multiple characters, each with a massive move list inspired by 2D fighting games. The game features a unique 'three-plane' movement system and massive battles involving dozens of sprites on screen at once. With over 30 possible endings and a chaotic six-player versus mode, it is frequently cited as one of the greatest games in the Saturn's entire library.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Guardian%20Heroes%20v1.000%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Guardian%20Heroes%20v1.000%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Guardian Heroes",
+          "added": 1775093087312
+        },
+        {
+          "props": {
+            "uid": "49cabb3b-16ee-4486-a4ac-76c3264e259c",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/The%20House%20of%20the%20Dead%20%28US%29.chd"
+            ]
+          },
+          "type": "saturn",
+          "title": "House of the Dead, The",
+          "description": "The home port of Sega’s legendary arcade light gun shooter. Players navigate a zombie-infested mansion, blasting through waves of undead and grotesque bosses. The game is famous for its branching paths—which change based on whether the player rescues civilians—and its fast-paced, visceral combat. While the Saturn version suffers from some graphical compromises compared to the arcade, it remains a highly playable and essential part of the system's light gun library, especially when played with the Virtua Gun.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/House%20of%20the%20Dead%2C%20The%20v1.001%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/House%20of%20the%20Dead%2C%20The%20v1.001%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "House of the Dead, The",
+          "added": 1775093119516
+        },
+        {
+          "props": {
+            "uid": "591966dc-7fec-43d5-9a75-010681cf5217",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/The%20Legend%20of%20Oasis%20%28US%29.chd"
+            ]
+          },
+          "type": "saturn",
+          "title": "Legend of Oasis, The",
+          "description": "A prequel to the Genesis classic Beyond Oasis (The Story of Thor), Legend of Oasis is a top-down action-adventure game featuring stunning 2D sprite work and large, colorful environments. Players control Leon, who must master the powers of six elemental spirits to stop an ancient evil. The game is a mix of Zelda-style exploration and beat 'em up combat, featuring complex puzzles and massive screen-filling bosses. The US version is highly sought after for its vibrant art style and smooth, responsive gameplay.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Legend%20of%20Oasis%2C%20The%20v1.002%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Legend%20of%20Oasis%2C%20The%20v1.002%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Legend of Oasis, The",
+          "added": 1775093152669
+        },
+        {
+          "props": {
+            "uid": "1a2574c0-976e-4d18-893a-5a572db6d37d",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/NiGHTS%20into%20Dreams...%20%28US%20-%20BR%29.chd"
+            ]
+          },
+          "type": "saturn",
+          "title": "NiGHTS into Dreams...",
+          "description": "A masterpiece from Sonic Team, NiGHTS into Dreams is a high-flying score-attack game set in a dream world. Players control NiGHTS as they glide through 3D loops, collecting 'blue chips' and 'Paralooping' enemies to clear stages. The game is designed for the Saturn 3D Control Pad, offering fluid, 360-degree analog movement that was revolutionary at the time. The European version captures the game's whimsical atmosphere and soaring orchestral soundtrack, providing an experience that is both relaxing and intensely competitive.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Nights%20Into%20Dreams...%20v1.001%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Nights%20Into%20Dreams...%20v1.001%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "NiGHTS into Dreams...",
+          "added": 1775093217988
+        },
+        {
+          "props": {
+            "uid": "78cab79e-981b-4101-bb6b-90aa38442bd7",
+            "discs": [
+              "https://drive.google.com/file/d/1QvLLioPOLzcX9AfiFzdvEsCI1JLrh1mz/view?usp=sharing",
+              "https://drive.google.com/file/d/16vaQXgtOIAUQWp-XPZCJGDeKe36grh3v/view?usp=sharing",
+              "https://drive.google.com/file/d/1dvelM6kPf5dqoNnRxicxF2oMPLTmQonP/view?usp=sharing"
+            ]
+          },
+          "type": "saturn",
+          "title": "Policenauts",
+          "description": "A sci-fi cinematic adventure game by Hideo Kojima. Players take on the role of Jonathan Ingram, an astronaut detective, investigating a murder on a space colony. It features shooting segments and point-and-click investigation. The Saturn version adds light gun support and runs at a higher frame rate during FMVs.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Policenauts%20(Japan)%20(Disc%201).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Policenauts%20(Japan)%20(Disc%201).png",
+          "backgroundPixelated": true,
+          "longTitle": "Policenauts (ENG)",
+          "added": 1775093270213
+        },
+        {
+          "props": {
+            "uid": "3d3f3298-9eaf-4fef-96ac-0e2cbdc447f4",
+            "discs": [
+              "https://drive.google.com/file/d/1qV9asi5nee7yrVmYOFtcnjuKvqJwQuAf/view?usp=sharing"
+            ]
+          },
+          "type": "saturn",
+          "title": "Princess Crown",
+          "description": "Developed by Atlus (specifically the team that would become Vanillaware), this gorgeous 2D action RPG features huge, beautifully animated sprites. Players control Princess Gradriel as she solves problems in her kingdom. It is the spiritual predecessor to Odin Sphere.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Princess%20Crown%20(Japan)%20(1M).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Princess%20Crown%20(Japan)%20(1M).png",
+          "backgroundPixelated": true,
+          "longTitle": "Princess Crown (ENG)",
+          "added": 1775093302702
+        },
+        {
+          "props": {
+            "uid": "194faea2-d813-4f1d-a22b-618ad8192325",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Saturn%20Bomberman%20%28US%29.chd"
+            ]
+          },
+          "type": "saturn",
+          "title": "Saturn Bomberman",
+          "description": "Saturn Bomberman is widely considered the best entry in the entire franchise. It is famous for its massive 10-player local multiplayer mode (requiring two multitaps), which utilizes the Saturn's high-resolution wide-screen mode. The game features a long story mode with branching paths, various dinosaur mounts (Tirras) with unique abilities, and classic grid-based gameplay. The European version preserves the frantic and addictive gameplay that makes it a must-have title for party gaming on the system.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Saturn%20Bomber%20Man%20v1.000%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Saturn%20Bomber%20Man%20v1.000%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Saturn Bomberman",
+          "added": 1775093353068
+        },
+        {
+          "props": {
+            "uid": "61e65958-f100-4d7b-b95c-1d401710dee7",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Sega%20Rally%20Championship%20%28US%29.chd"
+            ]
+          },
+          "type": "saturn",
+          "title": "Sega Rally Championship",
+          "description": "Sega Rally is an iconic arcade racer that defined the rally genre on the Saturn. Featuring three tracks (Desert, Forest, and Mountain) and two legendary cars (the Toyota Celica and Lancia Stratos), the game focuses on mastering the art of the 'power slide.' The handling model is highly praised for its responsiveness and the way it simulates different driving surfaces like mud, gravel, and asphalt. The European version is a technical masterclass, maintaining a rock-solid 30FPS with minimal pop-in, serving as a flagship title for the console's 3D capabilities.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Sega%20Rally%20Championship%20v1.000%20(Europe)%5BMK81207P626%20P4H%5D.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Sega%20Rally%20Championship%20v1.000%20(Europe)%5BMK81207P626%20P4H%5D.png",
+          "backgroundPixelated": true,
+          "longTitle": "Sega Rally Championship",
+          "added": 1775093388402
+        }
+      ],
+      "thumbnail": "https://i.imgur.com/3RxZBPT.png",
+      "backgroundPixelated": true,
+      "background": "https://i.imgur.com/kcw1w7J.png"
     },
     {
       "title": "Arcade",
