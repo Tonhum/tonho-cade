@@ -1,0 +1,49 @@
+# Quick check links:
+# Value: https://api.counterapi.dev/v2/Batocera_CRT_Script/batocera-crt-script-v43
+# Stats: https://api.counterapi.dev/v2/Batocera_CRT_Script/batocera-crt-script-v43/stats
+#
+# Increment endpoint:
+# https://api.counterapi.dev/v2/Batocera_CRT_Script/batocera-crt-script-v43/up
+
+# --- Anonymous install counter (CounterAPI.dev V2) ---
+# Set NO_TELEMETRY=1 to skip. No PII; just increments a public counter.
+COUNTERAPI_BASE="https://api.counterapi.dev/v2/Batocera_CRT_Script/batocera-crt-script-v43"
+
+counterapi_up() {
+  [ -n "$NO_TELEMETRY" ] && return 0
+
+  if [ -n "$COUNTERAPI_KEY" ]; then
+    curl -m 3 -fsSL "$COUNTERAPI_BASE/up" \
+      -H "Authorization: Bearer $COUNTERAPI_KEY" \
+      >/dev/null 2>&1 || true
+  else
+    curl -m 3 -fsSL "$COUNTERAPI_BASE/up" \
+      >/dev/null 2>&1 || true
+  fi
+}
+# -----------------------------------------------------
+
+echo
+echo "Downloading Batocera CRT Script files..."
+echo
+
+curl --fail --location --progress-bar \
+  --connect-timeout 15 \
+  --retry 3 \
+  --retry-delay 2 \
+  --output main.zip \
+  "https://github.com/ZFEbHVUE/Batocera-CRT-Script/archive/refs/heads/main.zip" && \
+echo && \
+echo "Download complete." && \
+echo && \
+unzip -qq main.zip 'Batocera-CRT-Script-main/userdata/system/Batocera-CRT-Script/*' -d /userdata/system/ && \
+rm -rf /userdata/system/Batocera-CRT-Script && \
+mkdir -p /userdata/system/Batocera-CRT-Script && \
+mv /userdata/system/Batocera-CRT-Script-main/userdata/system/Batocera-CRT-Script/* /userdata/system/Batocera-CRT-Script/ && \
+rm -f main.zip && \
+rm -rf /userdata/system/Batocera-CRT-Script-main && \
+chmod 755 \
+  /userdata/system/Batocera-CRT-Script/Batocera_ALLINONE/Batocera-CRT-Script-v43.sh \
+  /userdata/system/Batocera-CRT-Script/Batocera_ALLINONE/crt_script_selfcheck.sh && \
+/userdata/system/Batocera-CRT-Script/Batocera_ALLINONE/Batocera-CRT-Script-v43.sh && \
+counterapi_up
